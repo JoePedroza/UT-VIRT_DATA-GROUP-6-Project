@@ -1,0 +1,3 @@
+SECRET_KEY = "fdsafasd"
+UPLOAD_FOLDER = "resources"
+MAX_CONTENT_LENGTH = 16 * 1024 * 1024
