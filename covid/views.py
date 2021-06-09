@@ -7,6 +7,12 @@ from .models import Greeting
 def index(request):    
     return render(request, "index.html")
 
+def public(request):    
+    return render(request, "public_page.html")
+
+def submitted(request):    
+    return render(request, "submitted.html")
+
 
 def db(request):
 

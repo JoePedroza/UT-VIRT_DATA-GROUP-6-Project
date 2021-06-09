@@ -17,5 +17,6 @@ import covid.views
 urlpatterns = [
     path("", covid.views.index, name="index"),
     path("db/", covid.views.db, name="db"),
-    path("admin/", admin.site.urls),
+    path("public/", covid.views.public, name="public"),
+    path("submitted/", covid.views.submitted, name="submitted"),    
 ]
