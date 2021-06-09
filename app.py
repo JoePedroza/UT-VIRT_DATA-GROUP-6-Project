@@ -37,7 +37,7 @@ def COVID_413(error):
 def COVID_root():
     return render_template("index.html")
 
-@app.route("/submitted", methods=["GET", "POST"])
+@app.route("/submitted/", methods=["GET", "POST"])
 def hello():
     if request.method == "GET":
         return render_template("index.html") 
