@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 {% load static %}
-{% block page_title %}CParticulate Matter and Covid-19 Outcome{% endblock %}
+{% block page_title %}Particulate Matter and Covid-19 Outcome{% endblock %}
 {% block body %}
 <div class="jumbotron text-center">
     <div class="container">
@@ -9,6 +9,20 @@
     <p>Early studies have shown that there is a positive correlation between air pollution and spread of the virus. A major component of air pollution is particulate matter -- a complex heterogeneous mixture of particles suspended in the air. This particulate matter exists in different sizes and shapes and can act as a carrier through the aerosol, transmitting the virus and increasing its spread. Specifically, the particulate matter of size 2.5 (aka fine particles) can reach the lower respiratory system and cause health issues. Therefore, studies have shown that increased concentrations of fine particles matter can cause elevated susceptibility to respiratory disease. Thus, may exacerbate the symptoms caused by COVID-19 and increase hospitalizations and deaths due to COVID-19.
     </p>
     <p>We would like to determine whether higher concentrations of particulate matter 2.5 is associated with increased COVID-19 hospitalizations and deaths</p>
+
+    
+    </div>
+    <div>
+        <section>
+            <br>
+            <form class="teamSelection" method="POST" action="/submitted">  
+               <select class="teamForm" id="teamDropdownSelector" type="text" name="teamDropdown" placeholder="Select A Team">
+                    <option disabled selected>Select a game</option>
+                    <option id="WatfordVSManchester Utd" value="">Watford VS Manchester Utd</option>
+               </select>
+               <input class="btn" type="submit" value="submit">
+            </form>
+        </section>
 
     </div>
 </div>
