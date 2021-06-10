@@ -40,6 +40,6 @@ or
 
 ## Documentation
 
-For more information about using Python on Heroku, see these Dev Center articles:
+---go to:
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
