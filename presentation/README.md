@@ -18,8 +18,8 @@ Health, education and income - among numerous other factors - influence quality 
 ## Work as a Team
 As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
 
-T help our team reach our goal for this segment of the project, we've assigned roles which are outlined below:
-- Square: The team member in the square role will be responsible for the repository. (Ibrahim)
+To help our team reach our goal for this segment of the project, we've assigned roles which are outlined below:
+- Square: The team member in the square role will be responsible for the repositor. (Ibrahim)
 
 - Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps. (Robert)
 
