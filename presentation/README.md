@@ -47,12 +47,6 @@ Our model will use logistic regression to predict a binary outcome - two possibl
 Again, the logistic regression model analyzes the available data, and when presented with user information, mathematically determines its probability of belonging to class 0 or class 1. If the probability is above a certain cutoff point, the sample is assigned to class 1. If the probability is less than the cutoff point, the sample is assigned to class 0.
 
 ## Database Integration
-Pulling data from census.gov using following api:
-- ACS (American Community Service) API (Possible dataset)
-- PEP (Population Estimates and Projections 2010-2019) API
-- - https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP,RACE,SEX,AGEGROUP&for=state:*
-- PSEO (Post-Secondary Employment Outcomes) API
-- - https://api.census.gov/data/timeseries/pseo/earnings?get=Y1_P50_EARNINGS,Y1_P25_EARNINGS,Y1_P75_EARNINGS,Y1_GRADS_EARN,Y5_P50_EARNINGS,Y5_P25_EARNINGS,Y5_P75_EARNINGS,Y5_GRADS_EARN,Y10_P50_EARNINGS,Y10_P25_EARNINGS,Y10_P75_EARNINGS,Y10_GRADS_EARN,Y1_IPEDS_COUNT,Y5_IPEDS_COUNT,Y10_IPEDS_COUNT,INSTITUTION,INST_STATE,DEGREE_LEVEL,CIP_LEVEL,CIPCODE,GRAD_COHORT
 
 ### Database Design
 
