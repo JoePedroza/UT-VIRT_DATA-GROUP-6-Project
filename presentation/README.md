@@ -54,6 +54,7 @@ Again, the logistic regression model analyzes the available data, and when prese
 ![](Resources/PSEO_Variables.png)
 
 
-
+# Google Slide Draft
+[Google Slide Draft presentation](https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit#slide=id.p).
 
 
