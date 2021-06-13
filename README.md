@@ -1,3 +1,14 @@
+# UT-VIRT-DATA-Group-6-Project
+
+### Segment Overview
+In segment one we'll complete the following tasks:
+- Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
+- Define roles between team members and establish a team communication structure
+- Source a dataset, and begin to clean, organize, and perform exploratory data analysis
+- Create mockups of a machine learning model, a database, and a firm grasp of how you want these different pieces to interact
+
+
+
 # Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
