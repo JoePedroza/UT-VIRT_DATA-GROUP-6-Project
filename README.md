@@ -1,45 +1,108 @@
-# Python: Getting Started
+# UT-VIRT-DATA-Group-6-Project
 
-A barebones Django app, which can easily be deployed to Heroku.
+## Table of contents
 
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+* [Project Overview](#Project-Overview)
+* [Selected topic](#Selected-topic)
+* [Reason topic was selected](#Reason-topic-was-selected)
+* [Description of the source of data](#Description-of-the-source-of-data)
+* [Questions the team hopes to answer with the data](#Questions-the-team-hopes-to-answer-with-the-data)
+* [Description of the data exploration phase of the project](#Description-of-the-data-exploration-phase-of-the-project)
+* [Description of the analysis phase of the project](#Description-of-the-analysis-phase-of-the-project).
+* [Technologies, Languages, tools, and algorithms used throughout the project](#Technologies-Languages-tools-and-algorithms-used-throughout-the-project)
 
-## Running Locally
 
-Make sure you have Python 3.9 [installed locally](https://docs.python-guide.org/starting/installation/). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), as well as [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
+## Description of the project
 
-```sh
-$ git clone https://github.com/heroku/python-getting-started.git
-$ cd python-getting-started
+The project is divided into four parts. The project will show case skills gained through this Boot Camp and be ready to apply them in real life
 
-$ python3 -m venv getting-started
-$ pip install -r requirements.txt
+1. First part:
 
-$ createdb python_getting_started
+    - Select a topic for the project (i.e. questions we hope to answer using our datasets()).
+    - Create a repository for the project and invite the other team members to join.
+    - Source a dataset or datasets that will suit our needs.
+    - Clean, organize, and perform exploratory data analysis on our dataset(s) so that they're ready for analysis.
+    - Build a simple model and connect to a fake dataset(s).
 
-$ python manage.py migrate
-$ python manage.py collectstatic
+2. Second part:
 
-$ heroku local
-```
+    - Continue on the foundation layered out in the first part.
+    - Continue on training the model.
+    - Build the database for use on the final presentation.
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+3. Third part:
 
-## Deploying to Heroku
+    - Coonect model to the database.
+    - Continue on training the model.
+    - Create the dashboard and the presentation.
 
-```sh
-$ heroku create
-$ git push heroku main
+4. Fourth part:
 
-$ heroku run python manage.py migrate
-$ heroku open
-```
-or
+    - Review the first-three parts and make any changes necessary.
+    - Present your project milstones.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+## Project Topic: Particulate Matter and COVID-19 Outcomes
 
-## Documentation
+### Overview of the project
 
----go to:
+1. Presentation
+   We'll prepare a Google slides where we touch bases on the following:
+   - Selected topic
+   - Reason topic was selected
+   - Description of the source of data
+   - Questions the team hopes to answer with the data
+   - Description of the data exploration phase of the project
+   - Description of the analysis phase of the project
+   - Technologies, languages, tools, and algorithms used throughout the project
 
-- [Python on Heroku](https://devcenter.heroku.com/categories/python)
+GitHub
+Machine learning model
+Database
+Dashboard
+
+Air pollution is a major public health concern due to its negative impact on individual and population health. A major component of air pollution is particulate matter (PM), which is the solid and liquid particles suspended in air. PM can enter the body through various route depending on the size, shape, and concentration. However, the most common route is inhalation, which negatively affect areas of the respiratory, cardiovascular, cardiopulmonary, and reproductive systems.
+
+![ParticulateMatter](Resources/ParticulateMatter.jpg)
+
+PM 2.5, for example, can reach the lower respiratory system. Studies have shown that increased concentrations of fine particulate matter can cause elevated susceptibility to respiratory disease. This, in turn, may exascerbate the symptoms caused by COVID-19, and increase hospitalizations and deaths due to COVID-19.
+
+### Project Objective: The Question We Hope to Answer
+
+For our final project, we have chosen to create a machine learning model to assess the relationship between PM2.5 (atmospheric particulate matter with diameter less than 2.5 μm) and the clinical outcomes of COVID-19. The question we hope to answer is as follows: does increased concentrations of particulate matter contribute to an increase in the severity of COVID-19 symptoms, and lead to higher hospitalization and death rates?
+
+### Why We Selected This Topic
+
+We selected this topic (PM 2.5 and COVID-19) becuase this disease has had an immense impact on the world. Understanding what exascerbates COVID-19 symptoms - contributes to COVID associated hospitalizations and death - is an important and fascinating area of study. This is also a great opportunity to exercise the skills we've learned in our data analysis program.
+
+## Machine Learning Model(see Covid_PM_Model.ipynb for basic script outline)
+
+Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+
+- Takes in data from the provisional database
+- Outputs label for input data
+
+The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
+
+Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
+
+ We'll take the following steps to use a logistic regression model:
+
+- Create a model with LogisticRegression().
+- Train the model with model.fit().
+- Make predictions with model.predict().
+- Validate the model with accuracy_score().
+
+## Database Integration
+
+Pulling data from covidactnow.org and US EPA using following api:
+
+- [covidactnow.org](apidocs.covidactnow.org)
+- [United States Evironmental Protection Agency](https://www.epa.gov/air-trends/air-quality-cities-and-counties)
+
+## Database Design
+
+![CovidDatabaseDesign](Resources/CovidProjectDatabaseDesign.png)
+
+## Google Slide Draft
+
+[Google Slide Draft presentation](https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit#slide=id.p)
