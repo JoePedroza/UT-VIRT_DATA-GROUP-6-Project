@@ -26,6 +26,22 @@ T help our team reach our goal for this segment of the project, we've assigned r
 
 - X: The member in the X role will decide which technologies will be used for each step of the project. (Edgar)
 
+## Machine Learning Model (see Covid_PM_Model.ipynb for basic script outline)
+Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+
+- Takes in data from the provisional database
+- Outputs label for input data
+
+The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
+
+Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
+
+ We'll take the following steps to use a logistic regression model:
+
+- Create a model with LogisticRegression().
+- Train the model with model.fit().
+- Make predictions with model.predict().
+- Validate the model with accuracy_score().
 
 
 ## Python: Getting Started
