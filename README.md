@@ -1,5 +1,9 @@
 # UT-VIRT-DATA-Group-6-Project
 
+## Project objective
+
+build a machine learning model that predicts, base on the size amd concentration of particulate matter inhaled, number of hopitalizations or deaths due to COVID-19 symptoms.
+
 ## Table of contents
 
 * [Project Overview](#Project-Overview)
