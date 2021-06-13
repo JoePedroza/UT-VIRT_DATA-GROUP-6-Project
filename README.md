@@ -52,7 +52,7 @@ Pulling data from covidactnow.org and US EPA using following api:
 
 ### Database Design
 
-![](Resources/CovidProjectDatabaseDesign.png)
+![](Resources/CovidProjectDatabaseDesign.PNG)
 
 
 ### Google Slides
