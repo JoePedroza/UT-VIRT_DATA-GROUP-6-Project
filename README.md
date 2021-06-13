@@ -14,6 +14,18 @@ Air pollution is a major public health concern due to its negative impact on ind
 
 We have chosen PM 2.5, specifically, because this size of particulate matter can reach the lower respiratory system. Studies have shown that increased concentrations of fine particulate matter can cause elevated susceptibility to respiratory disease. This, in turn, may exascerbate the symptoms caused by COVID-19, and increase hospitalizations and deaths due to COVID-19.
 
+## Work as a Team
+As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
+
+T help our team reach our goal for this segment of the project, we've assigned roles which are outlined below:
+- Square: The team member in the square role will be responsible for the repository. (Ibrahim)
+
+- Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps. (Robert)
+
+- Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data. This will ensure the database will work seamlessly with the rest of the project. (Joe)
+
+- X: The member in the X role will decide which technologies will be used for each step of the project. (Edgar)
+
 
 
 ## Python: Getting Started
