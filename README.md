@@ -43,6 +43,24 @@ Our model will use logistic regression to predict a binary outcome - two possibl
 - Make predictions with model.predict().
 - Validate the model with accuracy_score().
 
+## Database Integration
+Pulling data from covidactnow.org and US EPA using following api:
+- apidocs.covidactnow.org
+- United States Evironmental Protection Agency
+- - https://www.epa.gov/air-trends/air-quality-cities-and-counties
+
+
+### Database Design
+
+![](Resources/CovidProjectDatabaseDesign.png)
+
+
+### Google Slides
+https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
+
+### Dashboard
+https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
+
 
 ## Python: Getting Started
 
