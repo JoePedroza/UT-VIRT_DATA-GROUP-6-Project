@@ -29,7 +29,7 @@ A blueprint for the dashboard is created and includes all of the following:
 
 
 
-### Segment One Tasks
+# Segment One
 In segment one we'll complete the following tasks:
 - Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
 - Define roles between team members and establish a team communication structure
