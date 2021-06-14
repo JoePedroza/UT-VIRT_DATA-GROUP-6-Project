@@ -8,7 +8,15 @@
 - Dashboard 
 
 ## Presentation
+Here is a link to our google slides presentation
+- https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
 
+The presentation outlines the project, including the following:
+✓ Selected topic
+✓ Reason why they selected their topic ✓ Description of their source of data
+✓ Questions they hope to answer with the data
+✓ Description of the data exploration phase of the project
+✓ Description of the analysis phase of the project
 
 ## Github
 
@@ -21,7 +29,7 @@
 
 ## Dashboard
 - See our storyboard on Google Slides Presentation
-- Chekcout the in-progress dashboard at the following link:
+- Checkout our dashboard at the following link:
 https://ut-covid-project.herokuapp.com/
 - Below is the description of the dashboards interactive element(s)
 
