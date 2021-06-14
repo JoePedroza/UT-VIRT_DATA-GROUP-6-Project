@@ -4,3 +4,4 @@ django
 gunicorn
 django-heroku
 fsspec
+pandas
