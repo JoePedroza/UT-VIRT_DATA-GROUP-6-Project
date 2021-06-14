@@ -11,6 +11,9 @@
 Here is a link to our google slides presentation
 - https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
 
+Also, checkout our dashboard at the following link:
+https://ut-covid-project.herokuapp.com/
+
 The presentation outlines the project, and includes the following:
 - Selected topic
 - Reason why they selected their topic
