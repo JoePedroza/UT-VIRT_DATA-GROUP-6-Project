@@ -20,13 +20,14 @@
 
 
 ## Dashboard
-
-- Description of the tool(s) that will be used to create final dashboard.
-- Storyboard on Google Slide(s)
-- Description of interactive element(s)
-
-See our in-progress dashboard at the following link:
+- See our storyboard on Google Slides Presentation
+- Chekcout the in-progress dashboard at the following link:
 https://ut-covid-project.herokuapp.com/
+- Below is the description of the dashboards interactive element(s)
+
+
+### Description of the tool(s) that will be used to create final dashboard.
+
 
 
 ### Python: Getting Started
