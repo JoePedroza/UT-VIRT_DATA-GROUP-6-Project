@@ -30,6 +30,17 @@ Team members submit the code for their machine learning model, as well as the fo
 - Description of how data was split into training and testing sets
 - Explanation of model choice, including limitations and benefits
 
+The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
+
+Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
+
+ We'll take the following steps to use a logistic regression model:
+
+- Create a model with LogisticRegression().
+- Train the model with model.fit().
+- Make predictions with model.predict().
+- Validate the model with accuracy_score().
+
 ## Database
 Team members present a fully integrated database.
 - Database stores static data for use during the project
@@ -38,6 +49,16 @@ Team members present a fully integrated database.
 - Includes at least one join using the database language (not including any joins in Pandas)
 - Includes at least one connection string (using SQLAlchemy or PyMongo)
 Note: If you use a SQL database, you must provide your ERD with relationships.
+
+Pulling data from covidactnow.org and US EPA using following api:
+- apidocs.covidactnow.org
+- United States Evironmental Protection Agency
+- https://www.epa.gov/air-trends/air-quality-cities-and-counties
+
+
+### Database Design
+
+![](Resources/CovidProjectDatabaseDesign.PNG)
 
 ## Dashboard
 
