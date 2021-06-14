@@ -66,12 +66,10 @@ Pulling data from covidactnow.org and US EPA using following api:
 - Description of the tool(s) that will be used to create final dashboard
 - Description of interactive element(s)
 
-- Checkout our dashboard at the following link:
+- First, checkout our dashboard at the following link:
 https://ut-covid-project.herokuapp.com/
 
-### Description of the tool(s) that will be used to create final dashboard.
-
-
+### Description of the tool(s) that will be used to create final dashboard
 
 ### Python: Getting Started
 
@@ -118,6 +116,14 @@ or
 ---go to:
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
+
+### Description of interactive element(s)
+
+def linear_regression_model(state):
+    model_data = list_model_data_by_state(state)
+    print (model_data)
+    
+This function which calls list_model_data_by_state will give you a query being pulled from sqlite database based on the person's state selection.  It has all the particulate matter and covid now data joined together listed by county.  You can take this and plug it into your model.  We can integrate that tomorrow or work on it together to do the linear regression.
 
 ------------------------------------------------------------------------------
 # Segment One
