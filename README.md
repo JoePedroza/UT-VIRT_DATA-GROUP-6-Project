@@ -1,6 +1,10 @@
 # UT-VIRT-DATA-Group-6-Project
 
-### Segment Overview
+### Project Overview
+
+https://ut-covid-project.herokuapp.com/
+
+### Segment One Tasks
 In segment one we'll complete the following tasks:
 - Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
 - Define roles between team members and establish a team communication structure
