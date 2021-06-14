@@ -159,4 +159,6 @@ def import_covid_by_state_to_sqlite():
 def linear_regression_model(state):
 
     model_data = list_model_data_by_state(state)
-    print (model_data)
+    covid_model_df = pd.DataFrame(model_data)
+    covid_model_df.to_csv (r'./database_file/covidmodeldata.csv', index = False, header=True) 
+
