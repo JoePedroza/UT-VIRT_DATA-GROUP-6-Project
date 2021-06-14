@@ -1,8 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 import pandas as pd
-import numpy as np
-import pandas as pd
 import csv
 import sqlite3
 
