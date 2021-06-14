@@ -11,7 +11,7 @@
 Here is a link to our google slides presentation
 - https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
 
-The presentation outlines the project, including the following:
+The presentation outlines the project, and includes the following:
 - Selected topic
 - Reason why they selected their topic
 - Description of their source of data
