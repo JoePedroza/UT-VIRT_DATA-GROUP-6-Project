@@ -58,7 +58,7 @@ Pulling data from covidactnow.org and US EPA using following api:
 
 ### Database Design
 
-![](Resources/CovidProjectSqliteDB.PNG)
+![](Resources/CovidProjectSqliteDB.png)
 
 ## Dashboard
 
