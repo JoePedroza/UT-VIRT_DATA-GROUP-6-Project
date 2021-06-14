@@ -7,8 +7,6 @@
 - Database
 - Dashboard 
 
-https://ut-covid-project.herokuapp.com/
-
 ## Presentation
 
 
@@ -22,10 +20,14 @@ https://ut-covid-project.herokuapp.com/
 
 
 ## Dashboard
-A blueprint for the dashboard is created and includes all of the following:
+
+✓ Description of the tool(s) that will be used to create final dashboard.
 ✓ Storyboard on Google Slide(s)
-✓ Description of the tool(s) that will be used to create final dashboard
 ✓ Description of interactive element(s)
+
+See our in-progress dashboard at the following link:
+https://ut-covid-project.herokuapp.com/
+
 
 ### Python: Getting Started
 
