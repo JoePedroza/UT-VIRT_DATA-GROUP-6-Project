@@ -23,10 +23,20 @@ The presentation outlines the project, including the following:
 
 
 ## Machine learning model
-
+Team members submit the code for their machine learning model, as well as the following:
+- Description of preliminary data preprocessing
+- Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
+- Description of how data was split into training and testing sets
+- Explanation of model choice, including limitations and benefits
 
 ## Database
-
+Team members present a fully integrated database.
+- Database stores static data for use during the project
+- Database interfaces with the project in some format (e.g., scraping updates the database, or database connects to the model)
+- Includes at least two tables (or collections, if using MongoDB)
+- Includes at least one join using the database language (not including any joins in Pandas)
+- Includes at least one connection string (using SQLAlchemy or PyMongo)
+Note: If you use a SQL database, you must provide your ERD with relationships.
 
 ## Dashboard
 
