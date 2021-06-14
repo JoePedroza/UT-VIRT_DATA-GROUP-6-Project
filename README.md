@@ -1,6 +1,4 @@
 # UT-VIRT-DATA-Group-6-Project
-<<<<<<< HEAD
-=======
 
 ### Segment 2 Overview:
 - Presentation
@@ -185,7 +183,6 @@ https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlI
 
 
 ## Python: Getting Started
->>>>>>> main
 
 ## Project objective
 
