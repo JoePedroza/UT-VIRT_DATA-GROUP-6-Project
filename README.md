@@ -27,13 +27,13 @@ A blueprint for the dashboard is created and includes all of the following:
 ✓ Description of the tool(s) that will be used to create final dashboard
 ✓ Description of interactive element(s)
 
-## Python: Getting Started
+### Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
 
 This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
 
-## Running Locally
+### Running Locally
 
 Make sure you have Python 3.9 [installed locally](https://docs.python-guide.org/starting/installation/). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), as well as [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
 
@@ -54,7 +54,7 @@ $ heroku local
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
-## Deploying to Heroku
+### Deploying to Heroku
 
 ```sh
 $ heroku create
@@ -67,7 +67,7 @@ or
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Documentation
+### Documentation
 
 ---go to:
 
