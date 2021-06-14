@@ -13,11 +13,12 @@ Here is a link to our google slides presentation
 
 The presentation outlines the project, including the following:
 - Selected topic
-- Reason why they selected their topic ✓ Description of their source of data
+- Reason why they selected their topic
+- Description of their source of data
 - Questions they hope to answer with the data
 - Description of the data exploration phase of the project
 - Description of the analysis phase of the project
-- Dashboard storyboard
+- Includes Dashboard storyboard
 
 ## Github
 
