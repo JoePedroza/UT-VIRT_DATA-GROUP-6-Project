@@ -15,15 +15,24 @@
     <div>
         <section>
             <br>
-            <form class="teamSelection" method="POST" action="/submitted/">  
-               <select class="teamForm" id="teamDropdownSelector" type="text" name="teamDropdown" placeholder="Select A Team">
-                    <option disabled selected>Select a game</option>
-                    <option id="WatfordVSManchester Utd" value="">Watford VS Manchester Utd</option>
-               </select>
+            <form action="/submitted/" method="post">{% csrf_token %}{{ county }}
+                <select class="countyForm" id="stateDL" type="text" name="stateDropdown" placeholder="Select A State">                
+                    {% for state in states %}
+                        <option value="{{state}}" SELECTED>{{state}}</option>"
+                    {% endfor %}
+                </select>
+               <!-- select class="countyForm" id="countyDL" type="text" name="countyDropdown" placeholder="Select A County">                
+                {% for county in counties %}
+                    <option value="{{county}}" SELECTED>{{county}}</option>"
+                {% endfor %}
+               </select> -->
                <input class="btn" type="submit" value="submit">
             </form>
         </section>
-
+        <section>
+            <div class="container">
+            </div>
+        </section>
     </div>
 </div>
 {% endblock %}
