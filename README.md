@@ -1,8 +1,33 @@
 # UT-VIRT-DATA-Group-6-Project
 
-### Project Overview
+### Segment 2 Overview:
+- Presentation
+- Github
+- Machine learning model
+- Database
+- Dashboard 
 
 https://ut-covid-project.herokuapp.com/
+
+
+
+
+## Github
+
+
+## Machine learning model
+
+
+## Database
+
+
+## Dashboard
+A blueprint for the dashboard is created and includes all of the following:
+✓ Storyboard on Google Slide(s)
+✓ Description of the tool(s) that will be used to create final dashboard
+✓ Description of interactive element(s)
+
+
 
 ### Segment One Tasks
 In segment one we'll complete the following tasks:
