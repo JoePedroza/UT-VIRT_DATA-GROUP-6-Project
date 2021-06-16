@@ -1,9 +1,34 @@
-# UT-VIRT-DATA-Group-6-Project
+# Particulate Matter and COVID-19 Outcomes
 
 ## Overview
 
+### Purpose
 
-## Table of Content
+To create a machine learning model that establishes a relationship between particulate matter 2.5 μm (a.k.a fine particles) (atmospheric particulate matter with diameter less than 2.5 μm) and the clinical outcomes of COVID-19. The model will predict and help determined whether increased concentrations of particulate matter contribute to an increase in the severity of COVID-19 symptoms, and lead to higher hospitalization and death rates?
+
+This project is divided into four segments. First segment - Skecth it Out phase - We deliberate who's responsible for what, select a topic, how we'll communicate, etc. and build a simple model. Second segment - Build the Pieces phase - we train the model and build the database to be used on the final presentation. Third segment - Plug it in phase - we connect the final database to the model, continue training the model, and creating a dashboard and a presentation. Fourth segment - Put it All Together phase - we put all the piece above together, adding major or minor updates and presenting to other class colleagues.
+
+## Introduction
+
+In this project we will create a machine learning model to assess the relationship between PM2.5 (atmospheric particulate matter with diameter less than 2.5 μm) and the clinical outcomes of COVID-19. This model will predict and help determined whether increased concentrations of particulate matter contribute to an increase in the severity of COVID-19 symptoms, and lead to higher hospitalization and death rates?
+### First Segment
+
+#### table fo content 1
+
+#### table fo content 2
+
+*[Presentation](#Presentation)
+*[GitHub Repository](#GitHub-Repository)
+*[Machine Learning Model](#Machine-Learning-Model)
+*[Database Integration](#Database-Integration)
+*[Dashboard](#Dashboard)
+
+#### table fo content 3
+
+*[Presentation](#Presentation)
+*[GitHub Repository](#GitHub-Repository)
+*[Machine Learning Model](#Machine-Learning-Model)
+*[Dashboard](#Dashboard)
 
 ### I. First Segment
 
