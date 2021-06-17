@@ -1,6 +1,6 @@
 # UT-VIRT-DATA-Group-6-Project
 
-## Project Topic: Particulate Matter and COVID-19 Outcomes
+## Project Background: Particulate Matter and COVID-19 Outcomes
 
 Air pollution is a major public health concern due to its negative impact on individual and population health. A major component of air pollution is particulate matter (PM), which is the solid and liquid particles suspended in air. PM can enter the body through various route depending on the size, shape, and concentration. However, the most common route is inhalation, which negatively affect areas of the respiratory, cardiovascular, cardiopulmonary, and reproductive systems.
 
@@ -8,31 +8,11 @@ Air pollution is a major public health concern due to its negative impact on ind
 
 PM 2.5, for example, can reach the lower respiratory system. Studies have shown that increased concentrations of fine particulate matter can cause elevated susceptibility to respiratory disease. This, in turn, may exascerbate the symptoms caused by COVID-19, and increase hospitalizations and deaths due to COVID-19.
 
-### Project Objective: The Question We Hope to Answer
+### Project Objective
 
 For our final project, we have chosen to create a machine learning model to assess the relationship between PM2.5 (atmospheric particulate matter with diameter less than 2.5 μm) and the clinical outcomes of COVID-19. The question we hope to answer is as follows: does increased concentrations of particulate matter contribute to an increase in the severity of COVID-19 symptoms, and lead to higher hospitalization and death rates?
 
-### Why We Selected This Topic
-
 We selected this topic (PM 2.5 and COVID-19) becuase this disease has had an immense impact on the world. Understanding what exascerbates COVID-19 symptoms - contributes to COVID associated hospitalizations and death - is an important and fascinating area of study. This is also a great opportunity to exercise the skills we've learned in our data analysis program.
-
-## Machine Learning Model(see Covid_PM_Model.ipynb for basic script outline)
-
-Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-
-- Takes in data from the provisional database
-- Outputs label for input data
-
-The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
-
-Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
-
- We'll take the following steps to use a logistic regression model:
-
-- Create a model with LogisticRegression().
-- Train the model with model.fit().
-- Make predictions with model.predict().
-- Validate the model with accuracy_score().
 
 ## Database Integration
 
@@ -49,6 +29,16 @@ Pulling data from covidactnow.org and US EPA using following api:
 
 [Google Slide Draft presentation](https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit#slide=id.p)
 
+## Machine Learning Model
+
+The basic procedure for implementing a supervised learning model is as follows:
+
+- Create a model with LogisticRegression().
+- Train the model with model.fit().
+- Make predictions with model.predict().
+- Validate the model with accuracy_score().
+
+Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
 
 ## Presentation
 Here is a link to our google slides presentation
@@ -58,36 +48,10 @@ Also, checkout our dashboard at the following link:
 https://ut-covid-project.herokuapp.com/
 
 
-## Machine learning model
-Team members submit the code for their machine learning model, as well as the following:
-- Description of preliminary data preprocessing
-- Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
-- Description of how data was split into training and testing sets
-- Explanation of model choice, including limitations and benefits
-
-The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
-
-Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
-
-
-Pulling data from covidactnow.org and US EPA using following api:
-- apidocs.covidactnow.org
-- United States Evironmental Protection Agency
-- https://www.epa.gov/air-trends/air-quality-cities-and-counties
-
-
 ### Database Design
 
 ![](Resources/CovidProjectSqliteDB.png)
 
-## Dashboard
-
-- Storyboard on Google Slide(s)
-- Description of the tool(s) that will be used to create final dashboard
-- Description of interactive element(s)
-
-- First, checkout our dashboard at the following link:
-https://ut-covid-project.herokuapp.com/
 
 ### Description of the tool(s) that will be used to create final dashboard
 
