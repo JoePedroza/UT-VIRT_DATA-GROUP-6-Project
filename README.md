@@ -179,23 +179,6 @@ The project is divided into four parts. The project will show case skills gained
 
 ## Project Topic: Particulate Matter and COVID-19 Outcomes
 
-### Overview of the project
-
-1. Presentation
-   We'll prepare a Google slides where we touch bases on the following:
-   - Selected topic
-   - Reason topic was selected
-   - Description of the source of data
-   - Questions the team hopes to answer with the data
-   - Description of the data exploration phase of the project
-   - Description of the analysis phase of the project
-   - Technologies, languages, tools, and algorithms used throughout the project
-
-GitHub
-Machine learning model
-Database
-Dashboard
-
 Air pollution is a major public health concern due to its negative impact on individual and population health. A major component of air pollution is particulate matter (PM), which is the solid and liquid particles suspended in air. PM can enter the body through various route depending on the size, shape, and concentration. However, the most common route is inhalation, which negatively affect areas of the respiratory, cardiovascular, cardiopulmonary, and reproductive systems.
 
 ![](Resources/ParticulateMatter.jpg)
