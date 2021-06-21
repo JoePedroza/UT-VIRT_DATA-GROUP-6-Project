@@ -222,8 +222,9 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)    
     elif modelSelected == 'SMOTE Oversampling':
-        model = SMOTE(random_state=1)
-        model.fit(X_train, y_train)
+        X_resampled, y_resampled = SMOTE(random_state=1, ratio=1.0).fit_resample(X_train, y_train)
+        model = LogisticRegression(solver='lbfgs', random_state=1)
+        model.fit(X_resampled, y_resampled)
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'SMOTEENN':
