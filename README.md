@@ -25,6 +25,7 @@ Pulling data from covidactnow.org and US EPA using following api:
 
 ![CovidDatabaseDesign](Resources/CovidProjectDatabaseDesign.png)
 
+### Sqlite Database
 ![](Resources/CovidProjectSqliteDB.png)
 
 ## Machine Learning Model
