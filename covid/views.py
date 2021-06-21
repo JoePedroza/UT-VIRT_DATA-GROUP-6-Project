@@ -13,7 +13,9 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
 from imblearn.over_sampling import RandomOverSampler
+from imblearn.under_sampling import RandomUnderSampler
 from imblearn.over_sampling import SMOTE
+from imblearn.combine import SMOTEENN
 from imblearn.under_sampling import ClusterCentroids
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
@@ -48,7 +50,7 @@ def dashboard(request):
 
 def getdata(request): 
     stateSelected= request.POST.get('stateDropdown')
-    modelTypes= ['Cluster Centroids','Linear Regression','Logistic Regression','Naive Random Oversampling','SMOTE Oversampling']
+    modelTypes= ['Cluster Centroids','Linear Regression','Logistic Regression','Naive Random Oversampling','Random Undersampling','SMOTE Oversampling','SMOTEENN']
     stateurljson = "https://api.covidactnow.org/v2/county/" + stateSelected+ ".json?apiKey=" + can_key
     stateurlcsv = "https://api.covidactnow.org/v2/county/" + stateSelected + ".csv?apiKey=" + can_key
     stateepa = list_epa_by_state(stateSelected)
@@ -189,7 +191,7 @@ def runmodel(request,stateSelected):
     X_train.shape
 
     if modelSelected == 'Linear Regression':
-        model = SVC(kernel='linear') 
+        model = LinearRegression()
         model.fit(X_train, y_train)
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)   
@@ -199,18 +201,36 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'Cluster Centroids':
-        model = ClusterCentroids(random_state=1)
-        model.fit(X_train, y_train)
-        y_pred= Counter(y)
-        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
-    elif modelSelected == 'Naive Random Oversampling':
-        model = RandomOverSampler(random_state=1)
-        model.fit(X_train, y_train)
+        cc = ClusterCentroids(random_state=1)
+        X_resampled, y_resampled = cc.fit_resample(X_train, y_train)
+        model = LogisticRegression(solver='lbfgs', random_state=78)
+        model.fit(X_resampled, y_resampled)
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
+    elif modelSelected == 'Naive Random Oversampling':
+        ros = RandomOverSampler(random_state=1)
+        X_resampled, y_resampled = ros.fit_resample(X_train, y_train)
+        model = LogisticRegression(solver='lbfgs', random_state=1)
+        model.fit(X_resampled, y_resampled)
+        y_pred = model.predict(X_test)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
+    elif modelSelected == 'Random Undersampling':
+        ros = RandomUnderSampler(random_state=1)
+        X_resampled, y_resampled = ros.fit_resample(X_train, y_train)
+        model = LogisticRegression(solver='lbfgs', random_state=1)
+        model.fit(X_resampled, y_resampled)
+        y_pred = model.predict(X_test)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)    
     elif modelSelected == 'SMOTE Oversampling':
         model = SMOTE(random_state=1)
         model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
+    elif modelSelected == 'SMOTEENN':
+        smote_enn = SMOTEENN(random_state=0)
+        X_resampled, y_resampled = smote_enn.fit_resample(X, y)
+        model = LogisticRegression(solver='lbfgs', random_state=1)
+        model.fit(X_resampled, y_resampled)
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     else:    
