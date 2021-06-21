@@ -5,7 +5,7 @@ Here is a link to our google slides presentation
 - https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
 
 Also, checkout our dashboard at the following link:
-https://ut-covid-project.herokuapp.com/
+- https://ut-covid-project.herokuapp.com/
 
 ## Project Background: Particulate Matter and COVID-19 Outcomes
 
