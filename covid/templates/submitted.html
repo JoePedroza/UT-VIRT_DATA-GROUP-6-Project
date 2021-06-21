@@ -6,6 +6,19 @@
     <div class="container">
     <img src="{% static 'img/ParticulateMatter.jpg'%}" class="img" alt="ParticulateMatter" width="400" height="250">
     <p>The state selected is : {{ stateSelected }}</p>
-    <p>The output is : {{ output }}</p>
+    <div class="jumbotron text-center">
+        <table border = 1>
+            {% for model in modelData %}
+        
+            <tr> 
+               <th> {{ model.Name }} </th>
+               <td> {{ model.Value}} </td>
+            </tr>
+        
+            {% endfor %}
+         </table>
+         </div>
+</div>
 </div>
 {% endblock %}
+

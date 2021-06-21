@@ -1,4 +1,5 @@
 # importing library
+import numpy as np
 import pandas as pd
 import csv
 import sqlite3
@@ -125,7 +126,28 @@ try:
     
     # Import csv and extract data
     state_df = pd.read_csv('./database_file/EPA_City_2020.csv')
-    state_df.to_csv (r'./database_file/epa2020.csv', index = False, header=True)
+    state_df['CO 8-hr'].replace("ND",0,inplace=True)
+    state_df['CO 8-hr'].replace("IN",0,inplace=True)
+    state_df['Pb 3-mo'].replace("ND",0,inplace=True)
+    state_df['Pb 3-mo'].replace("IN",0,inplace=True)
+    state_df['NO2 AM'].replace("ND",0,inplace=True)
+    state_df['NO2 AM'].replace("IN",0,inplace=True)
+    state_df['NO2 1-hr'].replace("ND",0,inplace=True)
+    state_df['NO2 1-hr'].replace("IN",0,inplace=True)
+    state_df['O3 8hr'].replace("ND",0,inplace=True)
+    state_df['O3 8hr'].replace("IN",0,inplace=True)
+    state_df['PM10 24-hr'].replace("ND",0,inplace=True)
+    state_df['PM10 24-hr'].replace("IN",0,inplace=True)
+    state_df['PM2.5 Wtd'].replace("ND",0,inplace=True)
+    state_df['PM2.5 Wtd'].replace("IN",0,inplace=True)
+    state_df['PM2.5 24-hr'].replace("ND",0,inplace=True)
+    state_df['PM2.5 24-hr'].replace("IN",0,inplace=True)
+    state_df['SO2 1-hr'].replace("ND",0,inplace=True)
+    state_df['SO2 1-hr'].replace("IN",0,inplace=True)
+
+    state_clean_df = state_df
+    
+    state_clean_df.to_csv (r'./database_file/epa2020.csv', index = False, header=True)
 
     # Import csv and extract data
     with open('./database_file/epa2020.csv', 'r') as fin:

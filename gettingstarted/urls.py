@@ -1,4 +1,4 @@
-from django.urls import path, include
+from django.urls import path
 
 from django.contrib import admin
 
@@ -17,5 +17,6 @@ import covid.views
 urlpatterns = [
     path("", covid.views.index, name="index"),
     path("dashboard/", covid.views.dashboard, name="dashboard"),
-    path("submitted/", covid.views.submitted, name="submitted"),    
+    path("getdata/", covid.views.getdata, name="getdata"), 
+    path("runmodel/<stateSelected>/", covid.views.runmodel, name="runmodel")
 ]

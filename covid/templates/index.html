@@ -4,35 +4,49 @@
 {% block body %}
 <div class="jumbotron text-center">
     <div class="container">
-    <img src="{% static 'img/ParticulateMatter.jpg'%}" class="img" alt="ParticulateMatter" width="400" height="250">
-
+    {% if not dataRetrieved %}
+    <img src="{% static 'img/ParticulateMatter.jpg'%}" class="img" alt="ParticulateMatter" width="800" height="300">
     <p>Early studies have shown that there is a positive correlation between air pollution and spread of the virus. A major component of air pollution is particulate matter -- a complex heterogeneous mixture of particles suspended in the air. This particulate matter exists in different sizes and shapes and can act as a carrier through the aerosol, transmitting the virus and increasing its spread. Specifically, the particulate matter of size 2.5 (aka fine particles) can reach the lower respiratory system and cause health issues. Therefore, studies have shown that increased concentrations of fine particles matter can cause elevated susceptibility to respiratory disease. Thus, may exacerbate the symptoms caused by COVID-19 and increase hospitalizations and deaths due to COVID-19.
     </p>
-    <p>We would like to determine whether higher concentrations of particulate matter 2.5 is associated with increased COVID-19 hospitalizations and deaths</p>
-
+    <p>We would like to determine whether higher concentrations of particulate matter 2.5 is associated with increased COVID-19 hospitalizations and deaths.</p>
+    <p>Our data comes from COVID Now API's and EPA websites.</p>
+    <p>Please select a state you would like to analyze through our ML model.</p>
+    {% endif %}
     
     </div>
     <div>
+        {% if not dataRetrieved %}
         <section>
             <br>
-            <form action="/submitted/" method="post">{% csrf_token %}{{ county }}
-                <select class="countyForm" id="stateDL" type="text" name="stateDropdown" placeholder="Select A State">                
+            <form action="/getdata/" method="post">{% csrf_token %}{{ county }}
+                <select class="dropdown" id="stateDL" type="text" name="stateDropdown" placeholder="Select A State">                
                     {% for state in states %}
                         <option value="{{state}}" SELECTED>{{state}}</option>"
                     {% endfor %}
                 </select>
-               <!-- select class="countyForm" id="countyDL" type="text" name="countyDropdown" placeholder="Select A County">                
-                {% for county in counties %}
-                    <option value="{{county}}" SELECTED>{{county}}</option>"
-                {% endfor %}
-               </select> -->
-               <input class="btn" type="submit" value="submit">
+               <input class="btn btn-primary btn-md" type="submit" value="Retrieve Data">
             </form>
         </section>
+        {% endif %}
+        {% if dataRetrieved %}
         <section>
-            <div class="container">
+            <div class="jumbotron text-center">
+                <div class="container">                
+                <p>The state selected is {{ stateSelected }}</p>               
+                    <p>{{stateData}}</p>                
+                <p>Please select the model type you would like to run data against!</p>
+                <form action="/runmodel/{{stateSelected}}/" method="post">{% csrf_token %}
+                    <select class="dropdown" id="modelDL" type="text" name="modelDropdown" placeholder="Select A Model">                
+                        {% for model in modelTypes %}
+                            <option value="{{model}}" SELECTED>{{model}}</option>"
+                        {% endfor %}
+                    </select>
+                    <input class="btn btn-primary btn-md" type="submit" value="Run Model">
+                </form>
+                
             </div>
         </section>
+        {% endif %}
     </div>
 </div>
 {% endblock %}

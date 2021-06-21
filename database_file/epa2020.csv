@@ -1,1145 +1,1145 @@
 State,County,County FIPS Code,2010 Population,CO 8-hr,Pb 3-mo,NO2 AM,NO2 1-hr,O3 8hr,PM10 24-hr,PM2.5 Wtd,PM2.5 24-hr,SO2 1-hr
-Alabama,BaldwNULL County,1003,182265,,,,,0.057,,7.9,17.0,
-Alabama,Clay County,1027,13932,,,,,,,6.7,14.0,
-Alabama,Colbert County,1033,54428,,,,,,,,,
-Alabama,DeKalb County,1049,71109,,,,,0.057,,7.1,17.0,
-Alabama,Elmore County,1051,79303,,,,,0.048,,,,
-Alabama,Escambia County,1053,38319,,,,,,,,,
-Alabama,Etowah County,1055,104430,,,,,0.053,,7.9,23.0,
-Alabama,Houston County,1069,101547,,,,,,,,,
-Alabama,Jefferson County,1073,658466,1.0,,11.0,44.0,0.062,83.0,10.1,25.0,12.0
-Alabama,Madison County,1089,334811,,,,,0.057,37.0,7.1,17.0,
-Alabama,Mobile County,1097,412992,,,,,0.054,,8.0,16.0,11.0
-Alabama,Montgomery County,1101,229363,,,,,0.053,25.0,7.9,24.0,
-Alabama,Morgan County,1103,119490,,,,,0.057,,7.1,16.0,
-Alabama,Pike County,1109,32899,,0.17,,,,,,,
-Alabama,Russell County,1113,52947,,,,,0.054,,8.5,19.0,
-Alabama,Shelby County,1117,195085,,,,,0.059,,,,37.0
-Alabama,Sumter County,1119,13763,,,,,0.051,,,,3.0
-Alabama,Talladega County,1121,82291,,,,,,,,,
-Alabama,Tuscaloosa County,1125,194656,,,,,0.052,,7.5,17.0,
-Alabama,Walker County,1127,67023,,,,,,,,,
-Alaska,Anchorage Municipality,2020,291826,3.0,,,,,77.0,5.9,22.0,
-Alaska,Bethel Census Area,2050,17013,,,,,,48.0,,,
-Alaska,Denali Borough,2068,1826,,,,,0.051,,,,
-Alaska,Fairbanks North Star Borough,2090,97581,2.0,,,,0.043,43.0,12.1,71.0,30.0
-Alaska,Juneau City aNULL Borough,2110,31275,,,,,,34.0,4.8,17.0,
-Alaska,Kenai PenNULLsula Borough,2122,55400,,,,,,,,,
-Alaska,Ketchikan Gateway Borough,2130,13477,,,,,,,,,
-Alaska,Matanuska-Susitna Borough,2170,88995,,,,,,77.0,4.6,24.0,
-Alaska,Skagway Municipality,2232,968,,,,,,,,,
-Arizona,Apache County,4001,71518,,,,,,43.0,3.2,13.0,
-Arizona,Cochise County,4003,131346,,,,,0.066,136.0,,,
-Arizona,CoconNULLo County,4005,134421,,,,,0.063,,,,
-Arizona,Gila County,4007,53597,,0.03,,,0.081,74.0,,,70.0
-Arizona,La Paz County,4012,20489,,,,,0.064,148.0,4.2,11.0,
-Arizona,Maricopa County,4013,3817117,3.0,,25.0,57.0,0.087,199.0,13.2,37.0,7.0
-Arizona,Mohave County,4015,200186,,,,,,127.0,,,
-Arizona,Navajo County,4017,107449,,,,,0.067,45.0,,,
-Arizona,Pima County,4019,980263,1.0,,8.0,37.0,0.072,211.0,5.9,14.0,1.0
-Arizona,PNULLal County,4021,375770,,,,,0.08,624.0,15.5,41.0,
-Arizona,Santa Cruz County,4023,47420,,,,,,128.0,10.2,32.0,
-Arizona,Yavapai County,4025,211033,,,,,0.066,,,,
-Arizona,Yuma County,4027,195751,,,,,0.067,179.0,9.1,23.0,
-Arkansas,Arkansas County,5001,19019,,,,,,,7.2,17.0,
-Arkansas,Ashley County,5003,21853,,,,,,,7.4,18.0,
-Arkansas,Benton County,5007,221339,,,,,,,,,
-Arkansas,Clark County,5019,22995,,,,,0.052,,,,
-Arkansas,Craighead County,5031,96443,,,,,,,,,
-Arkansas,CritteNULLen County,5035,50902,,,7.0,36.0,0.069,,7.5,17.0,
-Arkansas,Faulkner County,5045,113237,,,,,,,,,
-Arkansas,GarlaNULL County,5051,96024,,,,,,,8.0,19.0,
-Arkansas,Jackson County,5067,17997,,,,,,,7.1,22.0,
-Arkansas,Jefferson County,5069,77435,,,,,,,,,
-Arkansas,Marion County,5089,16653,,,,,,,,,
-Arkansas,Miller County,5091,43462,,,,,,,,,
-Arkansas,Mississippi County,5093,46480,,,,,,,,,
-Arkansas,Newton County,5101,8330,,,,,0.06,,,,
-Arkansas,Phillips County,5107,21757,,,,,,,,,
-Arkansas,Polk County,5113,20662,,,,,0.058,,7.2,21.0,
-Arkansas,Pope County,5115,61754,,,,,,,,,
-Arkansas,Pulaski County,5119,382748,1.0,,7.0,36.0,0.064,35.0,9.7,24.0,5.0
-Arkansas,Sebastian County,5131,125744,,,,,,,,,
-Arkansas,Union County,5139,41639,,,,,,,8.5,22.0,
-Arkansas,WashNULLgton County,5143,203065,,,,,0.055,33.0,6.9,16.0,
-Arkansas,White County,5145,77076,,,,,,,,,
-California,Alameda County,6001,1510271,2.0,,14.0,48.0,0.071,,11.8,65.0,5.0
-California,Amador County,6005,38091,,,,,0.065,,,,
-California,Butte County,6007,220000,4.0,,5.0,27.0,0.074,325.0,16.0,92.0,
-California,Calaveras County,6009,45578,,,,,0.073,162.0,12.6,97.0,
-California,Colusa County,6011,21419,,,,,0.052,210.0,12.2,104.0,
-California,Contra Costa County,6013,1049025,2.0,,7.0,34.0,0.069,43.0,11.1,66.0,14.0
-California,Del Norte County,6015,28610,,,,,,,,,
-California,El Dorado County,6017,181058,,,,,0.086,169.0,,,
-California,Fresno County,6019,930450,2.0,,20.0,54.0,0.09,320.0,20.3,124.0,5.0
-California,Glenn County,6021,28122,,,,,0.056,152.0,,,
-California,Humboldt County,6023,134623,2.0,,2.0,16.0,0.04,131.0,,,1.0
-California,Imperial County,6025,174528,3.0,,10.0,51.0,0.08,190.0,12.0,34.0,7.0
-California,NULLyo County,6027,18546,1.0,,,,0.072,526.0,11.8,308.0,1.0
-California,Kern County,6029,839631,1.0,,13.0,53.0,0.101,236.0,20.3,81.0,
-California,KNULLgs County,6031,152982,,,9.0,44.0,0.084,323.0,19.9,87.0,
-California,Lake County,6033,64665,,,,,0.059,114.0,9.3,85.0,
-California,Los Angeles County,6037,9818605,3.0,0.02,23.0,86.0,0.124,169.0,14.8,53.0,3.0
-California,Madera County,6039,150865,,,6.0,29.0,0.085,314.0,16.9,88.0,
-California,MarNULL County,6041,252409,2.0,,8.0,36.0,0.06,39.0,8.6,41.0,
-California,Mariposa County,6043,18251,,,,,0.091,484.0,,,
-California,MeNULLocNULLo County,6045,87841,,,,,0.059,187.0,12.4,62.0,
-California,Merced County,6047,255793,,,7.0,31.0,0.079,123.0,15.5,78.0,
-California,Modoc County,6049,9686,,,,,,,,,
-California,Mono County,6051,14202,,,,,,1955.0,40.3,453.0,
-California,Monterey County,6053,415057,1.0,,4.0,25.0,0.057,218.0,8.8,64.0,
-California,Napa County,6055,136484,2.0,,5.0,26.0,0.06,81.0,10.4,57.0,
-California,Nevada County,6057,98764,,,,,0.08,,14.1,90.0,
-California,Orange County,6059,3010232,2.0,,19.0,53.0,0.09,120.0,12.3,42.0,
-California,Placer County,6061,348432,,,6.0,,0.083,213.0,13.4,93.0,
-California,Plumas County,6063,20007,,,,,,,20.9,109.0,
-California,Riverside County,6065,2189641,2.0,,15.0,54.0,0.104,359.0,14.7,40.0,2.0
-California,Sacramento County,6067,1418788,2.0,,11.0,46.0,0.078,231.0,14.7,85.0,3.0
-California,San Benito County,6069,55269,,,,,0.069,116.0,8.9,59.0,
-California,San BernardNULLo County,6071,2035210,1.0,,29.0,78.0,0.125,205.0,15.1,43.0,5.0
-California,San Diego County,6073,3095313,2.0,0.02,14.0,49.0,0.082,158.0,20.5,75.0,1.0
-California,San Francisco County,6075,805235,2.0,,9.0,41.0,0.048,,10.5,40.0,
-California,San JoaquNULL County,6077,685306,2.0,,11.0,54.0,0.068,226.0,14.8,92.0,
-California,San Luis Obispo County,6079,269637,,,4.0,26.0,0.08,280.0,9.8,63.0,2.0
-California,San Mateo County,6081,718451,2.0,,8.0,38.0,0.054,,9.8,46.0,
-California,Santa Barbara County,6083,423895,1.0,,5.0,28.0,0.072,103.0,9.3,37.0,3.0
-California,Santa Clara County,6085,1781642,2.0,,14.0,49.0,0.069,91.0,12.5,56.0,2.0
-California,Santa Cruz County,6087,262382,,,,,0.048,,11.0,88.0,
-California,Shasta County,6089,177223,,,,,0.069,100.0,10.2,66.0,
-California,Siskiyou County,6093,44900,,,,,0.06,,10.9,85.0,
-California,Solano County,6095,413344,2.0,,7.0,42.0,0.066,170.0,12.0,52.0,4.0
-California,Sonoma County,6097,483878,2.0,,4.0,25.0,0.052,134.0,8.3,34.0,
-California,Stanislaus County,6099,514453,2.0,,9.0,41.0,0.08,216.0,15.5,87.0,
-California,Sutter County,6101,94737,,,6.0,38.0,0.083,246.0,16.4,91.0,
-California,Tehama County,6103,63463,,,,,0.074,151.0,13.2,87.0,
-California,TrNULLity County,6105,13786,,,,,,,,,
-California,Tulare County,6107,442179,,,9.0,48.0,0.095,270.0,19.6,83.0,
-California,Tuolumne County,6109,55365,,,,,0.08,,,,
-California,Ventura County,6111,823318,,,7.0,34.0,0.085,162.0,7.9,32.0,
-California,Yolo County,6113,200849,,,4.0,24.0,0.066,116.0,,134.0,
-Colorado,Adams County,8001,441603,1.0,,16.0,57.0,0.078,113.0,9.8,28.0,6.0
-Colorado,Arapahoe County,8005,572003,,,,,0.083,,6.0,24.0,
-Colorado,Archuleta County,8007,12084,,,,,0.066,59.0,,,
-Colorado,Boulder County,8013,294567,,,,,0.076,74.0,9.5,52.0,
-Colorado,Clear Creek County,8019,9088,,,,,0.073,,,,
-Colorado,Delta County,8029,30952,,,,,0.061,42.0,,,
-Colorado,Denver County,8031,600158,2.0,,25.0,71.0,0.078,104.0,10.5,39.0,7.0
-Colorado,Douglas County,8035,285465,,,,,0.083,,6.9,42.0,
-Colorado,Elbert County,8039,23086,,,,,,,,,
-Colorado,El Paso County,8041,622263,1.0,,,,0.079,50.0,6.0,21.0,9.0
-Colorado,Fremont County,8043,46824,,,,,,,,,
-Colorado,Garfield County,8045,56389,,,3.0,18.0,0.069,39.0,,,
-Colorado,GilpNULL County,8047,5441,,,,,0.077,,,,
-Colorado,Gunnison County,8051,15324,,,,,0.066,,,,
-Colorado,Jefferson County,8059,534543,,,2.0,25.0,0.087,,,,
-Colorado,La Plata County,8067,51334,,,1.0,7.0,0.066,,,,
-Colorado,Larimer County,8069,299630,1.0,,,,0.075,,8.1,47.0,
-Colorado,Mesa County,8077,146723,,,,,0.065,71.0,6.1,20.0,
-Colorado,Montezuma County,8083,25535,,,,,0.067,,,,
-Colorado,Park County,8093,16206,,,,,,,,,
-Colorado,PitkNULL County,8097,17148,,,,,,51.0,,,
-Colorado,Prowers County,8099,12551,,,,,,307.0,,,
-Colorado,Pueblo County,8101,159063,,,,,,52.0,,,
-Colorado,Rio Blanco County,8103,6666,,,2.0,26.0,0.065,,8.4,23.0,
-Colorado,Routt County,8107,23509,,,,,,69.0,,,
-Colorado,San Miguel County,8113,7359,,,,,,59.0,,,
-Colorado,Weld County,8123,252825,1.0,,,,0.076,,9.8,37.0,
-Connecticut,Fairfield County,9001,916829,,,8.0,39.0,0.077,48.0,8.1,25.0,3.0
-Connecticut,Hartford County,9003,894014,1.0,,12.0,42.0,0.064,45.0,7.6,20.0,
-Connecticut,Litchfield County,9005,189927,0.0,,,,0.063,29.0,5.1,13.0,1.0
-Connecticut,Middlesex County,9007,165676,,,,,0.069,,,,
-Connecticut,New Haven County,9009,862477,1.0,,11.0,45.0,0.08,66.0,8.2,23.0,2.0
-Connecticut,New LoNULLon County,9011,274055,,,,,0.071,59.0,6.9,17.0,
-Connecticut,TollaNULL County,9013,152691,,,,,0.063,,,,
-Connecticut,WNULLULLham County,9015,118428,,,,,0.062,,,,
-Delaware,Kent County,10001,162310,,,,,0.062,,,,
-Delaware,New Castle County,10003,538479,1.0,,9.0,,0.063,,7.2,17.0,
-Delaware,Sussex County,10005,197145,,,,,0.06,,,,
-District of Columbia,District of Columbia,11001,601723,2.0,,12.0,45.0,0.063,46.0,7.8,21.0,4.0
-Florida,Alachua County,12001,247336,,,,,0.06,,7.6,16.0,
-Florida,Baker County,12003,27115,,,,,0.055,,,,
-Florida,Bay County,12005,168852,,,,,0.058,,,,
-Florida,Brevard County,12009,543376,,,,,0.058,85.0,7.9,17.0,
-Florida,Broward County,12011,1748066,1.0,,13.0,39.0,0.067,79.0,9.3,18.0,1.0
-Florida,Citrus County,12017,141236,,,,,,,,,37.0
-Florida,Collier County,12021,321520,,,,,0.057,,,,
-Florida,Columbia County,12023,67531,,,,,0.049,,,,
-Florida,Duval County,12031,864263,1.0,,10.0,37.0,0.057,98.0,8.3,18.0,16.0
-Florida,Escambia County,12033,297619,,,,,0.058,,9.7,20.0,4.0
-Florida,Flagler County,12035,95696,,,,,0.053,,,,
-Florida,Hamilton County,12047,14799,,,,,,,,,8.0
-Florida,HighlaNULLs County,12055,98786,,,,,0.059,,,,
-Florida,Hillsborough County,12057,1229226,1.0,0.09,9.0,35.0,0.065,57.0,8.4,18.0,42.0
-Florida,Holmes County,12059,19927,,,,,0.055,,,,
-Florida,NULLULLian River County,12061,138028,,,,,0.059,,,,
-Florida,Lake County,12069,297052,,,,,0.062,,,,
-Florida,Lee County,12071,618754,,,,,0.061,57.0,,,
-Florida,Leon County,12073,275487,,,,,0.055,,7.5,18.0,
-Florida,Liberty County,12077,8365,,,,,0.054,,,,
-Florida,Manatee County,12081,322833,,,,,0.059,,,,7.0
-Florida,Marion County,12083,331298,,,,,0.061,,,,
-Florida,MartNULL County,12085,146318,,,,,0.057,,,,
-Florida,Miami-Dade County,12086,2496435,1.0,,9.0,34.0,0.06,87.0,7.7,16.0,1.0
-Florida,Nassau County,12089,73314,,,,,,,,,60.0
-Florida,Okaloosa County,12091,180822,,,,,0.056,55.0,,,
-Florida,Orange County,12095,1145956,1.0,,3.0,,0.062,41.0,6.8,17.0,4.0
-Florida,Osceola County,12097,268685,,,,,0.06,,,,
-Florida,Palm Beach County,12099,1320134,,,,,0.059,87.0,7.3,21.0,
-Florida,Pasco County,12101,464697,,,,,0.062,,,,
-Florida,PNULLellas County,12103,916542,1.0,,8.0,27.0,0.064,60.0,7.9,18.0,6.0
-Florida,Polk County,12105,602095,,,,,0.062,47.0,8.4,19.0,13.0
-Florida,Putnam County,12107,74364,,,,,,47.0,,,8.0
-Florida,St. Lucie County,12111,277789,,,,,0.058,,,,
-Florida,Santa Rosa County,12113,151372,,,,,0.058,,,,
-Florida,Sarasota County,12115,379448,,,,,0.06,56.0,7.9,18.0,
-Florida,SemNULLole County,12117,422718,,,,,0.06,43.0,7.3,16.0,
-Florida,Volusia County,12127,494593,,,,,0.059,50.0,8.1,17.0,
-Florida,Wakulla County,12129,30776,0.0,,,,0.055,,,,1.0
-Georgia,Bibb County,13021,155547,,,,,0.054,,8.1,18.0,2.0
-Georgia,Chatham County,13051,265128,,,,,0.054,,8.9,18.0,64.0
-Georgia,Chattooga County,13055,26015,,,,,0.052,,,,
-Georgia,Clarke County,13059,116714,,,,,0.056,,8.4,20.0,
-Georgia,Clayton County,13063,259424,,,,,,,8.1,24.0,
-Georgia,Cobb County,13067,688078,,,,,0.056,,8.2,24.0,
-Georgia,Coffee County,13069,42356,,,,,,,6.8,16.0,
-Georgia,Columbia County,13073,124053,,,,,0.052,,,,
-Georgia,Dawson County,13085,22330,,,,,0.057,,,,
-Georgia,DeKalb County,13089,691893,1.0,,14.0,42.0,0.061,68.0,8.3,22.0,2.0
-Georgia,Dougherty County,13095,94565,,,,,,,9.1,24.0,
-Georgia,Douglas County,13097,132403,,,,,0.056,,,,
-Georgia,Floyd County,13115,96317,,,,,,,,,11.0
-Georgia,Fulton County,13121,920581,2.0,,16.0,41.0,0.063,33.0,9.5,25.0,3.0
-Georgia,Glynn County,13127,79626,,,,,0.052,,,,
-Georgia,GwNULLnett County,13135,805321,,,,,0.066,,8.3,21.0,
-Georgia,Hall County,13139,179684,,,,,,,8.7,19.0,
-Georgia,Henry County,13151,203922,,,,,0.058,,,,
-Georgia,Houston County,13153,139900,,,,,,,8.9,21.0,
-Georgia,LowNULLes County,13185,109233,,,,,,,8.0,19.0,
-Georgia,Murray County,13213,39628,,,,,0.057,,,,
-Georgia,Muscogee County,13215,189885,,0.01,,,0.053,,8.4,23.0,
-Georgia,PauldNULLg County,13223,142324,,,,,,,,,
-Georgia,Pike County,13231,17869,,,,,0.054,,,,
-Georgia,RichmoNULL County,13245,200549,,,,,0.056,39.0,10.7,23.0,58.0
-Georgia,Rockdale County,13247,85215,,,,,0.06,,,,
-Georgia,Sumter County,13261,32819,,,,,0.054,,,,
-Georgia,Walker County,13295,68756,,,,,,,,,
-Georgia,WashNULLgton County,13303,21187,,,,,,,8.7,21.0,
-Georgia,WilkNULLson County,13319,9563,,,,,,,,,
-Hawaii,Hawaii County,15001,185079,,,,,,,3.5,10.0,274.0
-Hawaii,Honolulu County,15003,953207,1.0,,3.0,26.0,0.045,38.0,3.9,7.0,57.0
-Hawaii,Kauai County,15007,67091,,,3.0,34.0,,,,,4.0
-Hawaii,Maui County,15009,154834,,,,,,,3.9,7.0,
-Idaho,Ada County,16001,392365,2.0,,10.0,43.0,0.065,115.0,7.6,37.0,2.0
-Idaho,Bannock County,16005,82839,,,,,0.065,114.0,,,47.0
-Idaho,Benewah County,16009,9285,,,,,,,10.3,73.0,
-Idaho,Boise County,16015,7028,,,,,,,,,
-Idaho,Bonner County,16017,40877,,,,,,291.0,,,
-Idaho,Bonneville County,16019,104234,,,,,,,,,
-Idaho,BouNULLary County,16021,10972,,,,,,,,,
-Idaho,Butte County,16023,2891,,,,,0.066,,,,
-Idaho,Canyon County,16027,188923,,,,,,142.0,10.6,49.0,
-Idaho,Caribou County,16029,6963,,,,,,,,,44.0
-Idaho,FranklNULL County,16041,12786,,,,,,,6.4,26.0,
-Idaho,Gem County,16045,16719,,,,,,,,,
-Idaho,Idaho County,16049,16267,,,,,0.054,,,,
-Idaho,Jerome County,16053,22374,,,,,,,,,
-Idaho,Kootenai County,16055,138494,,,,,,,,,
-Idaho,Latah County,16057,37244,,,,,,,,,
-Idaho,Lemhi County,16059,7936,,,,,,,10.8,38.0,
-Idaho,Nez Perce County,16069,39265,,,,,,,,,
-Idaho,Power County,16077,7817,,,,,,,,,
-Idaho,Shoshone County,16079,12765,,,,,,236.0,11.1,34.0,
-Idaho,TwNULL Falls County,16083,77230,,,,,,,,,
-Idaho,Valley County,16085,9862,,,,,,,,,
-IllNULLois,Adams County,17001,67103,,,,,0.064,,,,
-IllNULLois,Champaign County,17019,201081,0.0,,,,0.069,,7.3,17.0,3.0
-IllNULLois,Clark County,17023,16335,,,,,0.06,,,,
-IllNULLois,Cook County,17031,5194675,1.0,,16.0,50.0,0.079,149.0,10.8,23.0,14.0
-IllNULLois,DuPage County,17043,916924,,,,,0.073,,9.1,21.0,
-IllNULLois,EffNULLgham County,17049,34242,,,,,0.062,,,,
-IllNULLois,Hamilton County,17065,8457,,,,,0.067,,8.8,17.0,
-IllNULLois,Jersey County,17083,22985,,,,,0.062,,7.5,17.0,
-IllNULLois,Jo Daviess County,17085,22678,,,,,0.063,,,,
-IllNULLois,Kane County,17089,515269,,,,,0.073,,8.4,21.0,
-IllNULLois,Lake County,17097,703462,,,,,0.076,,,,
-IllNULLois,LaSalle County,17099,113924,,,,,,,,,8.0
-IllNULLois,McHenry County,17111,308760,,,,,0.076,,8.2,17.0,
-IllNULLois,McLean County,17113,169572,,,,,0.07,,8.5,19.0,
-IllNULLois,Macon County,17115,110768,,,,,0.065,,8.6,18.0,39.0
-IllNULLois,MacoupNULL County,17117,47765,,,2.0,16.0,0.063,,,,3.0
-IllNULLois,Madison County,17119,269282,,0.12,,,0.069,73.0,10.1,26.0,7.0
-IllNULLois,Monroe County,17133,32957,,,,,,,,,10.0
-IllNULLois,Peoria County,17143,186494,,,,,0.07,,,,
-IllNULLois,RaNULLolph County,17157,33476,,,,,0.061,,8.3,19.0,
-IllNULLois,Rock IslaNULL County,17161,147546,,,,,0.063,,8.1,18.0,
-IllNULLois,St. Clair County,17163,270056,,,9.0,39.0,0.065,,9.5,22.0,8.0
-IllNULLois,Sangamon County,17167,197465,,,,,0.067,,7.6,18.0,
-IllNULLois,Tazewell County,17179,135394,,,,,,,,,14.0
-IllNULLois,Wabash County,17185,11947,,,,,,,,,49.0
-IllNULLois,Will County,17197,677560,,,,,0.067,,9.8,21.0,
-IllNULLois,WNULLnebago County,17201,295266,,,,,0.067,,9.1,21.0,
-NULLULLiana,Allen County,18003,355329,,,,,0.065,,8.3,18.0,
-NULLULLiana,Bartholomew County,18005,76794,,,,,0.065,,6.7,16.0,
-NULLULLiana,Boone County,18011,56640,,,,,0.069,,,,
-NULLULLiana,Brown County,18013,15242,,,,,0.062,,,,
-NULLULLiana,Carroll County,18015,20155,,,,,0.062,,,,
-NULLULLiana,Clark County,18019,110232,,,,,0.062,39.0,9.4,22.0,
-NULLULLiana,Daviess County,18027,31648,,,,,,,,,11.0
-NULLULLiana,Delaware County,18035,117671,,0.05,,,0.062,,8.0,17.0,
-NULLULLiana,Dubois County,18037,41889,,,,,,25.0,8.4,16.0,
-NULLULLiana,Elkhart County,18039,197559,,,,,0.062,,8.2,20.0,
-NULLULLiana,Floyd County,18043,74578,,,,,0.066,,,,5.0
-NULLULLiana,Gibson County,18051,33503,,,,,,,,,59.0
-NULLULLiana,Greene County,18055,33165,,,,,0.064,,7.5,17.0,
-NULLULLiana,Hamilton County,18057,274569,,,,,0.063,,9.4,20.0,
-NULLULLiana,HeNULLricks County,18063,145448,,,,,0.063,,,,
-NULLULLiana,Henry County,18065,49462,,,,,,,7.3,16.0,
-NULLULLiana,Howard County,18067,82752,,,,,0.064,,6.7,15.0,
-NULLULLiana,Knox County,18083,38440,,,,,0.065,,,,
-NULLULLiana,Lake County,18089,496005,,0.05,,,0.074,59.0,9.6,20.0,32.0
-NULLULLiana,LaPorte County,18091,111467,,,,,0.079,,,,
-NULLULLiana,Madison County,18095,131636,,,,,0.059,,8.3,19.0,
-NULLULLiana,Marion County,18097,903393,2.0,,11.0,39.0,0.067,65.0,11.0,24.0,6.0
-NULLULLiana,Monroe County,18105,137974,,,,,,,7.4,18.0,
-NULLULLiana,Montgomery County,18107,38124,,,,,,,,,
-NULLULLiana,Perry County,18123,19338,,,,,0.065,,,,
-NULLULLiana,Porter County,18127,164343,,,,,0.076,64.0,,,81.0
-NULLULLiana,Posey County,18129,25910,,,,,0.064,,,,
-NULLULLiana,St. Joseph County,18141,266931,,,4.0,,0.067,,9.1,22.0,
-NULLULLiana,Shelby County,18145,44436,,,,,0.061,,,,
-NULLULLiana,Spencer County,18147,20952,,,,,,,8.0,17.0,
-NULLULLiana,Sullivan County,18153,21475,,,,,,,,,
-NULLULLiana,Tippecanoe County,18157,172780,,,,,,,9.3,18.0,
-NULLULLiana,VaNULLerburgh County,18163,179703,1.0,,7.0,30.0,0.067,36.0,9.1,19.0,7.0
-NULLULLiana,Vigo County,18167,107848,,,,,0.064,,8.1,22.0,4.0
-NULLULLiana,Wabash County,18169,32888,,,,,0.067,,,,
-NULLULLiana,Warrick County,18173,59689,,,,,0.066,,,,
-NULLULLiana,Whitley County,18183,33292,,,,,,,8.9,20.0,
-Iowa,Black Hawk County,19013,131090,,,,,,,7.9,22.0,
-Iowa,Bremer County,19017,24276,,,,,0.06,,,,
-Iowa,Cerro Gordo County,19033,44151,,,,,,68.0,,,
-Iowa,ClNULLton County,19045,49116,,,,,0.062,,8.5,22.0,19.0
-Iowa,Delaware County,19055,17764,,,,,,,,,
-Iowa,Emmet County,19063,10302,,,,,,,,,
-Iowa,Harrison County,19085,14928,,,,,0.061,,,,
-Iowa,Johnson County,19103,130882,,,,,,,7.8,19.0,
-Iowa,Lee County,19111,35862,,,,,,,7.8,17.0,
-Iowa,LNULLn County,19113,211226,,,,,0.064,62.0,8.1,21.0,43.0
-Iowa,Montgomery County,19137,10740,,,,,0.056,,6.7,15.0,
-Iowa,MuscatNULLe County,19139,42745,,,,,,39.0,8.1,22.0,20.0
-Iowa,Palo Alto County,19147,9421,,,,,0.063,,7.1,19.0,
-Iowa,Polk County,19153,430640,,,6.0,33.0,0.057,61.0,7.6,17.0,
-Iowa,Pottawattamie County,19155,93158,,0.05,,,,68.0,8.3,22.0,
-Iowa,Scott County,19163,165224,1.0,,,,0.061,159.0,8.2,20.0,4.0
-Iowa,Story County,19169,89542,,,,,,,,,
-Iowa,Tama County,19171,17767,,,,,,,,,
-Iowa,Van Buren County,19177,7570,,,2.0,7.0,0.059,36.0,6.8,17.0,1.0
-Iowa,Woodbury County,19193,102172,,,,,,,7.6,21.0,
-Iowa,Wright County,19197,13229,,,,,,,,,
-Kansas,Ford County,20057,33848,,,,,,88.0,,,
-Kansas,Johnson County,20091,544179,,,,,0.055,54.0,8.1,19.0,
-Kansas,Leavenworth County,20103,76227,,,,,0.059,,,,
-Kansas,LNULLn County,20107,9656,,,,,,,,,
-Kansas,Neosho County,20133,16512,,,3.0,16.0,0.057,103.0,8.7,21.0,3.0
-Kansas,SalNULLe County,20169,55606,,0.05,,,,,,,
-Kansas,Sedgwick County,20173,498365,,,6.0,34.0,0.06,95.0,,,
-Kansas,Shawnee County,20177,177934,,,,,0.057,77.0,,,
-Kansas,Sherman County,20181,6010,,,,,,137.0,,,
-Kansas,Sumner County,20191,24132,,,3.0,22.0,0.059,139.0,8.9,24.0,3.0
-Kansas,Trego County,20195,3001,,,1.0,4.0,0.059,82.0,,,4.0
-Kansas,WyaNULLotte County,20209,157505,1.0,,8.0,38.0,0.063,89.0,11.0,27.0,5.0
-Kentucky,Bell County,21013,28691,,,,,0.053,,7.4,14.0,
-Kentucky,Boone County,21015,118811,,,,,0.062,,,,
-Kentucky,Boyd County,21019,49542,,,5.0,27.0,0.059,40.0,7.5,16.0,5.0
-Kentucky,Bullitt County,21029,74319,,,,,0.065,,,,
-Kentucky,Campbell County,21037,90336,,,5.0,28.0,0.063,,7.6,16.0,10.0
-Kentucky,Carter County,21043,27720,,,,,0.053,17.0,5.6,11.0,
-Kentucky,Christian County,21047,73955,,,,,0.059,,7.9,21.0,
-Kentucky,Daviess County,21059,96656,,,4.0,26.0,0.065,,7.9,19.0,12.0
-Kentucky,Edmonson County,21061,12161,0.0,,,,0.056,,,,2.0
-Kentucky,Fayette County,21067,295803,,,5.0,38.0,0.06,21.0,7.5,17.0,3.0
-Kentucky,FranklNULL County,21073,49285,,,,,,,,,
-Kentucky,Greenup County,21089,36910,,,,,0.052,,,,6.0
-Kentucky,Hancock County,21091,8565,,,,,0.065,,,,
-Kentucky,HardNULL County,21093,105543,,,,,0.06,,7.1,15.0,
-Kentucky,HeNULLerson County,21101,46250,,,,,,,,,73.0
-Kentucky,Jefferson County,21111,741096,1.0,,13.0,44.0,0.071,47.0,9.7,22.0,15.0
-Kentucky,JessamNULLe County,21113,48586,,,,,0.059,,,,3.0
-Kentucky,Kenton County,21117,159720,,,,,,,,,
-Kentucky,Laurel County,21125,58849,,,,,,,,,
-Kentucky,LivNULLgston County,21139,9519,,,,,0.064,,,,
-Kentucky,McCracken County,21145,65565,,,4.0,30.0,0.064,27.0,8.8,23.0,7.0
-Kentucky,Madison County,21151,82916,,0.02,,,,,,,
-Kentucky,Morgan County,21175,13923,,,,,0.054,,,,
-Kentucky,Ohio County,21183,23842,,,,,,,,,
-Kentucky,Oldham County,21185,60316,,,,,0.061,,,,
-Kentucky,Perry County,21193,28712,,,,,0.055,,7.2,14.0,
-Kentucky,Pike County,21195,65024,,,,,0.053,,6.6,14.0,
-Kentucky,Pulaski County,21199,63063,,,,,0.056,,7.3,14.0,
-Kentucky,Simpson County,21213,17327,,,,,0.055,,,,
-Kentucky,Trigg County,21221,14339,,,,,0.06,,,,
-Kentucky,Warren County,21227,113792,,,,,0.057,,7.8,16.0,
-Kentucky,WashNULLgton County,21229,11717,,,,,0.058,,,,
-Louisiana,Ascension Parish,22005,107215,,,6.0,28.0,0.066,,,,
-Louisiana,Bossier Parish,22015,116979,,,,,0.057,84.0,,,10.0
-Louisiana,Caddo Parish,22017,254969,,,,,0.055,,9.6,23.0,
-Louisiana,Calcasieu Parish,22019,192768,,,7.0,,0.064,,7.5,22.0,21.0
-Louisiana,Concordia Parish,22029,20822,,,,,,,,,
-Louisiana,East Baton Rouge Parish,22033,440171,1.0,0.01,7.0,40.0,0.066,62.0,8.2,20.0,19.0
-Louisiana,Iberville Parish,22047,33387,,,3.0,,0.069,,7.5,17.0,
-Louisiana,Jefferson Parish,22051,432552,,,5.0,34.0,0.063,,7.3,18.0,
-Louisiana,Lafayette Parish,22055,221578,,,,,0.058,90.0,8.2,27.0,
-Louisiana,Lafourche Parish,22057,96318,,,,,0.06,,,,
-Louisiana,LivNULLgston Parish,22063,128026,,,2.0,12.0,0.063,,,,
-Louisiana,Orleans Parish,22071,343829,1.0,,8.0,43.0,,58.0,7.8,20.0,
-Louisiana,Ouachita Parish,22073,153720,,,,,0.057,,7.3,18.0,
-Louisiana,PlaquemNULLes Parish,22075,23042,,,,,,,,,
-Louisiana,PoNULLte Coupee Parish,22077,22802,,,,,0.064,,,,
-Louisiana,Rapides Parish,22079,131613,,,,,,,7.3,18.0,
-Louisiana,St. Bernard Parish,22087,35897,,,,,0.059,53.0,7.9,21.0,45.0
-Louisiana,St. Charles Parish,22089,52780,,,,,,,,,56.0
-Louisiana,St. James Parish,22093,22102,,,,,0.06,,,,5.0
-Louisiana,St. John the Baptist Parish,22095,45924,,0.01,,,0.06,,,,
-Louisiana,St. MartNULL Parish,22099,52160,,,,,0.06,,,,
-Louisiana,St. Tammany Parish,22103,233740,,,,,0.059,,,,
-Louisiana,Tangipahoa Parish,22105,121097,,,,,,,7.3,18.0,
-Louisiana,Terrebonne Parish,22109,111860,,,,,,,7.4,20.0,
-Louisiana,West Baton Rouge Parish,22121,23788,,,7.0,36.0,0.068,,8.6,21.0,37.0
-MaNULLe,ANULLroscoggNULL County,23001,107702,,,,,0.052,23.0,5.1,15.0,
-MaNULLe,Aroostook County,23003,71870,1.0,,,,0.051,100.0,5.7,15.0,
-MaNULLe,CumberlaNULL County,23005,281674,1.0,,6.0,47.0,0.058,49.0,7.3,17.0,4.0
-MaNULLe,FranklNULL County,23007,30768,,,,,,,,,
-MaNULLe,Hancock County,23009,54418,0.0,,,,0.068,16.0,2.7,9.0,1.0
-MaNULLe,Kennebec County,23011,122151,,,,,0.052,35.0,5.8,14.0,
-MaNULLe,Knox County,23013,39736,,,,,0.059,,,,
-MaNULLe,Oxford County,23017,57833,,,,,0.051,,5.1,13.0,
-MaNULLe,Penobscot County,23019,153923,,,,,0.056,38.0,,,
-MaNULLe,WashNULLgton County,23029,32856,,,,,0.052,,,,
-MaNULLe,York County,23031,197131,,,,,0.06,,,,
-MarylaNULL,Allegany County,24001,75087,,,,,,,,,
-MarylaNULL,Anne AruNULLel County,24003,537656,,,,,0.066,21.0,,,
-MarylaNULL,Baltimore County,24005,805029,2.0,,13.0,39.0,0.069,,7.5,21.0,5.0
-MarylaNULL,Calvert County,24009,88737,,,,,0.054,,,,
-MarylaNULL,Carroll County,24013,167134,,,,,0.061,,,,
-MarylaNULL,Cecil County,24015,101108,,,,,0.064,,5.6,14.0,
-MarylaNULL,Charles County,24017,146551,,,,,0.052,,,,
-MarylaNULL,Dorchester County,24019,32618,,,,,0.062,,4.4,10.0,1.0
-MarylaNULL,Frederick County,24021,233385,,,,,0.063,,,,
-MarylaNULL,Garrett County,24023,30097,0.0,,2.0,9.0,0.056,,4.6,10.0,2.0
-MarylaNULL,Harford County,24025,244826,,,,,0.067,,5.8,15.0,
-MarylaNULL,Howard County,24027,287085,1.0,,14.0,40.0,,,7.0,14.0,
-MarylaNULL,Kent County,24029,20197,,,,,0.061,,4.6,10.0,
-MarylaNULL,Montgomery County,24031,971777,,,,,0.059,,5.9,16.0,
-MarylaNULL,PrNULLce George's County,24033,863420,1.0,,5.0,32.0,0.065,17.0,5.7,13.0,1.0
-MarylaNULL,WashNULLgton County,24043,147430,,,,,0.057,,6.6,18.0,
-MarylaNULL,Baltimore city,24510,620961,,,12.0,48.0,0.061,32.0,6.4,18.0,
-Massachusetts,Barnstable County,25001,215888,,,,,0.063,,,,
-Massachusetts,Berkshire County,25003,131219,,,,,0.054,,7.6,17.0,
-Massachusetts,Bristol County,25005,548285,,,,,0.066,,6.2,17.0,3.0
-Massachusetts,Dukes County,25007,16535,,,,,0.06,,,,
-Massachusetts,Essex County,25009,743159,,,,,0.059,,5.5,14.0,
-Massachusetts,FranklNULL County,25011,71372,,,,,0.052,,8.2,20.0,
-Massachusetts,Hampden County,25013,463490,,,10.0,44.0,0.061,,8.6,22.0,3.0
-Massachusetts,Hampshire County,25015,158080,,,2.0,23.0,0.061,16.0,,,1.0
-Massachusetts,Middlesex County,25017,1503085,,,11.0,39.0,0.059,,6.7,14.0,
-Massachusetts,Norfolk County,25021,670850,,,3.0,25.0,0.053,,5.2,16.0,
-Massachusetts,Plymouth County,25023,494919,,,,,0.06,,7.5,16.0,
-Massachusetts,Suffolk County,25025,722023,1.0,,12.0,46.0,0.057,25.0,8.2,16.0,2.0
-Massachusetts,Worcester County,25027,798552,1.0,,10.0,45.0,0.063,33.0,8.0,16.0,2.0
-Michigan,Allegan County,26005,111408,,,,,0.076,,6.0,13.0,
-Michigan,Alpena County,26007,29598,,,,,,,,,
-Michigan,Bay County,26017,107771,,,,,,,4.7,14.0,
-Michigan,Benzie County,26019,17525,,,,,0.068,,,,
-Michigan,Berrien County,26021,156813,,,,,0.078,,,,
-Michigan,Cass County,26027,52293,,,,,0.075,,,,
-Michigan,Chippewa County,26033,38520,,,,,,,,,
-Michigan,ClNULLton County,26037,75382,,,,,0.064,,,,
-Michigan,DickNULLson County,26043,26168,,,,,,,,,
-Michigan,Emmet County,26047,32694,,,,,,,,,
-Michigan,Genesee County,26049,425790,,,,,0.068,,6.0,15.0,
-Michigan,GraNULL Traverse County,26055,86986,,,,,,,,,
-Michigan,Huron County,26063,33118,,,,,0.075,,,,
-Michigan,NULLgham County,26065,280895,,,6.0,33.0,0.062,,7.1,22.0,4.0
-Michigan,Ionia County,26067,63905,,0.01,,,,,,,
-Michigan,Iron County,26071,11817,,,,,,,,,
-Michigan,Kalamazoo County,26077,250331,,,,,0.072,,7.6,18.0,
-Michigan,Kent County,26081,602622,1.0,,,,0.078,27.0,7.7,18.0,3.0
-Michigan,Lenawee County,26091,99892,,,,,0.067,,8.2,19.0,
-Michigan,Macomb County,26099,840978,,,,,0.074,,6.0,16.0,
-Michigan,Manistee County,26101,24733,,,,,0.051,,,,
-Michigan,Mason County,26105,28705,,,,,0.068,,,,
-Michigan,Missaukee County,26113,14849,,,1.0,6.0,0.068,,,,
-Michigan,Monroe County,26115,152021,,,,,,83.0,,,7.0
-Michigan,Muskegon County,26121,172188,,,,,0.08,,,,
-Michigan,OaklaNULL County,26125,1202362,,,,,0.074,,7.4,23.0,
-Michigan,Ottawa County,26139,263801,,,5.0,28.0,0.075,21.0,7.4,18.0,15.0
-Michigan,SagNULLaw County,26145,200169,,,,,,,,,
-Michigan,St. Clair County,26147,163040,,0.03,,,0.069,,6.7,17.0,76.0
-Michigan,Schoolcraft County,26153,8485,,,,,0.067,,,,
-Michigan,Tuscola County,26157,55729,,,,,0.067,,,,
-Michigan,Washtenaw County,26161,344791,,,,,0.072,,8.2,20.0,
-Michigan,Wayne County,26163,1820584,2.0,0.04,13.0,44.0,0.073,88.0,10.7,27.0,43.0
-Michigan,Wexford County,26165,32735,,,,,0.067,,,,
-MNULLnesota,Anoka County,27003,330844,1.0,0.01,5.0,,0.061,54.0,6.2,16.0,
-MNULLnesota,Becker County,27005,32504,,,,,0.059,,4.2,14.0,
-MNULLnesota,Beltrami County,27007,44442,,,,,,,5.7,13.0,
-MNULLnesota,Carlton County,27017,35386,,,,,0.054,,1.3,8.0,
-MNULLnesota,Cass County,27021,28567,,,,,,,4.4,13.0,
-MNULLnesota,Cook County,27031,5176,,,,,,,2.6,9.0,
-MNULLnesota,Crow WNULLg County,27035,62500,,,,,0.054,,4.2,12.0,
-MNULLnesota,Dakota County,27037,398552,1.0,0.08,7.0,27.0,,,7.6,17.0,12.0
-MNULLnesota,Douglas County,27041,36009,,,,,,,,,
-MNULLnesota,Freeborn County,27047,31255,,,,,,,,,
-MNULLnesota,Goodhue County,27049,46183,,,,,0.06,,,,
-MNULLnesota,HennepNULL County,27053,1152425,1.0,0.01,11.0,,0.046,108.0,8.7,20.0,5.0
-MNULLnesota,Itasca County,27061,45058,,,,,,,,,
-MNULLnesota,KaNULLiyohi County,27067,42239,,,,,,,,,
-MNULLnesota,Lake County,27075,10866,,,,,0.055,,5.3,10.0,
-MNULLnesota,Lyon County,27083,25857,,,,,0.062,,5.3,17.0,
-MNULLnesota,McLeod County,27085,36651,,,,,,,,,
-MNULLnesota,Mille Lacs County,27095,26097,,,,,0.06,,,,
-MNULLnesota,Nicollet County,27103,32727,,,,,,,,,
-MNULLnesota,Olmsted County,27109,144248,,,,,0.067,,5.6,17.0,
-MNULLnesota,Otter Tail County,27111,57303,,,,,,,,,
-MNULLnesota,Ramsey County,27123,508640,,0.02,,,,72.0,7.1,17.0,
-MNULLnesota,St. Louis County,27137,200226,,,5.0,,0.054,74.0,7.3,15.0,
-MNULLnesota,Scott County,27139,129928,,,,,0.058,,5.8,15.0,
-MNULLnesota,Stearns County,27145,150642,,,,,0.061,,5.8,15.0,
-MNULLnesota,WashNULLgton County,27163,238136,,,,,0.06,,,,5.0
-MNULLnesota,WNULLona County,27169,51461,,,,,,,,,
-MNULLnesota,Wright County,27171,124700,,,,,0.063,,6.2,16.0,
-Mississippi,Adams County,28001,32297,,,,,,,,,
-Mississippi,Bolivar County,28011,34145,,,,,0.059,,8.6,20.0,
-Mississippi,DeSoto County,28033,161252,,,,,0.062,,8.2,18.0,
-Mississippi,Forrest County,28035,74934,,,,,,,9.6,19.0,
-Mississippi,Grenada County,28043,21906,,,,,,,,,
-Mississippi,Hancock County,28045,43929,,,,,0.059,,8.4,18.0,
-Mississippi,Harrison County,28047,187105,,,,,0.059,,9.6,20.0,
-Mississippi,HNULLULLs County,28049,245285,1.0,,,,0.053,75.0,10.2,22.0,4.0
-Mississippi,Jackson County,28059,139668,,,3.0,27.0,0.059,,8.7,17.0,6.0
-Mississippi,Jones County,28067,67761,,,,,,,,,
-Mississippi,Lauderdale County,28075,80261,,,,,0.051,,,,
-Mississippi,Lee County,28081,82910,,,,,0.052,,,,
-Mississippi,LowNULLes County,28087,59779,,,,,,,,,
-Mississippi,Pearl River County,28109,55834,,,,,,,,,
-Mississippi,RankNULL County,28121,141617,,,,,,,,,
-Mississippi,Scott County,28123,28264,,,,,,,,,
-Mississippi,Warren County,28149,48773,,,,,,,,,
-Mississippi,Yalobusha County,28161,12678,,,,,0.054,,,,
-Missouri,ANULLrew County,29003,17291,,,,,0.061,,,,
-Missouri,Boone County,29019,162642,,,,,0.057,,,,
-Missouri,Buchanan County,29021,89201,,,,,,89.0,7.8,17.0,
-Missouri,Callaway County,29027,44332,,,,,0.059,,,,
-Missouri,Cass County,29037,99478,,,,,0.058,,6.2,15.0,
-Missouri,Cedar County,29039,13982,,,,,0.057,,6.5,14.0,
-Missouri,Clay County,29047,221939,,,,,0.066,,6.2,15.0,
-Missouri,ClNULLton County,29049,20743,,,,,0.063,,,,
-Missouri,FranklNULL County,29071,101492,,,,,,,,,34.0
-Missouri,Greene County,29077,275174,,,,,0.056,81.0,7.5,17.0,
-Missouri,Holt County,29087,4912,,0.02,,,,,,,
-Missouri,Howell County,29091,40400,,,,,,,,,
-Missouri,Iron County,29093,10630,,0.3,,,,,,,48.0
-Missouri,Jackson County,29095,674158,1.0,,10.0,42.0,,138.0,7.6,18.0,7.0
-Missouri,Jasper County,29097,117404,,,,,0.056,111.0,,,
-Missouri,Jefferson County,29099,218733,,0.06,,,0.066,58.0,7.6,18.0,22.0
-Missouri,LNULLcoln County,29113,52566,,,,,0.065,,,,
-Missouri,Maries County,29125,9176,,,,,,,,,
-Missouri,Mercer County,29129,3785,,,,,,,,,
-Missouri,Monroe County,29137,8840,,,2.0,8.0,0.056,38.0,,,5.0
-Missouri,New Madrid County,29143,18956,,,,,,,,,367.0
-Missouri,Perry County,29157,18971,,,,,0.06,,,,
-Missouri,Reynolds County,29179,6696,,0.03,,,,,,,
-Missouri,St. Charles County,29183,360485,,,,,0.071,,,,31.0
-Missouri,Ste. Genevieve County,29186,18145,,,,,0.061,,,,
-Missouri,St. Francois County,29187,65359,,0.03,,,,,,,
-Missouri,St. Louis County,29189,998954,,,9.0,39.0,0.074,,7.4,21.0,12.0
-Missouri,St. Louis city,29510,319294,2.0,,10.0,41.0,0.066,122.0,9.0,23.0,8.0
-Montana,Cascade County,30013,81327,,,,,,,,,
-Montana,Fergus County,30027,11586,,,1.0,12.0,0.057,89.0,4.7,23.0,
-Montana,Flathead County,30029,90928,,,,,0.052,167.0,7.0,38.0,
-Montana,GallatNULL County,30031,89513,1.0,,2.0,24.0,,,2.3,40.0,
-Montana,Lake County,30047,28746,,,,,,,,,
-Montana,Lewis aNULL Clark County,30049,63395,1.0,,,,0.059,,7.5,24.0,1.0
-Montana,LNULLcoln County,30053,19687,,,,,,248.0,13.8,45.0,
-Montana,Missoula County,30063,109299,,,,,0.055,132.0,8.6,33.0,
-Montana,Phillips County,30071,4253,,,1.0,6.0,0.052,150.0,,,
-Montana,Powder River County,30075,1743,,,1.0,9.0,0.06,124.0,7.7,30.0,
-Montana,Ravalli County,30081,40212,,,,,,,5.9,36.0,
-Montana,RichlaNULL County,30083,9746,,,1.0,9.0,0.054,40.0,4.3,12.0,7.0
-Montana,Rosebud County,30087,9233,,,1.0,6.0,0.059,96.0,,,
-Montana,SaNULLers County,30089,11413,,,,,,185.0,,,
-Montana,Silver Bow County,30093,34200,,,,,,123.0,6.0,41.0,
-Montana,Yellowstone County,30111,147972,,,,,,,7.0,27.0,18.0
-Nebraska,Cass County,31025,25241,,,,,,90.0,,,
-Nebraska,Cedar County,31027,8852,,,,,,,,,
-Nebraska,Cherry County,31031,5713,,,,,,,,,
-Nebraska,Deuel County,31049,1941,,,,,,,,,
-Nebraska,Douglas County,31055,517110,2.0,,,,0.058,74.0,7.3,18.0,44.0
-Nebraska,Hall County,31079,58607,,,,,,,5.5,19.0,
-Nebraska,Knox County,31107,8701,,,,,0.063,,,,
-Nebraska,Lancaster County,31109,285407,,,,,0.054,,6.1,17.0,25.0
-Nebraska,LNULLcoln County,31111,36288,,,,,,,,,
-Nebraska,Sarpy County,31153,158840,,,,,,,7.8,17.0,
-Nebraska,Scotts Bluff County,31157,36970,,,,,,,,,
-Nebraska,WashNULLgton County,31177,20234,,,,,,,6.2,16.0,
-Nevada,Churchill County,32001,24877,,,,,0.068,,,,
-Nevada,Clark County,32003,1951269,2.0,,23.0,57.0,0.078,210.0,12.2,33.0,5.0
-Nevada,Douglas County,32005,46997,,,,,,,9.4,70.0,
-Nevada,Elko County,32007,48818,,,,,,125.0,,,
-Nevada,Lyon County,32019,51980,,,,,0.069,277.0,,,
-Nevada,Nye County,32023,43946,,,,,,333.0,,,
-Nevada,Washoe County,32031,421407,2.0,,12.0,46.0,0.079,220.0,11.1,75.0,3.0
-Nevada,White PNULLe County,32033,10030,,,,,0.07,,,,
-Nevada,Carson City,32510,55274,,,,,0.075,,8.4,61.0,
-New Hampshire,Belknap County,33001,60088,,,,,0.053,,4.1,10.0,
-New Hampshire,Cheshire County,33005,77117,,,,,0.05,,6.2,18.0,
-New Hampshire,Coos County,33007,33055,,,,,0.058,,,,
-New Hampshire,Grafton County,33009,89118,,,,,0.05,,4.3,14.0,
-New Hampshire,Hillsborough County,33011,400721,0.0,,,,0.058,,3.0,9.0,1.0
-New Hampshire,Merrimack County,33013,146445,,,,,0.055,,,,24.0
-New Hampshire,RockNULLgham County,33015,295223,0.0,,2.0,,0.06,33.0,5.9,13.0,6.0
-New Hampshire,Sullivan County,33019,43742,,,,,,,,,
-New Jersey,Atlantic County,34001,274549,,,,,0.059,,6.5,16.0,1.0
-New Jersey,Bergen County,34003,905116,1.0,,15.0,51.0,0.066,,,,
-New Jersey,Camden County,34007,513657,1.0,,10.0,41.0,0.062,40.0,8.4,19.0,7.0
-New Jersey,CumberlaNULL County,34011,156898,,,6.0,32.0,0.06,,8.3,16.0,
-New Jersey,Essex County,34013,783969,2.0,,14.0,54.0,0.064,32.0,8.5,21.0,3.0
-New Jersey,Gloucester County,34015,288288,,,,,0.064,,,,
-New Jersey,Hudson County,34017,634266,2.0,,17.0,51.0,0.063,,,,2.0
-New Jersey,Hunterdon County,34019,128349,,,,,0.059,,7.4,18.0,
-New Jersey,Mercer County,34021,366513,,,,,0.07,,7.2,16.0,
-New Jersey,Middlesex County,34023,809858,,,7.0,37.0,0.066,,7.6,21.0,
-New Jersey,Monmouth County,34025,630380,,,,,0.062,,,,
-New Jersey,Morris County,34027,492276,,,3.0,24.0,0.06,,,,4.0
-New Jersey,Ocean County,34029,576567,,,,,0.063,,6.1,14.0,
-New Jersey,Passaic County,34031,501226,,,,,0.062,,,,
-New Jersey,Union County,34039,536499,2.0,,18.0,55.0,,,8.5,20.0,4.0
-New Jersey,Warren County,34041,108692,,,10.0,37.0,0.054,,7.2,18.0,6.0
-New Mexico,Bernalillo County,35001,662564,1.0,,8.0,41.0,0.071,349.0,9.4,25.0,3.0
-New Mexico,Chaves County,35005,65645,,,,,,,,,
-New Mexico,Doña Ana County,35013,209233,,,8.0,49.0,0.077,367.0,9.0,21.0,
-New Mexico,Eddy County,35015,53829,,,5.0,,0.073,,,,
-New Mexico,Grant County,35017,29514,,,,,,,,,
-New Mexico,Lea County,35025,64727,,,5.0,32.0,0.06,,5.6,18.0,
-New Mexico,Luna County,35029,25095,,,,,,126.0,,,
-New Mexico,Rio Arriba County,35039,40246,,,,,0.064,,,,
-New Mexico,SaNULLoval County,35043,131561,,,,,0.074,,,,
-New Mexico,San Juan County,35045,130044,,,10.0,29.0,0.069,91.0,,,13.0
-New Mexico,Santa Fe County,35049,144170,,,,,0.069,,4.5,13.0,
-New Mexico,Taos County,35055,32937,,,,,,,5.8,16.0,
-New Mexico,Valencia County,35061,76569,,,,,0.07,,,,
-New York,Albany County,36001,304204,,,,,0.053,,7.8,23.0,2.0
-New York,Bronx County,36005,1385108,1.0,,15.0,53.0,0.069,,8.0,20.0,4.0
-New York,Broome County,36007,200600,,,,,,,,,
-New York,Chautauqua County,36013,134905,,,,,0.064,,5.2,12.0,3.0
-New York,Dutchess County,36027,297488,,,,,0.059,,,,1.0
-New York,Erie County,36029,919040,1.0,,8.0,40.0,0.066,27.0,6.8,19.0,16.0
-New York,Essex County,36031,39370,,,,,0.059,,3.2,9.0,1.0
-New York,Hamilton County,36041,4836,,,,,0.054,,,,1.0
-New York,Jefferson County,36045,116229,,,,,0.06,,,,
-New York,KNULLgs County,36047,2504700,,,,,,,,,
-New York,Monroe County,36055,744344,1.0,,6.0,,0.061,25.0,6.3,15.0,2.0
-New York,Nassau County,36059,1339532,,,,,,,,,14.0
-New York,New York County,36061,1585873,1.0,,,,0.069,,,,
-New York,Niagara County,36063,216469,,,,,0.064,,,,
-New York,Oneida County,36065,234878,,,,,,,,,
-New York,OnoNULLaga County,36067,467026,,,,,0.058,,6.0,14.0,1.0
-New York,Orange County,36071,372813,,,,,0.059,,,,
-New York,Oswego County,36075,122109,,,,,0.056,,,,
-New York,Putnam County,36079,99710,,,,,0.058,,,,1.0
-New York,Queens County,36081,2230722,2.0,,15.0,54.0,0.068,26.0,5.8,16.0,6.0
-New York,RichmoNULL County,36085,468730,,,,,0.062,,,,
-New York,RocklaNULL County,36087,311687,,,,,0.061,,,,
-New York,St. Lawrence County,36089,111944,,,,,,,,,89.0
-New York,Saratoga County,36091,219607,,,,,0.055,,,,
-New York,Schenectady County,36093,154727,,,,,,,,,
-New York,Steuben County,36101,98990,0.0,,,,0.053,,5.2,12.0,1.0
-New York,Suffolk County,36103,1493350,,,,,0.073,,,,2.0
-New York,TompkNULLs County,36109,101564,,,,,0.055,,,,
-New York,Wayne County,36117,93772,,,,,0.06,,,,
-New York,Westchester County,36119,949113,,,,,0.067,,,,
-North CarolNULLa,Alamance County,37001,151131,,,,,,,,,
-North CarolNULLa,AlexaNULLer County,37003,37198,,,,,0.053,54.0,,,
-North CarolNULLa,Avery County,37011,17797,,,,,0.059,,,,
-North CarolNULLa,Beaufort County,37013,47759,,,,,,,,,15.0
-North CarolNULLa,Brunswick County,37019,107431,,,,,,,,,46.0
-North CarolNULLa,Buncombe County,37021,238318,,,,,0.054,,4.9,12.0,
-North CarolNULLa,Cabarrus County,37025,178011,,,,,,,,,
-North CarolNULLa,Caldwell County,37027,83029,,,,,0.052,,,,
-North CarolNULLa,Carteret County,37031,66469,,,,,0.054,,,,
-North CarolNULLa,Caswell County,37033,23719,,,,,0.055,38.0,,,
-North CarolNULLa,Catawba County,37035,154358,,,,,,,7.6,17.0,
-North CarolNULLa,Chatham County,37037,63505,,,,,,,,,
-North CarolNULLa,CumberlaNULL County,37051,319431,,,,,0.055,53.0,6.8,17.0,
-North CarolNULLa,Davidson County,37057,162878,,,,,,,8.2,19.0,
-North CarolNULLa,DuplNULL County,37061,58505,,,,,,,,,
-North CarolNULLa,Durham County,37063,267587,,,,,0.053,29.0,7.1,18.0,2.0
-North CarolNULLa,Edgecombe County,37065,56552,,,,,0.054,,,,
-North CarolNULLa,Forsyth County,37067,350670,,,5.0,30.0,0.062,60.0,8.0,26.0,3.0
-North CarolNULLa,Gaston County,37071,206086,,,,,,,,,
-North CarolNULLa,Graham County,37075,8861,,,,,0.06,,,,
-North CarolNULLa,Granville County,37077,59916,,,,,0.054,,,,
-North CarolNULLa,Guilford County,37081,488406,,,,,0.057,37.0,6.4,15.0,
-North CarolNULLa,Haywood County,37087,59036,,,,,0.06,,,,22.0
-North CarolNULLa,Jackson County,37099,40271,,,,,,,6.2,14.0,
-North CarolNULLa,Johnston County,37101,168878,,,,,0.055,,6.6,17.0,
-North CarolNULLa,Lee County,37105,57866,,,,,,,,,
-North CarolNULLa,Lenoir County,37107,59495,,,,,0.056,12.0,,,
-North CarolNULLa,LNULLcoln County,37109,78265,,,,,0.054,,,,
-North CarolNULLa,McDowell County,37111,44996,,,,,,,,,
-North CarolNULLa,Macon County,37113,33922,,,,,0.052,,,,
-North CarolNULLa,MartNULL County,37117,24505,,,,,0.049,,,,
-North CarolNULLa,Mecklenburg County,37119,919628,1.0,,9.0,32.0,0.06,49.0,8.4,18.0,2.0
-North CarolNULLa,Mitchell County,37121,15579,,,,,,,5.2,12.0,
-North CarolNULLa,Montgomery County,37123,27798,,,,,0.052,18.0,7.6,14.0,
-North CarolNULLa,Nash County,37127,95840,,,,,,,,,
-North CarolNULLa,New Hanover County,37129,202667,,,,,0.054,24.0,3.7,13.0,
-North CarolNULLa,Northampton County,37131,22099,,,1.0,12.0,,,,,
-North CarolNULLa,Onslow County,37133,177772,,,,,,,,,
-North CarolNULLa,Orange County,37135,133801,,,,,,,,,
-North CarolNULLa,Pasquotank County,37139,40661,,,,,,,,,
-North CarolNULLa,Person County,37145,39464,,,,,0.051,,,,44.0
-North CarolNULLa,Pitt County,37147,168148,,,,,0.055,,5.7,13.0,
-North CarolNULLa,Robeson County,37155,134168,,,,,,,,,
-North CarolNULLa,RockNULLgham County,37157,93643,,,,,0.055,,,,
-North CarolNULLa,Rowan County,37159,138428,,,,,0.058,,7.6,18.0,
-North CarolNULLa,SwaNULL County,37173,13981,,,,,0.054,,6.1,15.0,
-North CarolNULLa,Union County,37179,201292,,,,,0.051,,,,
-North CarolNULLa,Wake County,37183,900993,1.0,,8.0,30.0,0.054,46.0,7.8,20.0,2.0
-North CarolNULLa,Watauga County,37189,51079,,,,,,,,,
-North CarolNULLa,Wayne County,37191,122623,,,,,,,,,
-North CarolNULLa,Yancey County,37199,17818,,,,,0.063,,,,
-North Dakota,BillNULLgs County,38007,783,,,,,0.053,,3.6,12.0,5.0
-North Dakota,Burke County,38013,1968,,,2.0,,0.053,49.0,4.9,13.0,20.0
-North Dakota,Burleigh County,38015,81308,1.0,,5.0,28.0,0.051,64.0,5.3,15.0,11.0
-North Dakota,Cass County,38017,149778,,,4.0,34.0,0.056,33.0,6.4,14.0,3.0
-North Dakota,Dunn County,38025,3536,,,2.0,10.0,0.054,20.0,3.6,10.0,5.0
-North Dakota,GraNULL Forks County,38035,66861,,,,,,,,,
-North Dakota,McKenzie County,38053,6360,,,1.0,8.0,0.051,24.0,3.4,12.0,4.0
-North Dakota,Mercer County,38057,8424,,,2.0,18.0,0.052,,4.5,11.0,43.0
-North Dakota,Oliver County,38065,1846,,,2.0,,0.055,38.0,4.8,13.0,11.0
-North Dakota,Stark County,38089,24199,,,,,,,,,
-North Dakota,Steele County,38091,1975,,,,,,,,,
-North Dakota,Ward County,38101,61675,,,2.0,14.0,0.051,15.0,4.6,12.0,8.0
-North Dakota,Williams County,38105,22398,,,,,,,,,6.0
-Ohio,Adams County,39001,28550,,,,,,,,,
-Ohio,Allen County,39003,106331,,,,,0.065,,5.4,13.0,3.0
-Ohio,Ashtabula County,39007,101497,,,,,0.061,,,,
-Ohio,Athens County,39009,64757,,,,,,,,,
-Ohio,Belmont County,39013,70400,,,6.0,26.0,,54.0,,,1.0
-Ohio,Butler County,39017,368130,,,,,0.07,38.0,,,41.0
-Ohio,Clark County,39023,138333,,,,,0.066,,,,
-Ohio,Clermont County,39025,197363,,,,,0.064,,,,
-Ohio,ClNULLton County,39027,42040,,,,,0.062,,,,
-Ohio,Columbiana County,39029,107841,,,,,,30.0,,,3.0
-Ohio,Cuyahoga County,39035,1280122,2.0,0.05,8.0,36.0,0.074,73.0,9.0,22.0,19.0
-Ohio,Delaware County,39041,174214,,,,,0.063,,,,
-Ohio,Fayette County,39047,29030,,,,,0.061,,,,
-Ohio,FranklNULL County,39049,1163414,1.0,,8.0,39.0,0.067,28.0,7.8,18.0,
-Ohio,Fulton County,39051,42698,,,,,,,,,
-Ohio,Gallia County,39053,30934,,,,,,,,,58.0
-Ohio,Geauga County,39055,93389,,,,,0.065,,,,
-Ohio,Greene County,39057,161573,,,,,0.063,,,,
-Ohio,Guernsey County,39059,40087,,,,,,,,,
-Ohio,Hamilton County,39061,802374,2.0,,17.0,49.0,0.07,48.0,10.7,25.0,28.0
-Ohio,Hancock County,39063,74782,,,,,,,,,
-Ohio,Harrison County,39067,15864,1.0,,,,,,,,
-Ohio,Jefferson County,39081,69709,,,,,0.062,37.0,,,22.0
-Ohio,Knox County,39083,60921,,,,,0.058,,,,
-Ohio,Lake County,39085,230041,,,,,0.075,64.0,6.2,16.0,80.0
-Ohio,Lawrence County,39087,62450,,,,,0.057,30.0,,,3.0
-Ohio,LickNULLg County,39089,166492,,,,,0.06,,,,
-Ohio,LoraNULL County,39093,301356,,,,,0.059,17.0,6.7,15.0,
-Ohio,Lucas County,39095,441815,,,,,0.076,,,,
-Ohio,Madison County,39097,43435,,,,,0.06,,,,
-Ohio,MahonNULLg County,39099,238823,,,,,0.064,,,,6.0
-Ohio,Marion County,39101,66501,,,,,,,,,
-Ohio,MedNULLa County,39103,172332,,,,,0.064,,6.5,16.0,
-Ohio,Miami County,39109,102506,,,,,0.061,,,,
-Ohio,Montgomery County,39113,535153,,,,,0.071,48.0,9.6,20.0,
-Ohio,Morgan County,39115,15054,,,,,,,,,13.0
-Ohio,Noble County,39121,14645,,,,,0.06,,,,
-Ohio,Portage County,39133,161419,,,,,0.063,,,,
-Ohio,Preble County,39135,42270,0.0,,,,0.062,,7.4,16.0,7.0
-Ohio,Scioto County,39145,79499,,,,,,41.0,,,13.0
-Ohio,Stark County,39151,375586,,0.13,,,0.066,,8.7,20.0,
-Ohio,Summit County,39153,541781,,,,,0.062,,8.8,19.0,4.0
-Ohio,Trumbull County,39155,210312,,,,,0.062,28.0,6.2,18.0,
-Ohio,Warren County,39165,212693,,,,,0.071,,,,
-Ohio,WashNULLgton County,39167,61778,,,,,0.059,,,,
-Ohio,Wood County,39173,125488,,,,,0.06,,,,
-Oklahoma,Adair County,40001,22683,1.0,,,,0.053,77.0,,,2.0
-Oklahoma,Caddo County,40015,29600,,,,,,,,,
-Oklahoma,Canadian County,40017,115541,,,,,0.062,,,,
-Oklahoma,Carter County,40019,47557,,,,,0.067,,,,
-Oklahoma,Cherokee County,40021,46987,,,,,,,,,
-Oklahoma,ClevelaNULL County,40027,255755,,,,,0.063,,9.9,25.0,
-Oklahoma,Comanche County,40031,124098,,,,,0.064,,7.4,19.0,
-Oklahoma,Creek County,40037,69967,,,,,0.062,,,,
-Oklahoma,Custer County,40039,27469,,,,,,,,,
-Oklahoma,Dewey County,40043,4810,,,,,0.061,,7.3,17.0,
-Oklahoma,Garfield County,40047,60580,,,,,,,,,32.0
-Oklahoma,Johnston County,40069,10957,,,,,0.067,,,,
-Oklahoma,Kay County,40071,46562,,,,,0.056,,9.4,21.0,23.0
-Oklahoma,Le Flore County,40079,50384,,,,,,,,,
-Oklahoma,LNULLcoln County,40081,34273,,,,,,,,,
-Oklahoma,Love County,40085,9423,,,,,,,,,
-Oklahoma,Mayes County,40097,41259,,,,,0.054,,,,
-Oklahoma,Muskogee County,40101,70990,,,,,,,,,
-Oklahoma,Nowata County,40105,10536,,,,,,,,,
-Oklahoma,Oklahoma County,40109,718633,1.0,,11.0,39.0,0.069,120.0,9.9,22.0,2.0
-Oklahoma,Osage County,40113,47472,,,,,0.062,,,,
-Oklahoma,Ottawa County,40115,31848,,0.02,,,0.046,107.0,,,
-Oklahoma,Pawnee County,40117,16577,,,,,,,,,
-Oklahoma,Payne County,40119,77350,,,,,,,,,
-Oklahoma,Pittsburg County,40121,45837,,0.01,,,0.057,,8.2,22.0,
-Oklahoma,Pottawatomie County,40125,69442,,,,,,,,,
-Oklahoma,SemNULLole County,40133,25482,,,,,,,,,
-Oklahoma,Sequoyah County,40135,42391,,,5.0,26.0,0.053,,7.2,20.0,
-Oklahoma,Tulsa County,40143,603403,1.0,,6.0,,0.061,96.0,8.9,20.0,7.0
-Oklahoma,WashNULLgton County,40147,50976,,,,,0.062,,,,
-Oregon,Benton County,41003,85579,,,,,,,,,
-Oregon,Clackamas County,41005,375992,,,,,0.07,,,,
-Oregon,Columbia County,41009,49351,,,,,0.051,,,,
-Oregon,Crook County,41013,20978,,,,,,,16.4,132.0,
-Oregon,Deschutes County,41017,157733,,,,,,,,,
-Oregon,Douglas County,41019,107667,,,,,,,,,
-Oregon,Harney County,41025,7422,,,,,,,11.9,61.0,
-Oregon,Jackson County,41029,203206,,,,,0.06,46.0,15.5,63.0,
-Oregon,JosephNULLe County,41033,82713,,,,,,,14.5,29.0,
-Oregon,Klamath County,41035,66380,,,,,,488.0,19.8,88.0,
-Oregon,Lake County,41037,7895,,,,,,247.0,,36.0,
-Oregon,Lane County,41039,351715,,,,,0.055,579.0,14.9,240.0,
-Oregon,LNULLn County,41043,116672,,,,,,,,,
-Oregon,Marion County,41047,315335,,,,,0.057,,,,
-Oregon,Multnomah County,41051,735334,14.0,,6.0,30.0,0.059,35.0,10.7,31.0,2.0
-Oregon,Umatilla County,41059,75889,,,,,0.056,,,,
-Oregon,Union County,41061,25748,,,,,,39.0,,,
-Oregon,Wasco County,41065,25213,,,,,,,,,
-Oregon,WashNULLgton County,41067,529710,13.0,,10.0,30.0,0.059,,11.2,30.0,
-Pennsylvania,Adams County,42001,101407,0.0,,2.0,12.0,0.061,,,,2.0
-Pennsylvania,Allegheny County,42003,1223348,3.0,,9.0,34.0,0.071,72.0,9.8,27.0,65.0
-Pennsylvania,Armstrong County,42005,68941,,,,,0.07,,7.8,16.0,
-Pennsylvania,Beaver County,42007,170539,,0.0,8.0,36.0,0.067,56.0,8.5,24.0,10.0
-Pennsylvania,Berks County,42011,411442,,0.03,,,0.065,,7.9,19.0,
-Pennsylvania,Blair County,42013,127089,,,,,0.063,,7.7,19.0,4.0
-Pennsylvania,Bradford County,42015,62622,,,2.0,16.0,0.054,,6.6,16.0,
-Pennsylvania,Bucks County,42017,625249,,,,,0.071,,,,
-Pennsylvania,Cambria County,42021,143679,1.0,,6.0,31.0,0.06,40.0,8.5,21.0,8.0
-Pennsylvania,Carbon County,42025,65249,,0.06,,,,,,,
-Pennsylvania,Centre County,42027,153990,,,3.0,26.0,0.059,,7.2,19.0,2.0
-Pennsylvania,Chester County,42029,498886,,,,,0.06,,8.3,20.0,
-Pennsylvania,Clearfield County,42033,81642,,,,,0.053,,,,
-Pennsylvania,CumberlaNULL County,42041,235406,,,,,,,7.5,21.0,
-Pennsylvania,DauphNULL County,42043,268100,,,,,0.062,40.0,9.3,29.0,
-Pennsylvania,Delaware County,42045,558979,,0.0,8.0,,0.062,,9.7,23.0,
-Pennsylvania,Elk County,42047,31946,,,,,0.053,,,,
-Pennsylvania,Erie County,42049,280566,1.0,,4.0,31.0,0.061,37.0,6.5,16.0,
-Pennsylvania,Fayette County,42051,136606,,,3.0,15.0,0.06,,7.5,17.0,
-Pennsylvania,FranklNULL County,42055,149618,,,,,0.05,,,,
-Pennsylvania,Greene County,42059,38686,,,,,0.059,,6.5,14.0,
-Pennsylvania,NULLULLiana County,42063,88880,,,,,0.066,,,,20.0
-Pennsylvania,Lackawanna County,42069,214437,1.0,,9.0,43.0,0.057,,6.9,19.0,
-Pennsylvania,Lancaster County,42071,519445,,0.04,,,0.062,59.0,8.8,28.0,
-Pennsylvania,Lawrence County,42073,91108,,0.02,,,0.06,,,,
-Pennsylvania,Lebanon County,42075,133568,,,,,0.03,,,,
-Pennsylvania,Lehigh County,42077,349497,,,,,0.063,34.0,,,
-Pennsylvania,Luzerne County,42079,320918,,,,,0.054,37.0,,,3.0
-Pennsylvania,LycomNULLg County,42081,116111,,,,,0.058,,7.3,19.0,
-Pennsylvania,Mercer County,42085,116638,,,,,0.063,,7.4,18.0,
-Pennsylvania,Monroe County,42089,169842,,,,,0.053,,,,
-Pennsylvania,Montgomery County,42091,799874,,,,,0.066,,7.3,21.0,
-Pennsylvania,Northampton County,42095,297735,,,8.0,37.0,0.06,,,,7.0
-Pennsylvania,Perry County,42099,45969,,,,,,,,,
-Pennsylvania,Philadelphia County,42101,1526006,2.0,,13.0,50.0,0.07,,8.2,25.0,5.0
-Pennsylvania,Somerset County,42111,77742,,,,,0.056,,,,
-Pennsylvania,Susquehanna County,42115,43356,,,,,,,6.1,14.0,
-Pennsylvania,Tioga County,42117,41981,,,1.0,9.0,0.057,,6.1,14.0,
-Pennsylvania,Warren County,42123,41815,,,,,,,,,47.0
-Pennsylvania,WashNULLgton County,42125,207820,,,6.0,30.0,0.062,,7.2,17.0,8.0
-Pennsylvania,WestmorelaNULL County,42129,365169,,0.0,,,0.057,,7.0,16.0,
-Pennsylvania,WyomNULLg County,42131,28276,,,,,,,6.6,17.0,
-Pennsylvania,York County,42133,434972,,,7.0,39.0,0.058,,9.3,26.0,6.0
-Rhode IslaNULL,Kent County,44003,166158,,,,,0.065,,4.6,10.0,
-Rhode IslaNULL,Providence County,44007,626667,2.0,,15.0,45.0,0.064,30.0,8.3,20.0,1.0
-Rhode IslaNULL,WashNULLgton County,44009,126979,,,,,0.067,,4.0,11.0,
-South CarolNULLa,Aiken County,45003,160099,,,,,0.051,,,,
-South CarolNULLa,ANULLerson County,45007,187126,,,,,0.056,,,,
-South CarolNULLa,Beaufort County,45013,162233,,,,,,,,,
-South CarolNULLa,Berkeley County,45015,177843,,,,,0.051,,,,
-South CarolNULLa,Charleston County,45019,350209,,,6.0,30.0,0.053,45.0,7.1,16.0,2.0
-South CarolNULLa,Chesterfield County,45025,46734,,,,,0.056,,6.6,14.0,
-South CarolNULLa,Colleton County,45029,38892,,,,,,,,,
-South CarolNULLa,DarlNULLgton County,45031,68681,,,,,0.052,,,,
-South CarolNULLa,Edgefield County,45037,26985,,,,,0.054,,6.7,17.0,
-South CarolNULLa,Florence County,45041,136885,,0.15,,,,,6.7,15.0,
-South CarolNULLa,Georgetown County,45043,60158,,,,,,,,,
-South CarolNULLa,Greenville County,45045,451225,,,6.0,33.0,0.059,48.0,7.5,20.0,1.0
-South CarolNULLa,Greenwood County,45047,69661,,,,,,,,,
-South CarolNULLa,Horry County,45051,269291,,,,,0.052,,,,
-South CarolNULLa,LexNULLgton County,45063,262391,,,,,,42.0,7.1,17.0,
-South CarolNULLa,Oconee County,45073,74273,,,,,,,,,
-South CarolNULLa,Orangeburg County,45075,92501,,,,,,,,,
-South CarolNULLa,RichlaNULL County,45079,384504,0.0,,3.0,,0.055,,6.7,16.0,2.0
-South CarolNULLa,Spartanburg County,45083,284307,,,,,0.064,,8.0,17.0,
-South CarolNULLa,York County,45091,226073,,,,,0.054,,6.6,15.0,2.0
-South Dakota,BrookNULLgs County,46011,31965,,,,,0.064,95.0,4.4,16.0,
-South Dakota,Brown County,46013,36531,,,,,,75.0,5.6,15.0,
-South Dakota,CodNULLgton County,46029,27227,,,,,0.057,129.0,6.7,16.0,
-South Dakota,Custer County,46033,8216,,,,,0.063,55.0,3.3,16.0,
-South Dakota,Hughes County,46065,17022,,,,,,,4.0,13.0,
-South Dakota,Jackson County,46071,3031,,,1.0,4.0,0.061,43.0,4.2,17.0,1.0
-South Dakota,Meade County,46093,25434,,,,,0.062,63.0,,,
-South Dakota,MNULLnehaha County,46099,169468,1.0,,4.0,31.0,0.064,71.0,6.0,16.0,4.0
-South Dakota,PennNULLgton County,46103,100948,,,5.0,34.0,,124.0,6.8,23.0,
-South Dakota,Union County,46127,14399,,,2.0,22.0,0.063,88.0,6.1,17.0,2.0
-Tennessee,ANULLerson County,47001,75129,,,,,0.056,,,,
-Tennessee,Blount County,47009,123010,0.0,,1.0,5.0,0.058,,6.6,15.0,1.0
-Tennessee,Claiborne County,47025,32213,,,,,0.054,,,,
-Tennessee,Davidson County,47037,626681,1.0,,12.0,45.0,0.061,58.0,8.8,20.0,2.0
-Tennessee,DeKalb County,47041,18723,,,,,0.055,,,,
-Tennessee,Dyer County,47045,38335,,,,,,,6.2,15.0,
-Tennessee,Hamilton County,47065,336463,,,,,0.058,,8.3,20.0,
-Tennessee,Jefferson County,47089,51407,,,,,0.058,,,,
-Tennessee,Knox County,47093,432226,,0.04,,,0.053,45.0,8.3,20.0,
-Tennessee,Lawrence County,47099,41869,,,,,,,5.3,14.0,
-Tennessee,Loudon County,47105,48556,,,,,0.059,,6.3,14.0,
-Tennessee,McMNULLn County,47107,52266,,,,,,,6.8,16.0,
-Tennessee,Madison County,47113,98294,,,,,,,6.3,16.0,
-Tennessee,Maury County,47119,80956,,,,,,,5.7,14.0,
-Tennessee,Montgomery County,47125,172331,,,,,,,6.8,15.0,
-Tennessee,Putnam County,47141,72321,,,,,,,6.1,14.0,
-Tennessee,Roane County,47145,54181,,,,,,,6.7,15.0,
-Tennessee,Sevier County,47155,89889,,,,,0.062,,,,
-Tennessee,Shelby County,47157,927644,1.0,,10.0,33.0,0.062,64.0,9.1,20.0,2.0
-Tennessee,Sullivan County,47163,156823,,0.0,,,0.056,,5.8,13.0,73.0
-Tennessee,Sumner County,47165,160645,,,,,0.063,,6.9,15.0,
-Tennessee,Williamson County,47187,183182,,,,,0.057,,,,
-Tennessee,Wilson County,47189,113993,,,,,0.058,,,,
-Texas,Atascosa County,48013,44911,,,,,,,,,
-Texas,Bell County,48027,310235,,,3.0,23.0,0.064,,7.8,21.0,
-Texas,Bexar County,48029,1714773,1.0,,8.0,34.0,0.074,80.0,8.6,23.0,6.0
-Texas,Bowie County,48037,92565,,,,,,,9.4,21.0,
-Texas,Brazoria County,48039,313166,,,5.0,35.0,0.07,,,,
-Texas,Brazos County,48041,194851,,,,,,,8.1,21.0,
-Texas,Brewster County,48043,9232,,,,,0.06,,,,
-Texas,Caldwell County,48055,38066,,,,,,,,,
-Texas,Cameron County,48061,406220,,,,,0.053,,12.1,36.0,
-Texas,CollNULL County,48085,782341,,0.01,,,0.07,,,,
-Texas,Culberson County,48109,2398,,,,,0.072,,,,
-Texas,Dallas County,48113,2368139,1.0,,11.0,44.0,0.069,73.0,8.2,21.0,
-Texas,Denton County,48121,662614,,,5.0,35.0,0.071,,7.4,20.0,
-Texas,Ector County,48135,137130,,,,,,,7.2,20.0,
-Texas,Ellis County,48139,149610,,,3.0,23.0,0.061,,8.2,19.0,6.0
-Texas,El Paso County,48141,800647,2.0,0.01,13.0,59.0,0.079,99.0,9.1,24.0,7.0
-Texas,Freestone County,48161,19816,,,,,,,,,5.0
-Texas,Galveston County,48167,291309,,,3.0,22.0,0.068,87.0,8.3,28.0,
-Texas,Gregg County,48183,121730,,,3.0,16.0,0.055,,,,50.0
-Texas,Harris County,48201,4092459,2.0,,16.0,55.0,0.073,101.0,11.6,34.0,14.0
-Texas,Harrison County,48203,65631,,,2.0,14.0,0.055,,8.3,23.0,33.0
-Texas,Hidalgo County,48215,774769,,,,,0.055,82.0,10.8,33.0,
-Texas,Hood County,48221,51182,,,,,0.062,,,,
-Texas,Howard County,48227,35012,,,,,,,,,101.0
-Texas,Hunt County,48231,86129,,,3.0,23.0,0.061,,,,
-Texas,HutchNULLson County,48233,22150,,,,,,,,,173.0
-Texas,Jeff Davis County,48243,2342,,,,,,,,,
-Texas,Jefferson County,48245,252273,,,5.0,29.0,0.065,,8.5,24.0,47.0
-Texas,Johnson County,48251,150934,,,,,0.067,,,,
-Texas,Karnes County,48255,14824,,,3.0,25.0,,,,,
-Texas,Kaufman County,48257,103350,,0.04,3.0,23.0,0.066,,,,8.0
-Texas,Kleberg County,48273,32061,,,,,,,10.6,33.0,
-Texas,Lubbock County,48303,278831,,,,,,,5.4,15.0,
-Texas,McLennan County,48309,234906,0.0,,,,0.063,,,,6.0
-Texas,Marion County,48315,10546,,,,,,,,,
-Texas,Maverick County,48323,54258,,,,,,,7.9,24.0,
-Texas,Milam County,48331,24757,,,,,,,,,
-Texas,Montgomery County,48339,455746,,,2.0,20.0,0.075,,,,
-Texas,Navarro County,48349,47735,,,2.0,,0.062,,,,123.0
-Texas,Nueces County,48355,340223,,,,,0.064,84.0,8.0,27.0,3.0
-Texas,Orange County,48361,81837,,,4.0,26.0,0.062,,8.7,22.0,
-Texas,Parker County,48367,116927,,,,,0.068,,,,
-Texas,Polk County,48373,45413,,,,,0.057,,,,
-Texas,Potter County,48375,121073,,,,,,,5.5,15.0,94.0
-Texas,RaNULLall County,48381,120725,,,,,0.064,,,,
-Texas,Robertson County,48395,16622,,,,,,,,,
-Texas,Rockwall County,48397,78337,,,,,0.064,,,,
-Texas,Rusk County,48401,53330,,,,,,,,,84.0
-Texas,Smith County,48423,209714,,,2.0,12.0,0.06,,,,
-Texas,Tarrant County,48439,1809034,1.0,,12.0,45.0,0.077,,9.8,23.0,
-Texas,Titus County,48449,32334,,,,,,,,,13.0
-Texas,Travis County,48453,1024266,2.0,,12.0,43.0,0.063,91.0,9.5,23.0,
-Texas,Victoria County,48469,86793,,,,,0.06,,,,
-Texas,Webb County,48479,250304,2.0,,,,0.06,72.0,10.3,28.0,
-Texas,Wilson County,48493,42918,,,4.0,31.0,,,,,
-Utah,Box Elder County,49003,49975,,,1.0,11.0,0.066,,,,
-Utah,Cache County,49005,112656,,,5.0,31.0,0.068,260.0,8.0,29.0,
-Utah,Carbon County,49007,21403,,,2.0,18.0,0.067,,,,
-Utah,Davis County,49011,306479,,,11.0,44.0,0.08,,7.7,27.0,
-Utah,Duchesne County,49013,18607,,,5.0,27.0,0.064,,7.5,23.0,
-Utah,Garfield County,49017,5172,,,,,0.06,,,,
-Utah,Iron County,49021,46163,,,6.0,40.0,0.061,,5.4,17.0,
-Utah,Salt Lake County,49035,1029655,1.0,,17.0,51.0,0.08,112.0,10.5,33.0,5.0
-Utah,San Juan County,49037,14746,,,,,0.066,,,,
-Utah,Tooele County,49045,58218,,,4.0,21.0,0.07,,7.1,26.0,
-Utah,UNULLtah County,49047,32588,,,4.0,34.0,0.066,,6.6,22.0,
-Utah,Utah County,49049,516564,1.0,,10.0,43.0,0.07,90.0,7.9,26.0,
-Utah,WashNULLgton County,49053,138115,,,3.0,30.0,0.067,,5.8,17.0,
-Utah,Weber County,49057,231236,1.0,,11.0,47.0,0.074,77.0,6.9,23.0,
-Vermont,Addison County,50001,36821,,,,,,,,,
-Vermont,BennNULLgton County,50003,37125,,,,,0.053,,5.6,18.0,
-Vermont,ChitteNULLen County,50007,156545,1.0,,5.0,29.0,0.056,16.0,6.8,18.0,1.0
-Vermont,RutlaNULL County,50021,61642,1.0,,6.0,32.0,0.053,29.0,7.6,22.0,2.0
-Vermont,WashNULLgton County,50023,59534,,,,,,,,,
-VirgNULLia,Albemarle County,51003,98970,,,,,0.055,,6.5,12.0,
-VirgNULLia,ArlNULLgton County,51013,207627,1.0,,7.0,38.0,0.062,,6.6,18.0,
-VirgNULLia,Botetourt County,51023,33148,,,,,,,,,
-VirgNULLia,CarolNULLe County,51033,28545,,,,,0.053,,,,
-VirgNULLia,Carroll County,51035,30042,,,,,,15.0,,,
-VirgNULLia,Charles City County,51036,7256,,,3.0,26.0,0.054,,5.6,12.0,3.0
-VirgNULLia,Chesterfield County,51041,316236,,,,,0.054,,5.5,11.0,
-VirgNULLia,Fairfax County,51059,1081726,1.0,,14.0,43.0,0.057,16.0,7.9,16.0,2.0
-VirgNULLia,Fauquier County,51061,65203,,,,,0.049,,,,
-VirgNULLia,Frederick County,51069,78305,,,,,0.052,,6.6,16.0,
-VirgNULLia,Giles County,51071,17286,,,,,0.055,,,,144.0
-VirgNULLia,Hanover County,51085,99863,,,,,0.053,,,,
-VirgNULLia,Henrico County,51087,306935,1.0,,5.0,29.0,0.055,24.0,6.9,15.0,2.0
-VirgNULLia,Loudoun County,51107,312311,,,5.0,31.0,0.06,,,,
-VirgNULLia,Madison County,51113,13308,,,,,0.053,,,,
-VirgNULLia,Montgomery County,51121,94392,,0.0,,,,,,,
-VirgNULLia,Page County,51139,24042,,,,,,,,,
-VirgNULLia,PrNULLce Edward County,51147,23368,,,,,0.051,,,,
-VirgNULLia,PrNULLce William County,51153,402002,,,3.0,21.0,0.057,,,,
-VirgNULLia,Roanoke County,51161,92376,1.0,,5.0,31.0,0.054,,6.7,15.0,3.0
-VirgNULLia,Rockbridge County,51163,22307,,,,,0.051,,,,
-VirgNULLia,RockNULLgham County,51165,76314,,,8.0,34.0,0.053,,6.1,14.0,2.0
-VirgNULLia,Stafford County,51179,128961,,,,,0.056,16.0,,,
-VirgNULLia,Wythe County,51197,29235,,,,,0.054,,,,
-VirgNULLia,AlexaNULLria city,51510,139966,,,,,,,,,
-VirgNULLia,Bristol city,51520,17835,,,,,,,6.0,14.0,
-VirgNULLia,Chesapeake city,51550,222209,,,,,,,,,
-VirgNULLia,CovNULLgton city,51580,5961,,,,,,,,,
-VirgNULLia,Hampton city,51650,137436,1.0,,3.0,21.0,0.053,,5.9,13.0,4.0
-VirgNULLia,Hopewell city,51670,22591,,,,,,15.0,,,
-VirgNULLia,Lynchburg city,51680,75568,,,,,,,5.4,12.0,
-VirgNULLia,Newport News city,51700,180719,,,,,,,,,
-VirgNULLia,Norfolk city,51710,242803,1.0,,7.0,35.0,,21.0,,,2.0
-VirgNULLia,RichmoNULL city,51760,204214,1.0,,12.0,41.0,,,,,
-VirgNULLia,Roanoke city,51770,97032,,,,,,,,,
-VirgNULLia,Salem city,51775,24802,,,,,,,5.9,14.0,
-VirgNULLia,Suffolk city,51800,84585,,,,,0.054,,,,
-VirgNULLia,VirgNULLia Beach city,51810,437994,,,,,,,,,
-VirgNULLia,WNULLchester city,51840,26203,,,,,,18.0,,,
-WashNULLgton,Adams County,53001,18728,,,,,,,,,
-WashNULLgton,AsotNULL County,53003,21623,,,,,,,,,
-WashNULLgton,Benton County,53005,175177,,,,,0.061,566.0,,,
-WashNULLgton,Chelan County,53007,72453,,,,,,,,,2.0
-WashNULLgton,Clallam County,53009,71404,2.0,,,,0.049,,,,1.0
-WashNULLgton,Clark County,53011,425363,,,,,0.054,,13.9,147.0,
-WashNULLgton,Columbia County,53013,4078,,,,,0.035,,,,
-WashNULLgton,Cowlitz County,53015,102410,,,,,,,,,
-WashNULLgton,Grant County,53025,89120,,,,,,,,,
-WashNULLgton,Grays Harbor County,53027,72797,,,,,,,,,
-WashNULLgton,Jefferson County,53031,29872,,,,,,,,,
-WashNULLgton,KNULLg County,53033,1931249,2.0,,16.0,57.0,0.06,38.0,10.1,61.0,4.0
-WashNULLgton,Kitsap County,53035,251133,,,,,,,7.6,41.0,
-WashNULLgton,Kittitas County,53037,40915,,,,,,,,50.0,
-WashNULLgton,Lewis County,53041,75455,,,,,,,,,
-WashNULLgton,Mason County,53045,60699,,,,,,,,,
-WashNULLgton,Okanogan County,53047,41120,,,,,,,15.0,83.0,
-WashNULLgton,Pierce County,53053,795225,,,12.0,40.0,0.06,,9.4,41.0,
-WashNULLgton,Skagit County,53057,116901,,,,,0.046,,,,
-WashNULLgton,Skamania County,53059,11066,,,,,,,,,
-WashNULLgton,Snohomish County,53061,713335,,,,,,,10.6,51.0,
-WashNULLgton,Spokane County,53063,471221,,,,,0.055,343.0,10.3,31.0,
-WashNULLgton,Stevens County,53065,43531,,,,,,358.0,14.6,66.0,
-WashNULLgton,Thurston County,53067,252264,,,,,0.057,,,,
-WashNULLgton,Walla Walla County,53071,58781,,,,,,623.0,,,
-WashNULLgton,Whatcom County,53073,201140,,,,,0.05,,5.6,42.0,62.0
-WashNULLgton,Whitman County,53075,44776,,,,,,,,,
-WashNULLgton,Yakima County,53077,243231,,,,,,326.0,14.1,105.0,
-West VirgNULLia,Berkeley County,54003,104169,,,,,0.055,,7.5,23.0,
-West VirgNULLia,Brooke County,54009,24069,,,,,,37.0,8.1,18.0,41.0
-West VirgNULLia,Cabell County,54011,96319,,,,,0.058,,6.7,14.0,
-West VirgNULLia,Gilmer County,54021,8693,,,,,0.05,,,,
-West VirgNULLia,Greenbrier County,54025,35480,,,,,0.052,,,,
-West VirgNULLia,Hancock County,54029,30676,,,,,0.066,27.0,7.1,17.0,21.0
-West VirgNULLia,Harrison County,54033,69099,,,,,,,6.6,13.0,
-West VirgNULLia,Kanawha County,54039,193063,1.0,,,,0.057,,7.0,14.0,4.0
-West VirgNULLia,Marion County,54049,56418,,,,,,,,,
-West VirgNULLia,Marshall County,54051,33107,,,,,,,7.6,16.0,9.0
-West VirgNULLia,Mason County,54053,27324,,,,,,,,,55.0
-West VirgNULLia,Mercer County,54055,62264,,,,,,,,,
-West VirgNULLia,MNULLeral County,54057,28212,,,,,,,,,
-West VirgNULLia,Monongalia County,54061,96189,,,,,0.062,,6.2,16.0,10.0
-West VirgNULLia,Ohio County,54069,44443,,,,,0.063,,6.7,15.0,
-West VirgNULLia,Raleigh County,54081,78859,,,,,,,,,
-West VirgNULLia,Summers County,54089,13927,,,,,,,,,
-West VirgNULLia,Tucker County,54093,7141,,,,,0.054,,,,
-West VirgNULLia,Wood County,54107,86956,,,,,0.058,,7.0,15.0,19.0
-WisconsNULL,AshlaNULL County,55003,16157,,,,,0.054,,5.2,13.0,
-WisconsNULL,Brown County,55009,248007,,,,,0.064,,7.3,18.0,6.0
-WisconsNULL,Columbia County,55021,56833,,,,,0.071,,,,
-WisconsNULL,Dane County,55025,488073,,,,,0.069,33.0,8.0,18.0,2.0
-WisconsNULL,Dodge County,55027,88759,0.0,,,,0.067,51.0,7.6,18.0,2.0
-WisconsNULL,Door County,55029,27785,,,,,0.075,,,,
-WisconsNULL,Douglas County,55031,44159,,,,,,,,,
-WisconsNULL,Eau Claire County,55035,98736,,,,,0.063,47.0,7.7,17.0,
-WisconsNULL,FoNULL du Lac County,55039,101633,,,,,0.065,,,,
-WisconsNULL,Forest County,55041,9304,,,,,0.061,,5.7,14.0,2.0
-WisconsNULL,Grant County,55043,51208,,,,,,,8.2,20.0,
-WisconsNULL,Jefferson County,55055,83686,,,,,0.072,,,,
-WisconsNULL,Kenosha County,55059,166426,,,,,0.078,,7.1,18.0,
-WisconsNULL,Kewaunee County,55061,20574,,,,,0.063,,,,
-WisconsNULL,La Crosse County,55063,114638,,,,,0.061,,7.7,18.0,
-WisconsNULL,Manitowoc County,55071,81442,,,,,0.069,,,,
-WisconsNULL,Marathon County,55073,134063,,,,,0.055,,,,
-WisconsNULL,Milwaukee County,55079,947735,1.0,,12.0,40.0,0.075,46.0,9.0,21.0,2.0
-WisconsNULL,Oneida County,55085,35998,,,,,,,,,
-WisconsNULL,Outagamie County,55087,176695,,,,,0.067,,7.4,19.0,67.0
-WisconsNULL,Ozaukee County,55089,86395,,,,,0.073,,6.5,17.0,
-WisconsNULL,RacNULLe County,55101,195408,,,,,0.077,,,,
-WisconsNULL,Rock County,55105,160331,,,,,0.07,,,,
-WisconsNULL,St. Croix County,55109,84345,,,,,,,,,
-WisconsNULL,Sauk County,55111,61976,,,,,0.065,44.0,7.4,17.0,
-WisconsNULL,Sheboygan County,55117,115507,,,,,0.076,,,,
-WisconsNULL,Taylor County,55119,20689,,,,,0.057,,6.2,15.0,
-WisconsNULL,Vilas County,55125,21430,,,,,0.059,,5.0,13.0,
-WisconsNULL,Walworth County,55127,102228,,,,,0.074,,,,
-WisconsNULL,Waukesha County,55133,389891,,,,,0.067,45.0,8.8,19.0,
-WisconsNULL,Waupaca County,55135,52410,,,,,,,,,
-WisconsNULL,WNULLnebago County,55139,166994,,,,,,,,,
-WisconsNULL,Wood County,55141,74749,,,,,,,,,
-WyomNULLg,Albany County,56001,36299,,,,,0.066,184.0,6.2,38.0,
-WyomNULLg,Big Horn County,56003,11668,,,,,0.058,,,,
-WyomNULLg,Campbell County,56005,46133,,,1.0,,0.062,149.0,,,
-WyomNULLg,Carbon County,56007,15885,,,4.0,28.0,,,,,15.0
-WyomNULLg,Converse County,56009,13833,0.0,,2.0,18.0,0.071,83.0,,,
-WyomNULLg,Fremont County,56013,40123,,,1.0,4.0,0.067,70.0,7.3,37.0,41.0
-WyomNULLg,Goshen County,56015,13249,,,,,,,,,
-WyomNULLg,Johnson County,56019,8569,,,1.0,5.0,0.064,67.0,,,
-WyomNULLg,Laramie County,56021,91738,1.0,,3.0,,0.06,127.0,4.1,31.0,
-WyomNULLg,LNULLcoln County,56023,18106,,,,,,91.0,,,
-WyomNULLg,Natrona County,56025,75450,,,4.0,36.0,0.066,56.0,4.9,35.0,12.0
-WyomNULLg,Park County,56029,28205,,,,,,54.0,4.4,35.0,
-WyomNULLg,Platte County,56031,8667,,,,,,228.0,,,
-WyomNULLg,Sheridan County,56033,29116,,,,,0.059,52.0,6.4,34.0,
-WyomNULLg,Sublette County,56035,10247,,,2.0,17.0,0.069,63.0,3.1,18.0,
-WyomNULLg,Sweetwater County,56037,43806,,,6.0,37.0,0.064,301.0,3.6,16.0,7.0
-WyomNULLg,Teton County,56039,21294,1.0,,,,0.066,34.0,4.8,49.0,
-WyomNULLg,UNULLta County,56041,21118,,,,,0.068,47.0,,,
-WyomNULLg,Weston County,56045,7208,,,,,0.066,,,,6.0
-Puerto Rico,"Adjuntas Municipio, Puerto Rico",72001,19483,,,,,,,,,
-Puerto Rico,"Arecibo Municipio, Puerto Rico",72013,96440,,,,,,,,,
-Puerto Rico,"Bayamón Municipio, Puerto Rico",72021,208116,4.0,,,,0.037,,,,
-Puerto Rico,"Caguas Municipio, Puerto Rico",72025,142893,2.0,,,,,,,,
-Puerto Rico,"Cataño Municipio, Puerto Rico",72033,28140,,,,,0.038,161.0,,,
-Puerto Rico,"Fajardo Municipio, Puerto Rico",72053,36993,,,,,,,,,
-Puerto Rico,"Guayama Municipio, Puerto Rico",72057,45362,,,,,,,,,
-Puerto Rico,"Guayanilla Municipio, Puerto Rico",72059,21581,,,,,,,,,
-Puerto Rico,"Guaynabo Municipio, Puerto Rico",72061,97924,,,,,,,,,
-Puerto Rico,"Humacao Municipio, Puerto Rico",72069,58466,,,,,,,,,
-Puerto Rico,"Juncos Municipio, Puerto Rico",72077,40290,,,,,0.07,,,,
-Puerto Rico,"Lares Municipio, Puerto Rico",72081,30753,,,,,,,,,
-Puerto Rico,"Mayagüez Municipio, Puerto Rico",72097,89080,,,,,0.03,,,,
-Puerto Rico,"Ponce Municipio, Puerto Rico",72113,166327,3.0,,,,,99.0,,,
-Puerto Rico,"San Juan Municipio, Puerto Rico",72127,395326,3.0,,,,,,,,
+Alabama,Baldwin County,1003,182265,0,0,0,0,0.057,0,7.9,17,0
+Alabama,Clay County,1027,13932,0,0,0,0,0,0,6.7,14,0
+Alabama,Colbert County,1033,54428,0,0,0,0,0,0,0,0,0
+Alabama,DeKalb County,1049,71109,0,0,0,0,0.057,0,7.1,17,0
+Alabama,Elmore County,1051,79303,0,0,0,0,0.048,0,0,0,0
+Alabama,Escambia County,1053,38319,0,0,0,0,0,0,0,0,0
+Alabama,Etowah County,1055,104430,0,0,0,0,0.053,0,7.9,23,0
+Alabama,Houston County,1069,101547,0,0,0,0,0,0,0,0,0
+Alabama,Jefferson County,1073,658466,1,0,11,44,0.062,83,10.1,25,12
+Alabama,Madison County,1089,334811,0,0,0,0,0.057,37,7.1,17,0
+Alabama,Mobile County,1097,412992,0,0,0,0,0.054,0,8,16,11
+Alabama,Montgomery County,1101,229363,0,0,0,0,0.053,25,7.9,24,0
+Alabama,Morgan County,1103,119490,0,0,0,0,0.057,0,7.1,16,0
+Alabama,Pike County,1109,32899,0,0.17,0,0,0,0,0,0,0
+Alabama,Russell County,1113,52947,0,0,0,0,0.054,0,8.5,19,0
+Alabama,Shelby County,1117,195085,0,0,0,0,0.059,0,0,0,37
+Alabama,Sumter County,1119,13763,0,0,0,0,0.051,0,0,0,3
+Alabama,Talladega County,1121,82291,0,0,0,0,0,0,0,0,0
+Alabama,Tuscaloosa County,1125,194656,0,0,0,0,0.052,0,7.5,17,0
+Alabama,Walker County,1127,67023,0,0,0,0,0,0,0,0,0
+Alaska,Anchorage Municipality,2020,291826,3,0,0,0,0,77,5.9,22,0
+Alaska,Bethel Census Area,2050,17013,0,0,0,0,0,48,0,0,0
+Alaska,Denali Borough,2068,1826,0,0,0,0,0.051,0,0,0,0
+Alaska,Fairbanks North Star Borough,2090,97581,2,0,0,0,0.043,43,12.1,71,30
+Alaska,Juneau City and Borough,2110,31275,0,0,0,0,0,34,4.8,17,0
+Alaska,Kenai Peninsula Borough,2122,55400,0,0,0,0,0,0,0,0,0
+Alaska,Ketchikan Gateway Borough,2130,13477,0,0,0,0,0,0,0,0,0
+Alaska,Matanuska-Susitna Borough,2170,88995,0,0,0,0,0,77,4.6,24,0
+Alaska,Skagway Municipality,2232,968,0,0,0,0,0,0,0,0,0
+Arizona,Apache County,4001,71518,0,0,0,0,0,43,3.2,13,0
+Arizona,Cochise County,4003,131346,0,0,0,0,0.066,136,0,0,0
+Arizona,Coconino County,4005,134421,0,0,0,0,0.063,0,0,0,0
+Arizona,Gila County,4007,53597,0,0.03,0,0,0.081,74,0,0,70
+Arizona,La Paz County,4012,20489,0,0,0,0,0.064,148,4.2,11,0
+Arizona,Maricopa County,4013,3817117,3,0,25,57,0.087,199,13.2,37,7
+Arizona,Mohave County,4015,200186,0,0,0,0,0,127,0,0,0
+Arizona,Navajo County,4017,107449,0,0,0,0,0.067,45,0,0,0
+Arizona,Pima County,4019,980263,1,0,8,37,0.072,211,5.9,14,1
+Arizona,Pinal County,4021,375770,0,0,0,0,0.08,624,15.5,41,0
+Arizona,Santa Cruz County,4023,47420,0,0,0,0,0,128,10.2,32,0
+Arizona,Yavapai County,4025,211033,0,0,0,0,0.066,0,0,0,0
+Arizona,Yuma County,4027,195751,0,0,0,0,0.067,179,9.1,23,0
+Arkansas,Arkansas County,5001,19019,0,0,0,0,0,0,7.2,17,0
+Arkansas,Ashley County,5003,21853,0,0,0,0,0,0,7.4,18,0
+Arkansas,Benton County,5007,221339,0,0,0,0,0,0,0,0,0
+Arkansas,Clark County,5019,22995,0,0,0,0,0.052,0,0,0,0
+Arkansas,Craighead County,5031,96443,0,0,0,0,0,0,0,0,0
+Arkansas,Crittenden County,5035,50902,0,0,7,36,0.069,0,7.5,17,0
+Arkansas,Faulkner County,5045,113237,0,0,0,0,0,0,0,0,0
+Arkansas,Garland County,5051,96024,0,0,0,0,0,0,8,19,0
+Arkansas,Jackson County,5067,17997,0,0,0,0,0,0,7.1,22,0
+Arkansas,Jefferson County,5069,77435,0,0,0,0,0,0,0,0,0
+Arkansas,Marion County,5089,16653,0,0,0,0,0,0,0,0,0
+Arkansas,Miller County,5091,43462,0,0,0,0,0,0,0,0,0
+Arkansas,Mississippi County,5093,46480,0,0,0,0,0,0,0,0,0
+Arkansas,Newton County,5101,8330,0,0,0,0,0.06,0,0,0,0
+Arkansas,Phillips County,5107,21757,0,0,0,0,0,0,0,0,0
+Arkansas,Polk County,5113,20662,0,0,0,0,0.058,0,7.2,21,0
+Arkansas,Pope County,5115,61754,0,0,0,0,0,0,0,0,0
+Arkansas,Pulaski County,5119,382748,1,0,7,36,0.064,35,9.7,24,5
+Arkansas,Sebastian County,5131,125744,0,0,0,0,0,0,0,0,0
+Arkansas,Union County,5139,41639,0,0,0,0,0,0,8.5,22,0
+Arkansas,Washington County,5143,203065,0,0,0,0,0.055,33,6.9,16,0
+Arkansas,White County,5145,77076,0,0,0,0,0,0,0,0,0
+California,Alameda County,6001,1510271,2,0,14,48,0.071,0,11.8,65,5
+California,Amador County,6005,38091,0,0,0,0,0.065,0,0,0,0
+California,Butte County,6007,220000,4,0,5,27,0.074,325,16,92,0
+California,Calaveras County,6009,45578,0,0,0,0,0.073,162,12.6,97,0
+California,Colusa County,6011,21419,0,0,0,0,0.052,210,12.2,104,0
+California,Contra Costa County,6013,1049025,2,0,7,34,0.069,43,11.1,66,14
+California,Del Norte County,6015,28610,0,0,0,0,0,0,0,0,0
+California,El Dorado County,6017,181058,0,0,0,0,0.086,169,0,0,0
+California,Fresno County,6019,930450,2,0,20,54,0.09,320,20.3,124,5
+California,Glenn County,6021,28122,0,0,0,0,0.056,152,0,0,0
+California,Humboldt County,6023,134623,2,0,2,16,0.04,131,0,0,1
+California,Imperial County,6025,174528,3,0,10,51,0.08,190,12,34,7
+California,Inyo County,6027,18546,1,0,0,0,0.072,526,11.8,308,1
+California,Kern County,6029,839631,1,0,13,53,0.101,236,20.3,81,0
+California,Kings County,6031,152982,0,0,9,44,0.084,323,19.9,87,0
+California,Lake County,6033,64665,0,0,0,0,0.059,114,9.3,85,0
+California,Los Angeles County,6037,9818605,3,0.02,23,86,0.124,169,14.8,53,3
+California,Madera County,6039,150865,0,0,6,29,0.085,314,16.9,88,0
+California,Marin County,6041,252409,2,0,8,36,0.06,39,8.6,41,0
+California,Mariposa County,6043,18251,0,0,0,0,0.091,484,0,0,0
+California,Mendocino County,6045,87841,0,0,0,0,0.059,187,12.4,62,0
+California,Merced County,6047,255793,0,0,7,31,0.079,123,15.5,78,0
+California,Modoc County,6049,9686,0,0,0,0,0,0,0,0,0
+California,Mono County,6051,14202,0,0,0,0,0,1955,40.3,453,0
+California,Monterey County,6053,415057,1,0,4,25,0.057,218,8.8,64,0
+California,Napa County,6055,136484,2,0,5,26,0.06,81,10.4,57,0
+California,Nevada County,6057,98764,0,0,0,0,0.08,0,14.1,90,0
+California,Orange County,6059,3010232,2,0,19,53,0.09,120,12.3,42,0
+California,Placer County,6061,348432,0,0,6,0,0.083,213,13.4,93,0
+California,Plumas County,6063,20007,0,0,0,0,0,0,20.9,109,0
+California,Riverside County,6065,2189641,2,0,15,54,0.104,359,14.7,40,2
+California,Sacramento County,6067,1418788,2,0,11,46,0.078,231,14.7,85,3
+California,San Benito County,6069,55269,0,0,0,0,0.069,116,8.9,59,0
+California,San Bernardino County,6071,2035210,1,0,29,78,0.125,205,15.1,43,5
+California,San Diego County,6073,3095313,2,0.02,14,49,0.082,158,20.5,75,1
+California,San Francisco County,6075,805235,2,0,9,41,0.048,0,10.5,40,0
+California,San Joaquin County,6077,685306,2,0,11,54,0.068,226,14.8,92,0
+California,San Luis Obispo County,6079,269637,0,0,4,26,0.08,280,9.8,63,2
+California,San Mateo County,6081,718451,2,0,8,38,0.054,0,9.8,46,0
+California,Santa Barbara County,6083,423895,1,0,5,28,0.072,103,9.3,37,3
+California,Santa Clara County,6085,1781642,2,0,14,49,0.069,91,12.5,56,2
+California,Santa Cruz County,6087,262382,0,0,0,0,0.048,0,11,88,0
+California,Shasta County,6089,177223,0,0,0,0,0.069,100,10.2,66,0
+California,Siskiyou County,6093,44900,0,0,0,0,0.06,0,10.9,85,0
+California,Solano County,6095,413344,2,0,7,42,0.066,170,12,52,4
+California,Sonoma County,6097,483878,2,0,4,25,0.052,134,8.3,34,0
+California,Stanislaus County,6099,514453,2,0,9,41,0.08,216,15.5,87,0
+California,Sutter County,6101,94737,0,0,6,38,0.083,246,16.4,91,0
+California,Tehama County,6103,63463,0,0,0,0,0.074,151,13.2,87,0
+California,Trinity County,6105,13786,0,0,0,0,0,0,0,0,0
+California,Tulare County,6107,442179,0,0,9,48,0.095,270,19.6,83,0
+California,Tuolumne County,6109,55365,0,0,0,0,0.08,0,0,0,0
+California,Ventura County,6111,823318,0,0,7,34,0.085,162,7.9,32,0
+California,Yolo County,6113,200849,0,0,4,24,0.066,116,0,134,0
+Colorado,Adams County,8001,441603,1,0,16,57,0.078,113,9.8,28,6
+Colorado,Arapahoe County,8005,572003,0,0,0,0,0.083,0,6,24,0
+Colorado,Archuleta County,8007,12084,0,0,0,0,0.066,59,0,0,0
+Colorado,Boulder County,8013,294567,0,0,0,0,0.076,74,9.5,52,0
+Colorado,Clear Creek County,8019,9088,0,0,0,0,0.073,0,0,0,0
+Colorado,Delta County,8029,30952,0,0,0,0,0.061,42,0,0,0
+Colorado,Denver County,8031,600158,2,0,25,71,0.078,104,10.5,39,7
+Colorado,Douglas County,8035,285465,0,0,0,0,0.083,0,6.9,42,0
+Colorado,Elbert County,8039,23086,0,0,0,0,0,0,0,0,0
+Colorado,El Paso County,8041,622263,1,0,0,0,0.079,50,6,21,9
+Colorado,Fremont County,8043,46824,0,0,0,0,0,0,0,0,0
+Colorado,Garfield County,8045,56389,0,0,3,18,0.069,39,0,0,0
+Colorado,Gilpin County,8047,5441,0,0,0,0,0.077,0,0,0,0
+Colorado,Gunnison County,8051,15324,0,0,0,0,0.066,0,0,0,0
+Colorado,Jefferson County,8059,534543,0,0,2,25,0.087,0,0,0,0
+Colorado,La Plata County,8067,51334,0,0,1,7,0.066,0,0,0,0
+Colorado,Larimer County,8069,299630,1,0,0,0,0.075,0,8.1,47,0
+Colorado,Mesa County,8077,146723,0,0,0,0,0.065,71,6.1,20,0
+Colorado,Montezuma County,8083,25535,0,0,0,0,0.067,0,0,0,0
+Colorado,Park County,8093,16206,0,0,0,0,0,0,0,0,0
+Colorado,Pitkin County,8097,17148,0,0,0,0,0,51,0,0,0
+Colorado,Prowers County,8099,12551,0,0,0,0,0,307,0,0,0
+Colorado,Pueblo County,8101,159063,0,0,0,0,0,52,0,0,0
+Colorado,Rio Blanco County,8103,6666,0,0,2,26,0.065,0,8.4,23,0
+Colorado,Routt County,8107,23509,0,0,0,0,0,69,0,0,0
+Colorado,San Miguel County,8113,7359,0,0,0,0,0,59,0,0,0
+Colorado,Weld County,8123,252825,1,0,0,0,0.076,0,9.8,37,0
+Connecticut,Fairfield County,9001,916829,0,0,8,39,0.077,48,8.1,25,3
+Connecticut,Hartford County,9003,894014,1,0,12,42,0.064,45,7.6,20,0
+Connecticut,Litchfield County,9005,189927,0,0,0,0,0.063,29,5.1,13,1
+Connecticut,Middlesex County,9007,165676,0,0,0,0,0.069,0,0,0,0
+Connecticut,New Haven County,9009,862477,1,0,11,45,0.08,66,8.2,23,2
+Connecticut,New London County,9011,274055,0,0,0,0,0.071,59,6.9,17,0
+Connecticut,Tolland County,9013,152691,0,0,0,0,0.063,0,0,0,0
+Connecticut,Windham County,9015,118428,0,0,0,0,0.062,0,0,0,0
+Delaware,Kent County,10001,162310,0,0,0,0,0.062,0,0,0,0
+Delaware,New Castle County,10003,538479,1,0,9,0,0.063,0,7.2,17,0
+Delaware,Sussex County,10005,197145,0,0,0,0,0.06,0,0,0,0
+District of Columbia,District of Columbia,11001,601723,2,0,12,45,0.063,46,7.8,21,4
+Florida,Alachua County,12001,247336,0,0,0,0,0.06,0,7.6,16,0
+Florida,Baker County,12003,27115,0,0,0,0,0.055,0,0,0,0
+Florida,Bay County,12005,168852,0,0,0,0,0.058,0,0,0,0
+Florida,Brevard County,12009,543376,0,0,0,0,0.058,85,7.9,17,0
+Florida,Broward County,12011,1748066,1,0,13,39,0.067,79,9.3,18,1
+Florida,Citrus County,12017,141236,0,0,0,0,0,0,0,0,37
+Florida,Collier County,12021,321520,0,0,0,0,0.057,0,0,0,0
+Florida,Columbia County,12023,67531,0,0,0,0,0.049,0,0,0,0
+Florida,Duval County,12031,864263,1,0,10,37,0.057,98,8.3,18,16
+Florida,Escambia County,12033,297619,0,0,0,0,0.058,0,9.7,20,4
+Florida,Flagler County,12035,95696,0,0,0,0,0.053,0,0,0,0
+Florida,Hamilton County,12047,14799,0,0,0,0,0,0,0,0,8
+Florida,Highlands County,12055,98786,0,0,0,0,0.059,0,0,0,0
+Florida,Hillsborough County,12057,1229226,1,0.09,9,35,0.065,57,8.4,18,42
+Florida,Holmes County,12059,19927,0,0,0,0,0.055,0,0,0,0
+Florida,Indian River County,12061,138028,0,0,0,0,0.059,0,0,0,0
+Florida,Lake County,12069,297052,0,0,0,0,0.062,0,0,0,0
+Florida,Lee County,12071,618754,0,0,0,0,0.061,57,0,0,0
+Florida,Leon County,12073,275487,0,0,0,0,0.055,0,7.5,18,0
+Florida,Liberty County,12077,8365,0,0,0,0,0.054,0,0,0,0
+Florida,Manatee County,12081,322833,0,0,0,0,0.059,0,0,0,7
+Florida,Marion County,12083,331298,0,0,0,0,0.061,0,0,0,0
+Florida,Martin County,12085,146318,0,0,0,0,0.057,0,0,0,0
+Florida,Miami-Dade County,12086,2496435,1,0,9,34,0.06,87,7.7,16,1
+Florida,Nassau County,12089,73314,0,0,0,0,0,0,0,0,60
+Florida,Okaloosa County,12091,180822,0,0,0,0,0.056,55,0,0,0
+Florida,Orange County,12095,1145956,1,0,3,0,0.062,41,6.8,17,4
+Florida,Osceola County,12097,268685,0,0,0,0,0.06,0,0,0,0
+Florida,Palm Beach County,12099,1320134,0,0,0,0,0.059,87,7.3,21,0
+Florida,Pasco County,12101,464697,0,0,0,0,0.062,0,0,0,0
+Florida,Pinellas County,12103,916542,1,0,8,27,0.064,60,7.9,18,6
+Florida,Polk County,12105,602095,0,0,0,0,0.062,47,8.4,19,13
+Florida,Putnam County,12107,74364,0,0,0,0,0,47,0,0,8
+Florida,St. Lucie County,12111,277789,0,0,0,0,0.058,0,0,0,0
+Florida,Santa Rosa County,12113,151372,0,0,0,0,0.058,0,0,0,0
+Florida,Sarasota County,12115,379448,0,0,0,0,0.06,56,7.9,18,0
+Florida,Seminole County,12117,422718,0,0,0,0,0.06,43,7.3,16,0
+Florida,Volusia County,12127,494593,0,0,0,0,0.059,50,8.1,17,0
+Florida,Wakulla County,12129,30776,0,0,0,0,0.055,0,0,0,1
+Georgia,Bibb County,13021,155547,0,0,0,0,0.054,0,8.1,18,2
+Georgia,Chatham County,13051,265128,0,0,0,0,0.054,0,8.9,18,64
+Georgia,Chattooga County,13055,26015,0,0,0,0,0.052,0,0,0,0
+Georgia,Clarke County,13059,116714,0,0,0,0,0.056,0,8.4,20,0
+Georgia,Clayton County,13063,259424,0,0,0,0,0,0,8.1,24,0
+Georgia,Cobb County,13067,688078,0,0,0,0,0.056,0,8.2,24,0
+Georgia,Coffee County,13069,42356,0,0,0,0,0,0,6.8,16,0
+Georgia,Columbia County,13073,124053,0,0,0,0,0.052,0,0,0,0
+Georgia,Dawson County,13085,22330,0,0,0,0,0.057,0,0,0,0
+Georgia,DeKalb County,13089,691893,1,0,14,42,0.061,68,8.3,22,2
+Georgia,Dougherty County,13095,94565,0,0,0,0,0,0,9.1,24,0
+Georgia,Douglas County,13097,132403,0,0,0,0,0.056,0,0,0,0
+Georgia,Floyd County,13115,96317,0,0,0,0,0,0,0,0,11
+Georgia,Fulton County,13121,920581,2,0,16,41,0.063,33,9.5,25,3
+Georgia,Glynn County,13127,79626,0,0,0,0,0.052,0,0,0,0
+Georgia,Gwinnett County,13135,805321,0,0,0,0,0.066,0,8.3,21,0
+Georgia,Hall County,13139,179684,0,0,0,0,0,0,8.7,19,0
+Georgia,Henry County,13151,203922,0,0,0,0,0.058,0,0,0,0
+Georgia,Houston County,13153,139900,0,0,0,0,0,0,8.9,21,0
+Georgia,Lowndes County,13185,109233,0,0,0,0,0,0,8,19,0
+Georgia,Murray County,13213,39628,0,0,0,0,0.057,0,0,0,0
+Georgia,Muscogee County,13215,189885,0,0.01,0,0,0.053,0,8.4,23,0
+Georgia,Paulding County,13223,142324,0,0,0,0,0,0,0,0,0
+Georgia,Pike County,13231,17869,0,0,0,0,0.054,0,0,0,0
+Georgia,Richmond County,13245,200549,0,0,0,0,0.056,39,10.7,23,58
+Georgia,Rockdale County,13247,85215,0,0,0,0,0.06,0,0,0,0
+Georgia,Sumter County,13261,32819,0,0,0,0,0.054,0,0,0,0
+Georgia,Walker County,13295,68756,0,0,0,0,0,0,0,0,0
+Georgia,Washington County,13303,21187,0,0,0,0,0,0,8.7,21,0
+Georgia,Wilkinson County,13319,9563,0,0,0,0,0,0,0,0,0
+Hawaii,Hawaii County,15001,185079,0,0,0,0,0,0,3.5,10,274
+Hawaii,Honolulu County,15003,953207,1,0,3,26,0.045,38,3.9,7,57
+Hawaii,Kauai County,15007,67091,0,0,3,34,0,0,0,0,4
+Hawaii,Maui County,15009,154834,0,0,0,0,0,0,3.9,7,0
+Idaho,Ada County,16001,392365,2,0,10,43,0.065,115,7.6,37,2
+Idaho,Bannock County,16005,82839,0,0,0,0,0.065,114,0,0,47
+Idaho,Benewah County,16009,9285,0,0,0,0,0,0,10.3,73,0
+Idaho,Boise County,16015,7028,0,0,0,0,0,0,0,0,0
+Idaho,Bonner County,16017,40877,0,0,0,0,0,291,0,0,0
+Idaho,Bonneville County,16019,104234,0,0,0,0,0,0,0,0,0
+Idaho,Boundary County,16021,10972,0,0,0,0,0,0,0,0,0
+Idaho,Butte County,16023,2891,0,0,0,0,0.066,0,0,0,0
+Idaho,Canyon County,16027,188923,0,0,0,0,0,142,10.6,49,0
+Idaho,Caribou County,16029,6963,0,0,0,0,0,0,0,0,44
+Idaho,Franklin County,16041,12786,0,0,0,0,0,0,6.4,26,0
+Idaho,Gem County,16045,16719,0,0,0,0,0,0,0,0,0
+Idaho,Idaho County,16049,16267,0,0,0,0,0.054,0,0,0,0
+Idaho,Jerome County,16053,22374,0,0,0,0,0,0,0,0,0
+Idaho,Kootenai County,16055,138494,0,0,0,0,0,0,0,0,0
+Idaho,Latah County,16057,37244,0,0,0,0,0,0,0,0,0
+Idaho,Lemhi County,16059,7936,0,0,0,0,0,0,10.8,38,0
+Idaho,Nez Perce County,16069,39265,0,0,0,0,0,0,0,0,0
+Idaho,Power County,16077,7817,0,0,0,0,0,0,0,0,0
+Idaho,Shoshone County,16079,12765,0,0,0,0,0,236,11.1,34,0
+Idaho,Twin Falls County,16083,77230,0,0,0,0,0,0,0,0,0
+Idaho,Valley County,16085,9862,0,0,0,0,0,0,0,0,0
+Illinois,Adams County,17001,67103,0,0,0,0,0.064,0,0,0,0
+Illinois,Champaign County,17019,201081,0,0,0,0,0.069,0,7.3,17,3
+Illinois,Clark County,17023,16335,0,0,0,0,0.06,0,0,0,0
+Illinois,Cook County,17031,5194675,1,0,16,50,0.079,149,10.8,23,14
+Illinois,DuPage County,17043,916924,0,0,0,0,0.073,0,9.1,21,0
+Illinois,Effingham County,17049,34242,0,0,0,0,0.062,0,0,0,0
+Illinois,Hamilton County,17065,8457,0,0,0,0,0.067,0,8.8,17,0
+Illinois,Jersey County,17083,22985,0,0,0,0,0.062,0,7.5,17,0
+Illinois,Jo Daviess County,17085,22678,0,0,0,0,0.063,0,0,0,0
+Illinois,Kane County,17089,515269,0,0,0,0,0.073,0,8.4,21,0
+Illinois,Lake County,17097,703462,0,0,0,0,0.076,0,0,0,0
+Illinois,LaSalle County,17099,113924,0,0,0,0,0,0,0,0,8
+Illinois,McHenry County,17111,308760,0,0,0,0,0.076,0,8.2,17,0
+Illinois,McLean County,17113,169572,0,0,0,0,0.07,0,8.5,19,0
+Illinois,Macon County,17115,110768,0,0,0,0,0.065,0,8.6,18,39
+Illinois,Macoupin County,17117,47765,0,0,2,16,0.063,0,0,0,3
+Illinois,Madison County,17119,269282,0,0.12,0,0,0.069,73,10.1,26,7
+Illinois,Monroe County,17133,32957,0,0,0,0,0,0,0,0,10
+Illinois,Peoria County,17143,186494,0,0,0,0,0.07,0,0,0,0
+Illinois,Randolph County,17157,33476,0,0,0,0,0.061,0,8.3,19,0
+Illinois,Rock Island County,17161,147546,0,0,0,0,0.063,0,8.1,18,0
+Illinois,St. Clair County,17163,270056,0,0,9,39,0.065,0,9.5,22,8
+Illinois,Sangamon County,17167,197465,0,0,0,0,0.067,0,7.6,18,0
+Illinois,Tazewell County,17179,135394,0,0,0,0,0,0,0,0,14
+Illinois,Wabash County,17185,11947,0,0,0,0,0,0,0,0,49
+Illinois,Will County,17197,677560,0,0,0,0,0.067,0,9.8,21,0
+Illinois,Winnebago County,17201,295266,0,0,0,0,0.067,0,9.1,21,0
+Indiana,Allen County,18003,355329,0,0,0,0,0.065,0,8.3,18,0
+Indiana,Bartholomew County,18005,76794,0,0,0,0,0.065,0,6.7,16,0
+Indiana,Boone County,18011,56640,0,0,0,0,0.069,0,0,0,0
+Indiana,Brown County,18013,15242,0,0,0,0,0.062,0,0,0,0
+Indiana,Carroll County,18015,20155,0,0,0,0,0.062,0,0,0,0
+Indiana,Clark County,18019,110232,0,0,0,0,0.062,39,9.4,22,0
+Indiana,Daviess County,18027,31648,0,0,0,0,0,0,0,0,11
+Indiana,Delaware County,18035,117671,0,0.05,0,0,0.062,0,8,17,0
+Indiana,Dubois County,18037,41889,0,0,0,0,0,25,8.4,16,0
+Indiana,Elkhart County,18039,197559,0,0,0,0,0.062,0,8.2,20,0
+Indiana,Floyd County,18043,74578,0,0,0,0,0.066,0,0,0,5
+Indiana,Gibson County,18051,33503,0,0,0,0,0,0,0,0,59
+Indiana,Greene County,18055,33165,0,0,0,0,0.064,0,7.5,17,0
+Indiana,Hamilton County,18057,274569,0,0,0,0,0.063,0,9.4,20,0
+Indiana,Hendricks County,18063,145448,0,0,0,0,0.063,0,0,0,0
+Indiana,Henry County,18065,49462,0,0,0,0,0,0,7.3,16,0
+Indiana,Howard County,18067,82752,0,0,0,0,0.064,0,6.7,15,0
+Indiana,Knox County,18083,38440,0,0,0,0,0.065,0,0,0,0
+Indiana,Lake County,18089,496005,0,0.05,0,0,0.074,59,9.6,20,32
+Indiana,LaPorte County,18091,111467,0,0,0,0,0.079,0,0,0,0
+Indiana,Madison County,18095,131636,0,0,0,0,0.059,0,8.3,19,0
+Indiana,Marion County,18097,903393,2,0,11,39,0.067,65,11,24,6
+Indiana,Monroe County,18105,137974,0,0,0,0,0,0,7.4,18,0
+Indiana,Montgomery County,18107,38124,0,0,0,0,0,0,0,0,0
+Indiana,Perry County,18123,19338,0,0,0,0,0.065,0,0,0,0
+Indiana,Porter County,18127,164343,0,0,0,0,0.076,64,0,0,81
+Indiana,Posey County,18129,25910,0,0,0,0,0.064,0,0,0,0
+Indiana,St. Joseph County,18141,266931,0,0,4,0,0.067,0,9.1,22,0
+Indiana,Shelby County,18145,44436,0,0,0,0,0.061,0,0,0,0
+Indiana,Spencer County,18147,20952,0,0,0,0,0,0,8,17,0
+Indiana,Sullivan County,18153,21475,0,0,0,0,0,0,0,0,0
+Indiana,Tippecanoe County,18157,172780,0,0,0,0,0,0,9.3,18,0
+Indiana,Vanderburgh County,18163,179703,1,0,7,30,0.067,36,9.1,19,7
+Indiana,Vigo County,18167,107848,0,0,0,0,0.064,0,8.1,22,4
+Indiana,Wabash County,18169,32888,0,0,0,0,0.067,0,0,0,0
+Indiana,Warrick County,18173,59689,0,0,0,0,0.066,0,0,0,0
+Indiana,Whitley County,18183,33292,0,0,0,0,0,0,8.9,20,0
+Iowa,Black Hawk County,19013,131090,0,0,0,0,0,0,7.9,22,0
+Iowa,Bremer County,19017,24276,0,0,0,0,0.06,0,0,0,0
+Iowa,Cerro Gordo County,19033,44151,0,0,0,0,0,68,0,0,0
+Iowa,Clinton County,19045,49116,0,0,0,0,0.062,0,8.5,22,19
+Iowa,Delaware County,19055,17764,0,0,0,0,0,0,0,0,0
+Iowa,Emmet County,19063,10302,0,0,0,0,0,0,0,0,0
+Iowa,Harrison County,19085,14928,0,0,0,0,0.061,0,0,0,0
+Iowa,Johnson County,19103,130882,0,0,0,0,0,0,7.8,19,0
+Iowa,Lee County,19111,35862,0,0,0,0,0,0,7.8,17,0
+Iowa,Linn County,19113,211226,0,0,0,0,0.064,62,8.1,21,43
+Iowa,Montgomery County,19137,10740,0,0,0,0,0.056,0,6.7,15,0
+Iowa,Muscatine County,19139,42745,0,0,0,0,0,39,8.1,22,20
+Iowa,Palo Alto County,19147,9421,0,0,0,0,0.063,0,7.1,19,0
+Iowa,Polk County,19153,430640,0,0,6,33,0.057,61,7.6,17,0
+Iowa,Pottawattamie County,19155,93158,0,0.05,0,0,0,68,8.3,22,0
+Iowa,Scott County,19163,165224,1,0,0,0,0.061,159,8.2,20,4
+Iowa,Story County,19169,89542,0,0,0,0,0,0,0,0,0
+Iowa,Tama County,19171,17767,0,0,0,0,0,0,0,0,0
+Iowa,Van Buren County,19177,7570,0,0,2,7,0.059,36,6.8,17,1
+Iowa,Woodbury County,19193,102172,0,0,0,0,0,0,7.6,21,0
+Iowa,Wright County,19197,13229,0,0,0,0,0,0,0,0,0
+Kansas,Ford County,20057,33848,0,0,0,0,0,88,0,0,0
+Kansas,Johnson County,20091,544179,0,0,0,0,0.055,54,8.1,19,0
+Kansas,Leavenworth County,20103,76227,0,0,0,0,0.059,0,0,0,0
+Kansas,Linn County,20107,9656,0,0,0,0,0,0,0,0,0
+Kansas,Neosho County,20133,16512,0,0,3,16,0.057,103,8.7,21,3
+Kansas,Saline County,20169,55606,0,0.05,0,0,0,0,0,0,0
+Kansas,Sedgwick County,20173,498365,0,0,6,34,0.06,95,0,0,0
+Kansas,Shawnee County,20177,177934,0,0,0,0,0.057,77,0,0,0
+Kansas,Sherman County,20181,6010,0,0,0,0,0,137,0,0,0
+Kansas,Sumner County,20191,24132,0,0,3,22,0.059,139,8.9,24,3
+Kansas,Trego County,20195,3001,0,0,1,4,0.059,82,0,0,4
+Kansas,Wyandotte County,20209,157505,1,0,8,38,0.063,89,11,27,5
+Kentucky,Bell County,21013,28691,0,0,0,0,0.053,0,7.4,14,0
+Kentucky,Boone County,21015,118811,0,0,0,0,0.062,0,0,0,0
+Kentucky,Boyd County,21019,49542,0,0,5,27,0.059,40,7.5,16,5
+Kentucky,Bullitt County,21029,74319,0,0,0,0,0.065,0,0,0,0
+Kentucky,Campbell County,21037,90336,0,0,5,28,0.063,0,7.6,16,10
+Kentucky,Carter County,21043,27720,0,0,0,0,0.053,17,5.6,11,0
+Kentucky,Christian County,21047,73955,0,0,0,0,0.059,0,7.9,21,0
+Kentucky,Daviess County,21059,96656,0,0,4,26,0.065,0,7.9,19,12
+Kentucky,Edmonson County,21061,12161,0,0,0,0,0.056,0,0,0,2
+Kentucky,Fayette County,21067,295803,0,0,5,38,0.06,21,7.5,17,3
+Kentucky,Franklin County,21073,49285,0,0,0,0,0,0,0,0,0
+Kentucky,Greenup County,21089,36910,0,0,0,0,0.052,0,0,0,6
+Kentucky,Hancock County,21091,8565,0,0,0,0,0.065,0,0,0,0
+Kentucky,Hardin County,21093,105543,0,0,0,0,0.06,0,7.1,15,0
+Kentucky,Henderson County,21101,46250,0,0,0,0,0,0,0,0,73
+Kentucky,Jefferson County,21111,741096,1,0,13,44,0.071,47,9.7,22,15
+Kentucky,Jessamine County,21113,48586,0,0,0,0,0.059,0,0,0,3
+Kentucky,Kenton County,21117,159720,0,0,0,0,0,0,0,0,0
+Kentucky,Laurel County,21125,58849,0,0,0,0,0,0,0,0,0
+Kentucky,Livingston County,21139,9519,0,0,0,0,0.064,0,0,0,0
+Kentucky,McCracken County,21145,65565,0,0,4,30,0.064,27,8.8,23,7
+Kentucky,Madison County,21151,82916,0,0.02,0,0,0,0,0,0,0
+Kentucky,Morgan County,21175,13923,0,0,0,0,0.054,0,0,0,0
+Kentucky,Ohio County,21183,23842,0,0,0,0,0,0,0,0,0
+Kentucky,Oldham County,21185,60316,0,0,0,0,0.061,0,0,0,0
+Kentucky,Perry County,21193,28712,0,0,0,0,0.055,0,7.2,14,0
+Kentucky,Pike County,21195,65024,0,0,0,0,0.053,0,6.6,14,0
+Kentucky,Pulaski County,21199,63063,0,0,0,0,0.056,0,7.3,14,0
+Kentucky,Simpson County,21213,17327,0,0,0,0,0.055,0,0,0,0
+Kentucky,Trigg County,21221,14339,0,0,0,0,0.06,0,0,0,0
+Kentucky,Warren County,21227,113792,0,0,0,0,0.057,0,7.8,16,0
+Kentucky,Washington County,21229,11717,0,0,0,0,0.058,0,0,0,0
+Louisiana,Ascension Parish,22005,107215,0,0,6,28,0.066,0,0,0,0
+Louisiana,Bossier Parish,22015,116979,0,0,0,0,0.057,84,0,0,10
+Louisiana,Caddo Parish,22017,254969,0,0,0,0,0.055,0,9.6,23,0
+Louisiana,Calcasieu Parish,22019,192768,0,0,7,0,0.064,0,7.5,22,21
+Louisiana,Concordia Parish,22029,20822,0,0,0,0,0,0,0,0,0
+Louisiana,East Baton Rouge Parish,22033,440171,1,0.01,7,40,0.066,62,8.2,20,19
+Louisiana,Iberville Parish,22047,33387,0,0,3,0,0.069,0,7.5,17,0
+Louisiana,Jefferson Parish,22051,432552,0,0,5,34,0.063,0,7.3,18,0
+Louisiana,Lafayette Parish,22055,221578,0,0,0,0,0.058,90,8.2,27,0
+Louisiana,Lafourche Parish,22057,96318,0,0,0,0,0.06,0,0,0,0
+Louisiana,Livingston Parish,22063,128026,0,0,2,12,0.063,0,0,0,0
+Louisiana,Orleans Parish,22071,343829,1,0,8,43,0,58,7.8,20,0
+Louisiana,Ouachita Parish,22073,153720,0,0,0,0,0.057,0,7.3,18,0
+Louisiana,Plaquemines Parish,22075,23042,0,0,0,0,0,0,0,0,0
+Louisiana,Pointe Coupee Parish,22077,22802,0,0,0,0,0.064,0,0,0,0
+Louisiana,Rapides Parish,22079,131613,0,0,0,0,0,0,7.3,18,0
+Louisiana,St. Bernard Parish,22087,35897,0,0,0,0,0.059,53,7.9,21,45
+Louisiana,St. Charles Parish,22089,52780,0,0,0,0,0,0,0,0,56
+Louisiana,St. James Parish,22093,22102,0,0,0,0,0.06,0,0,0,5
+Louisiana,St. John the Baptist Parish,22095,45924,0,0.01,0,0,0.06,0,0,0,0
+Louisiana,St. Martin Parish,22099,52160,0,0,0,0,0.06,0,0,0,0
+Louisiana,St. Tammany Parish,22103,233740,0,0,0,0,0.059,0,0,0,0
+Louisiana,Tangipahoa Parish,22105,121097,0,0,0,0,0,0,7.3,18,0
+Louisiana,Terrebonne Parish,22109,111860,0,0,0,0,0,0,7.4,20,0
+Louisiana,West Baton Rouge Parish,22121,23788,0,0,7,36,0.068,0,8.6,21,37
+Maine,Androscoggin County,23001,107702,0,0,0,0,0.052,23,5.1,15,0
+Maine,Aroostook County,23003,71870,1,0,0,0,0.051,100,5.7,15,0
+Maine,Cumberland County,23005,281674,1,0,6,47,0.058,49,7.3,17,4
+Maine,Franklin County,23007,30768,0,0,0,0,0,0,0,0,0
+Maine,Hancock County,23009,54418,0,0,0,0,0.068,16,2.7,9,1
+Maine,Kennebec County,23011,122151,0,0,0,0,0.052,35,5.8,14,0
+Maine,Knox County,23013,39736,0,0,0,0,0.059,0,0,0,0
+Maine,Oxford County,23017,57833,0,0,0,0,0.051,0,5.1,13,0
+Maine,Penobscot County,23019,153923,0,0,0,0,0.056,38,0,0,0
+Maine,Washington County,23029,32856,0,0,0,0,0.052,0,0,0,0
+Maine,York County,23031,197131,0,0,0,0,0.06,0,0,0,0
+Maryland,Allegany County,24001,75087,0,0,0,0,0,0,0,0,0
+Maryland,Anne Arundel County,24003,537656,0,0,0,0,0.066,21,0,0,0
+Maryland,Baltimore County,24005,805029,2,0,13,39,0.069,0,7.5,21,5
+Maryland,Calvert County,24009,88737,0,0,0,0,0.054,0,0,0,0
+Maryland,Carroll County,24013,167134,0,0,0,0,0.061,0,0,0,0
+Maryland,Cecil County,24015,101108,0,0,0,0,0.064,0,5.6,14,0
+Maryland,Charles County,24017,146551,0,0,0,0,0.052,0,0,0,0
+Maryland,Dorchester County,24019,32618,0,0,0,0,0.062,0,4.4,10,1
+Maryland,Frederick County,24021,233385,0,0,0,0,0.063,0,0,0,0
+Maryland,Garrett County,24023,30097,0,0,2,9,0.056,0,4.6,10,2
+Maryland,Harford County,24025,244826,0,0,0,0,0.067,0,5.8,15,0
+Maryland,Howard County,24027,287085,1,0,14,40,0,0,7,14,0
+Maryland,Kent County,24029,20197,0,0,0,0,0.061,0,4.6,10,0
+Maryland,Montgomery County,24031,971777,0,0,0,0,0.059,0,5.9,16,0
+Maryland,Prince George's County,24033,863420,1,0,5,32,0.065,17,5.7,13,1
+Maryland,Washington County,24043,147430,0,0,0,0,0.057,0,6.6,18,0
+Maryland,Baltimore city,24510,620961,0,0,12,48,0.061,32,6.4,18,0
+Massachusetts,Barnstable County,25001,215888,0,0,0,0,0.063,0,0,0,0
+Massachusetts,Berkshire County,25003,131219,0,0,0,0,0.054,0,7.6,17,0
+Massachusetts,Bristol County,25005,548285,0,0,0,0,0.066,0,6.2,17,3
+Massachusetts,Dukes County,25007,16535,0,0,0,0,0.06,0,0,0,0
+Massachusetts,Essex County,25009,743159,0,0,0,0,0.059,0,5.5,14,0
+Massachusetts,Franklin County,25011,71372,0,0,0,0,0.052,0,8.2,20,0
+Massachusetts,Hampden County,25013,463490,0,0,10,44,0.061,0,8.6,22,3
+Massachusetts,Hampshire County,25015,158080,0,0,2,23,0.061,16,0,0,1
+Massachusetts,Middlesex County,25017,1503085,0,0,11,39,0.059,0,6.7,14,0
+Massachusetts,Norfolk County,25021,670850,0,0,3,25,0.053,0,5.2,16,0
+Massachusetts,Plymouth County,25023,494919,0,0,0,0,0.06,0,7.5,16,0
+Massachusetts,Suffolk County,25025,722023,1,0,12,46,0.057,25,8.2,16,2
+Massachusetts,Worcester County,25027,798552,1,0,10,45,0.063,33,8,16,2
+Michigan,Allegan County,26005,111408,0,0,0,0,0.076,0,6,13,0
+Michigan,Alpena County,26007,29598,0,0,0,0,0,0,0,0,0
+Michigan,Bay County,26017,107771,0,0,0,0,0,0,4.7,14,0
+Michigan,Benzie County,26019,17525,0,0,0,0,0.068,0,0,0,0
+Michigan,Berrien County,26021,156813,0,0,0,0,0.078,0,0,0,0
+Michigan,Cass County,26027,52293,0,0,0,0,0.075,0,0,0,0
+Michigan,Chippewa County,26033,38520,0,0,0,0,0,0,0,0,0
+Michigan,Clinton County,26037,75382,0,0,0,0,0.064,0,0,0,0
+Michigan,Dickinson County,26043,26168,0,0,0,0,0,0,0,0,0
+Michigan,Emmet County,26047,32694,0,0,0,0,0,0,0,0,0
+Michigan,Genesee County,26049,425790,0,0,0,0,0.068,0,6,15,0
+Michigan,Grand Traverse County,26055,86986,0,0,0,0,0,0,0,0,0
+Michigan,Huron County,26063,33118,0,0,0,0,0.075,0,0,0,0
+Michigan,Ingham County,26065,280895,0,0,6,33,0.062,0,7.1,22,4
+Michigan,Ionia County,26067,63905,0,0.01,0,0,0,0,0,0,0
+Michigan,Iron County,26071,11817,0,0,0,0,0,0,0,0,0
+Michigan,Kalamazoo County,26077,250331,0,0,0,0,0.072,0,7.6,18,0
+Michigan,Kent County,26081,602622,1,0,0,0,0.078,27,7.7,18,3
+Michigan,Lenawee County,26091,99892,0,0,0,0,0.067,0,8.2,19,0
+Michigan,Macomb County,26099,840978,0,0,0,0,0.074,0,6,16,0
+Michigan,Manistee County,26101,24733,0,0,0,0,0.051,0,0,0,0
+Michigan,Mason County,26105,28705,0,0,0,0,0.068,0,0,0,0
+Michigan,Missaukee County,26113,14849,0,0,1,6,0.068,0,0,0,0
+Michigan,Monroe County,26115,152021,0,0,0,0,0,83,0,0,7
+Michigan,Muskegon County,26121,172188,0,0,0,0,0.08,0,0,0,0
+Michigan,Oakland County,26125,1202362,0,0,0,0,0.074,0,7.4,23,0
+Michigan,Ottawa County,26139,263801,0,0,5,28,0.075,21,7.4,18,15
+Michigan,Saginaw County,26145,200169,0,0,0,0,0,0,0,0,0
+Michigan,St. Clair County,26147,163040,0,0.03,0,0,0.069,0,6.7,17,76
+Michigan,Schoolcraft County,26153,8485,0,0,0,0,0.067,0,0,0,0
+Michigan,Tuscola County,26157,55729,0,0,0,0,0.067,0,0,0,0
+Michigan,Washtenaw County,26161,344791,0,0,0,0,0.072,0,8.2,20,0
+Michigan,Wayne County,26163,1820584,2,0.04,13,44,0.073,88,10.7,27,43
+Michigan,Wexford County,26165,32735,0,0,0,0,0.067,0,0,0,0
+Minnesota,Anoka County,27003,330844,1,0.01,5,0,0.061,54,6.2,16,0
+Minnesota,Becker County,27005,32504,0,0,0,0,0.059,0,4.2,14,0
+Minnesota,Beltrami County,27007,44442,0,0,0,0,0,0,5.7,13,0
+Minnesota,Carlton County,27017,35386,0,0,0,0,0.054,0,1.3,8,0
+Minnesota,Cass County,27021,28567,0,0,0,0,0,0,4.4,13,0
+Minnesota,Cook County,27031,5176,0,0,0,0,0,0,2.6,9,0
+Minnesota,Crow Wing County,27035,62500,0,0,0,0,0.054,0,4.2,12,0
+Minnesota,Dakota County,27037,398552,1,0.08,7,27,0,0,7.6,17,12
+Minnesota,Douglas County,27041,36009,0,0,0,0,0,0,0,0,0
+Minnesota,Freeborn County,27047,31255,0,0,0,0,0,0,0,0,0
+Minnesota,Goodhue County,27049,46183,0,0,0,0,0.06,0,0,0,0
+Minnesota,Hennepin County,27053,1152425,1,0.01,11,0,0.046,108,8.7,20,5
+Minnesota,Itasca County,27061,45058,0,0,0,0,0,0,0,0,0
+Minnesota,Kandiyohi County,27067,42239,0,0,0,0,0,0,0,0,0
+Minnesota,Lake County,27075,10866,0,0,0,0,0.055,0,5.3,10,0
+Minnesota,Lyon County,27083,25857,0,0,0,0,0.062,0,5.3,17,0
+Minnesota,McLeod County,27085,36651,0,0,0,0,0,0,0,0,0
+Minnesota,Mille Lacs County,27095,26097,0,0,0,0,0.06,0,0,0,0
+Minnesota,Nicollet County,27103,32727,0,0,0,0,0,0,0,0,0
+Minnesota,Olmsted County,27109,144248,0,0,0,0,0.067,0,5.6,17,0
+Minnesota,Otter Tail County,27111,57303,0,0,0,0,0,0,0,0,0
+Minnesota,Ramsey County,27123,508640,0,0.02,0,0,0,72,7.1,17,0
+Minnesota,St. Louis County,27137,200226,0,0,5,0,0.054,74,7.3,15,0
+Minnesota,Scott County,27139,129928,0,0,0,0,0.058,0,5.8,15,0
+Minnesota,Stearns County,27145,150642,0,0,0,0,0.061,0,5.8,15,0
+Minnesota,Washington County,27163,238136,0,0,0,0,0.06,0,0,0,5
+Minnesota,Winona County,27169,51461,0,0,0,0,0,0,0,0,0
+Minnesota,Wright County,27171,124700,0,0,0,0,0.063,0,6.2,16,0
+Mississippi,Adams County,28001,32297,0,0,0,0,0,0,0,0,0
+Mississippi,Bolivar County,28011,34145,0,0,0,0,0.059,0,8.6,20,0
+Mississippi,DeSoto County,28033,161252,0,0,0,0,0.062,0,8.2,18,0
+Mississippi,Forrest County,28035,74934,0,0,0,0,0,0,9.6,19,0
+Mississippi,Grenada County,28043,21906,0,0,0,0,0,0,0,0,0
+Mississippi,Hancock County,28045,43929,0,0,0,0,0.059,0,8.4,18,0
+Mississippi,Harrison County,28047,187105,0,0,0,0,0.059,0,9.6,20,0
+Mississippi,Hinds County,28049,245285,1,0,0,0,0.053,75,10.2,22,4
+Mississippi,Jackson County,28059,139668,0,0,3,27,0.059,0,8.7,17,6
+Mississippi,Jones County,28067,67761,0,0,0,0,0,0,0,0,0
+Mississippi,Lauderdale County,28075,80261,0,0,0,0,0.051,0,0,0,0
+Mississippi,Lee County,28081,82910,0,0,0,0,0.052,0,0,0,0
+Mississippi,Lowndes County,28087,59779,0,0,0,0,0,0,0,0,0
+Mississippi,Pearl River County,28109,55834,0,0,0,0,0,0,0,0,0
+Mississippi,Rankin County,28121,141617,0,0,0,0,0,0,0,0,0
+Mississippi,Scott County,28123,28264,0,0,0,0,0,0,0,0,0
+Mississippi,Warren County,28149,48773,0,0,0,0,0,0,0,0,0
+Mississippi,Yalobusha County,28161,12678,0,0,0,0,0.054,0,0,0,0
+Missouri,Andrew County,29003,17291,0,0,0,0,0.061,0,0,0,0
+Missouri,Boone County,29019,162642,0,0,0,0,0.057,0,0,0,0
+Missouri,Buchanan County,29021,89201,0,0,0,0,0,89,7.8,17,0
+Missouri,Callaway County,29027,44332,0,0,0,0,0.059,0,0,0,0
+Missouri,Cass County,29037,99478,0,0,0,0,0.058,0,6.2,15,0
+Missouri,Cedar County,29039,13982,0,0,0,0,0.057,0,6.5,14,0
+Missouri,Clay County,29047,221939,0,0,0,0,0.066,0,6.2,15,0
+Missouri,Clinton County,29049,20743,0,0,0,0,0.063,0,0,0,0
+Missouri,Franklin County,29071,101492,0,0,0,0,0,0,0,0,34
+Missouri,Greene County,29077,275174,0,0,0,0,0.056,81,7.5,17,0
+Missouri,Holt County,29087,4912,0,0.02,0,0,0,0,0,0,0
+Missouri,Howell County,29091,40400,0,0,0,0,0,0,0,0,0
+Missouri,Iron County,29093,10630,0,0.3,0,0,0,0,0,0,48
+Missouri,Jackson County,29095,674158,1,0,10,42,0,138,7.6,18,7
+Missouri,Jasper County,29097,117404,0,0,0,0,0.056,111,0,0,0
+Missouri,Jefferson County,29099,218733,0,0.06,0,0,0.066,58,7.6,18,22
+Missouri,Lincoln County,29113,52566,0,0,0,0,0.065,0,0,0,0
+Missouri,Maries County,29125,9176,0,0,0,0,0,0,0,0,0
+Missouri,Mercer County,29129,3785,0,0,0,0,0,0,0,0,0
+Missouri,Monroe County,29137,8840,0,0,2,8,0.056,38,0,0,5
+Missouri,New Madrid County,29143,18956,0,0,0,0,0,0,0,0,367
+Missouri,Perry County,29157,18971,0,0,0,0,0.06,0,0,0,0
+Missouri,Reynolds County,29179,6696,0,0.03,0,0,0,0,0,0,0
+Missouri,St. Charles County,29183,360485,0,0,0,0,0.071,0,0,0,31
+Missouri,Ste. Genevieve County,29186,18145,0,0,0,0,0.061,0,0,0,0
+Missouri,St. Francois County,29187,65359,0,0.03,0,0,0,0,0,0,0
+Missouri,St. Louis County,29189,998954,0,0,9,39,0.074,0,7.4,21,12
+Missouri,St. Louis city,29510,319294,2,0,10,41,0.066,122,9,23,8
+Montana,Cascade County,30013,81327,0,0,0,0,0,0,0,0,0
+Montana,Fergus County,30027,11586,0,0,1,12,0.057,89,4.7,23,0
+Montana,Flathead County,30029,90928,0,0,0,0,0.052,167,7,38,0
+Montana,Gallatin County,30031,89513,1,0,2,24,0,0,2.3,40,0
+Montana,Lake County,30047,28746,0,0,0,0,0,0,0,0,0
+Montana,Lewis and Clark County,30049,63395,1,0,0,0,0.059,0,7.5,24,1
+Montana,Lincoln County,30053,19687,0,0,0,0,0,248,13.8,45,0
+Montana,Missoula County,30063,109299,0,0,0,0,0.055,132,8.6,33,0
+Montana,Phillips County,30071,4253,0,0,1,6,0.052,150,0,0,0
+Montana,Powder River County,30075,1743,0,0,1,9,0.06,124,7.7,30,0
+Montana,Ravalli County,30081,40212,0,0,0,0,0,0,5.9,36,0
+Montana,Richland County,30083,9746,0,0,1,9,0.054,40,4.3,12,7
+Montana,Rosebud County,30087,9233,0,0,1,6,0.059,96,0,0,0
+Montana,Sanders County,30089,11413,0,0,0,0,0,185,0,0,0
+Montana,Silver Bow County,30093,34200,0,0,0,0,0,123,6,41,0
+Montana,Yellowstone County,30111,147972,0,0,0,0,0,0,7,27,18
+Nebraska,Cass County,31025,25241,0,0,0,0,0,90,0,0,0
+Nebraska,Cedar County,31027,8852,0,0,0,0,0,0,0,0,0
+Nebraska,Cherry County,31031,5713,0,0,0,0,0,0,0,0,0
+Nebraska,Deuel County,31049,1941,0,0,0,0,0,0,0,0,0
+Nebraska,Douglas County,31055,517110,2,0,0,0,0.058,74,7.3,18,44
+Nebraska,Hall County,31079,58607,0,0,0,0,0,0,5.5,19,0
+Nebraska,Knox County,31107,8701,0,0,0,0,0.063,0,0,0,0
+Nebraska,Lancaster County,31109,285407,0,0,0,0,0.054,0,6.1,17,25
+Nebraska,Lincoln County,31111,36288,0,0,0,0,0,0,0,0,0
+Nebraska,Sarpy County,31153,158840,0,0,0,0,0,0,7.8,17,0
+Nebraska,Scotts Bluff County,31157,36970,0,0,0,0,0,0,0,0,0
+Nebraska,Washington County,31177,20234,0,0,0,0,0,0,6.2,16,0
+Nevada,Churchill County,32001,24877,0,0,0,0,0.068,0,0,0,0
+Nevada,Clark County,32003,1951269,2,0,23,57,0.078,210,12.2,33,5
+Nevada,Douglas County,32005,46997,0,0,0,0,0,0,9.4,70,0
+Nevada,Elko County,32007,48818,0,0,0,0,0,125,0,0,0
+Nevada,Lyon County,32019,51980,0,0,0,0,0.069,277,0,0,0
+Nevada,Nye County,32023,43946,0,0,0,0,0,333,0,0,0
+Nevada,Washoe County,32031,421407,2,0,12,46,0.079,220,11.1,75,3
+Nevada,White Pine County,32033,10030,0,0,0,0,0.07,0,0,0,0
+Nevada,Carson City,32510,55274,0,0,0,0,0.075,0,8.4,61,0
+New Hampshire,Belknap County,33001,60088,0,0,0,0,0.053,0,4.1,10,0
+New Hampshire,Cheshire County,33005,77117,0,0,0,0,0.05,0,6.2,18,0
+New Hampshire,Coos County,33007,33055,0,0,0,0,0.058,0,0,0,0
+New Hampshire,Grafton County,33009,89118,0,0,0,0,0.05,0,4.3,14,0
+New Hampshire,Hillsborough County,33011,400721,0,0,0,0,0.058,0,3,9,1
+New Hampshire,Merrimack County,33013,146445,0,0,0,0,0.055,0,0,0,24
+New Hampshire,Rockingham County,33015,295223,0,0,2,0,0.06,33,5.9,13,6
+New Hampshire,Sullivan County,33019,43742,0,0,0,0,0,0,0,0,0
+New Jersey,Atlantic County,34001,274549,0,0,0,0,0.059,0,6.5,16,1
+New Jersey,Bergen County,34003,905116,1,0,15,51,0.066,0,0,0,0
+New Jersey,Camden County,34007,513657,1,0,10,41,0.062,40,8.4,19,7
+New Jersey,Cumberland County,34011,156898,0,0,6,32,0.06,0,8.3,16,0
+New Jersey,Essex County,34013,783969,2,0,14,54,0.064,32,8.5,21,3
+New Jersey,Gloucester County,34015,288288,0,0,0,0,0.064,0,0,0,0
+New Jersey,Hudson County,34017,634266,2,0,17,51,0.063,0,0,0,2
+New Jersey,Hunterdon County,34019,128349,0,0,0,0,0.059,0,7.4,18,0
+New Jersey,Mercer County,34021,366513,0,0,0,0,0.07,0,7.2,16,0
+New Jersey,Middlesex County,34023,809858,0,0,7,37,0.066,0,7.6,21,0
+New Jersey,Monmouth County,34025,630380,0,0,0,0,0.062,0,0,0,0
+New Jersey,Morris County,34027,492276,0,0,3,24,0.06,0,0,0,4
+New Jersey,Ocean County,34029,576567,0,0,0,0,0.063,0,6.1,14,0
+New Jersey,Passaic County,34031,501226,0,0,0,0,0.062,0,0,0,0
+New Jersey,Union County,34039,536499,2,0,18,55,0,0,8.5,20,4
+New Jersey,Warren County,34041,108692,0,0,10,37,0.054,0,7.2,18,6
+New Mexico,Bernalillo County,35001,662564,1,0,8,41,0.071,349,9.4,25,3
+New Mexico,Chaves County,35005,65645,0,0,0,0,0,0,0,0,0
+New Mexico,Doña Ana County,35013,209233,0,0,8,49,0.077,367,9,21,0
+New Mexico,Eddy County,35015,53829,0,0,5,0,0.073,0,0,0,0
+New Mexico,Grant County,35017,29514,0,0,0,0,0,0,0,0,0
+New Mexico,Lea County,35025,64727,0,0,5,32,0.06,0,5.6,18,0
+New Mexico,Luna County,35029,25095,0,0,0,0,0,126,0,0,0
+New Mexico,Rio Arriba County,35039,40246,0,0,0,0,0.064,0,0,0,0
+New Mexico,Sandoval County,35043,131561,0,0,0,0,0.074,0,0,0,0
+New Mexico,San Juan County,35045,130044,0,0,10,29,0.069,91,0,0,13
+New Mexico,Santa Fe County,35049,144170,0,0,0,0,0.069,0,4.5,13,0
+New Mexico,Taos County,35055,32937,0,0,0,0,0,0,5.8,16,0
+New Mexico,Valencia County,35061,76569,0,0,0,0,0.07,0,0,0,0
+New York,Albany County,36001,304204,0,0,0,0,0.053,0,7.8,23,2
+New York,Bronx County,36005,1385108,1,0,15,53,0.069,0,8,20,4
+New York,Broome County,36007,200600,0,0,0,0,0,0,0,0,0
+New York,Chautauqua County,36013,134905,0,0,0,0,0.064,0,5.2,12,3
+New York,Dutchess County,36027,297488,0,0,0,0,0.059,0,0,0,1
+New York,Erie County,36029,919040,1,0,8,40,0.066,27,6.8,19,16
+New York,Essex County,36031,39370,0,0,0,0,0.059,0,3.2,9,1
+New York,Hamilton County,36041,4836,0,0,0,0,0.054,0,0,0,1
+New York,Jefferson County,36045,116229,0,0,0,0,0.06,0,0,0,0
+New York,Kings County,36047,2504700,0,0,0,0,0,0,0,0,0
+New York,Monroe County,36055,744344,1,0,6,0,0.061,25,6.3,15,2
+New York,Nassau County,36059,1339532,0,0,0,0,0,0,0,0,14
+New York,New York County,36061,1585873,1,0,0,0,0.069,0,0,0,0
+New York,Niagara County,36063,216469,0,0,0,0,0.064,0,0,0,0
+New York,Oneida County,36065,234878,0,0,0,0,0,0,0,0,0
+New York,Onondaga County,36067,467026,0,0,0,0,0.058,0,6,14,1
+New York,Orange County,36071,372813,0,0,0,0,0.059,0,0,0,0
+New York,Oswego County,36075,122109,0,0,0,0,0.056,0,0,0,0
+New York,Putnam County,36079,99710,0,0,0,0,0.058,0,0,0,1
+New York,Queens County,36081,2230722,2,0,15,54,0.068,26,5.8,16,6
+New York,Richmond County,36085,468730,0,0,0,0,0.062,0,0,0,0
+New York,Rockland County,36087,311687,0,0,0,0,0.061,0,0,0,0
+New York,St. Lawrence County,36089,111944,0,0,0,0,0,0,0,0,89
+New York,Saratoga County,36091,219607,0,0,0,0,0.055,0,0,0,0
+New York,Schenectady County,36093,154727,0,0,0,0,0,0,0,0,0
+New York,Steuben County,36101,98990,0,0,0,0,0.053,0,5.2,12,1
+New York,Suffolk County,36103,1493350,0,0,0,0,0.073,0,0,0,2
+New York,Tompkins County,36109,101564,0,0,0,0,0.055,0,0,0,0
+New York,Wayne County,36117,93772,0,0,0,0,0.06,0,0,0,0
+New York,Westchester County,36119,949113,0,0,0,0,0.067,0,0,0,0
+North Carolina,Alamance County,37001,151131,0,0,0,0,0,0,0,0,0
+North Carolina,Alexander County,37003,37198,0,0,0,0,0.053,54,0,0,0
+North Carolina,Avery County,37011,17797,0,0,0,0,0.059,0,0,0,0
+North Carolina,Beaufort County,37013,47759,0,0,0,0,0,0,0,0,15
+North Carolina,Brunswick County,37019,107431,0,0,0,0,0,0,0,0,46
+North Carolina,Buncombe County,37021,238318,0,0,0,0,0.054,0,4.9,12,0
+North Carolina,Cabarrus County,37025,178011,0,0,0,0,0,0,0,0,0
+North Carolina,Caldwell County,37027,83029,0,0,0,0,0.052,0,0,0,0
+North Carolina,Carteret County,37031,66469,0,0,0,0,0.054,0,0,0,0
+North Carolina,Caswell County,37033,23719,0,0,0,0,0.055,38,0,0,0
+North Carolina,Catawba County,37035,154358,0,0,0,0,0,0,7.6,17,0
+North Carolina,Chatham County,37037,63505,0,0,0,0,0,0,0,0,0
+North Carolina,Cumberland County,37051,319431,0,0,0,0,0.055,53,6.8,17,0
+North Carolina,Davidson County,37057,162878,0,0,0,0,0,0,8.2,19,0
+North Carolina,Duplin County,37061,58505,0,0,0,0,0,0,0,0,0
+North Carolina,Durham County,37063,267587,0,0,0,0,0.053,29,7.1,18,2
+North Carolina,Edgecombe County,37065,56552,0,0,0,0,0.054,0,0,0,0
+North Carolina,Forsyth County,37067,350670,0,0,5,30,0.062,60,8,26,3
+North Carolina,Gaston County,37071,206086,0,0,0,0,0,0,0,0,0
+North Carolina,Graham County,37075,8861,0,0,0,0,0.06,0,0,0,0
+North Carolina,Granville County,37077,59916,0,0,0,0,0.054,0,0,0,0
+North Carolina,Guilford County,37081,488406,0,0,0,0,0.057,37,6.4,15,0
+North Carolina,Haywood County,37087,59036,0,0,0,0,0.06,0,0,0,22
+North Carolina,Jackson County,37099,40271,0,0,0,0,0,0,6.2,14,0
+North Carolina,Johnston County,37101,168878,0,0,0,0,0.055,0,6.6,17,0
+North Carolina,Lee County,37105,57866,0,0,0,0,0,0,0,0,0
+North Carolina,Lenoir County,37107,59495,0,0,0,0,0.056,12,0,0,0
+North Carolina,Lincoln County,37109,78265,0,0,0,0,0.054,0,0,0,0
+North Carolina,McDowell County,37111,44996,0,0,0,0,0,0,0,0,0
+North Carolina,Macon County,37113,33922,0,0,0,0,0.052,0,0,0,0
+North Carolina,Martin County,37117,24505,0,0,0,0,0.049,0,0,0,0
+North Carolina,Mecklenburg County,37119,919628,1,0,9,32,0.06,49,8.4,18,2
+North Carolina,Mitchell County,37121,15579,0,0,0,0,0,0,5.2,12,0
+North Carolina,Montgomery County,37123,27798,0,0,0,0,0.052,18,7.6,14,0
+North Carolina,Nash County,37127,95840,0,0,0,0,0,0,0,0,0
+North Carolina,New Hanover County,37129,202667,0,0,0,0,0.054,24,3.7,13,0
+North Carolina,Northampton County,37131,22099,0,0,1,12,0,0,0,0,0
+North Carolina,Onslow County,37133,177772,0,0,0,0,0,0,0,0,0
+North Carolina,Orange County,37135,133801,0,0,0,0,0,0,0,0,0
+North Carolina,Pasquotank County,37139,40661,0,0,0,0,0,0,0,0,0
+North Carolina,Person County,37145,39464,0,0,0,0,0.051,0,0,0,44
+North Carolina,Pitt County,37147,168148,0,0,0,0,0.055,0,5.7,13,0
+North Carolina,Robeson County,37155,134168,0,0,0,0,0,0,0,0,0
+North Carolina,Rockingham County,37157,93643,0,0,0,0,0.055,0,0,0,0
+North Carolina,Rowan County,37159,138428,0,0,0,0,0.058,0,7.6,18,0
+North Carolina,Swain County,37173,13981,0,0,0,0,0.054,0,6.1,15,0
+North Carolina,Union County,37179,201292,0,0,0,0,0.051,0,0,0,0
+North Carolina,Wake County,37183,900993,1,0,8,30,0.054,46,7.8,20,2
+North Carolina,Watauga County,37189,51079,0,0,0,0,0,0,0,0,0
+North Carolina,Wayne County,37191,122623,0,0,0,0,0,0,0,0,0
+North Carolina,Yancey County,37199,17818,0,0,0,0,0.063,0,0,0,0
+North Dakota,Billings County,38007,783,0,0,0,0,0.053,0,3.6,12,5
+North Dakota,Burke County,38013,1968,0,0,2,0,0.053,49,4.9,13,20
+North Dakota,Burleigh County,38015,81308,1,0,5,28,0.051,64,5.3,15,11
+North Dakota,Cass County,38017,149778,0,0,4,34,0.056,33,6.4,14,3
+North Dakota,Dunn County,38025,3536,0,0,2,10,0.054,20,3.6,10,5
+North Dakota,Grand Forks County,38035,66861,0,0,0,0,0,0,0,0,0
+North Dakota,McKenzie County,38053,6360,0,0,1,8,0.051,24,3.4,12,4
+North Dakota,Mercer County,38057,8424,0,0,2,18,0.052,0,4.5,11,43
+North Dakota,Oliver County,38065,1846,0,0,2,0,0.055,38,4.8,13,11
+North Dakota,Stark County,38089,24199,0,0,0,0,0,0,0,0,0
+North Dakota,Steele County,38091,1975,0,0,0,0,0,0,0,0,0
+North Dakota,Ward County,38101,61675,0,0,2,14,0.051,15,4.6,12,8
+North Dakota,Williams County,38105,22398,0,0,0,0,0,0,0,0,6
+Ohio,Adams County,39001,28550,0,0,0,0,0,0,0,0,0
+Ohio,Allen County,39003,106331,0,0,0,0,0.065,0,5.4,13,3
+Ohio,Ashtabula County,39007,101497,0,0,0,0,0.061,0,0,0,0
+Ohio,Athens County,39009,64757,0,0,0,0,0,0,0,0,0
+Ohio,Belmont County,39013,70400,0,0,6,26,0,54,0,0,1
+Ohio,Butler County,39017,368130,0,0,0,0,0.07,38,0,0,41
+Ohio,Clark County,39023,138333,0,0,0,0,0.066,0,0,0,0
+Ohio,Clermont County,39025,197363,0,0,0,0,0.064,0,0,0,0
+Ohio,Clinton County,39027,42040,0,0,0,0,0.062,0,0,0,0
+Ohio,Columbiana County,39029,107841,0,0,0,0,0,30,0,0,3
+Ohio,Cuyahoga County,39035,1280122,2,0.05,8,36,0.074,73,9,22,19
+Ohio,Delaware County,39041,174214,0,0,0,0,0.063,0,0,0,0
+Ohio,Fayette County,39047,29030,0,0,0,0,0.061,0,0,0,0
+Ohio,Franklin County,39049,1163414,1,0,8,39,0.067,28,7.8,18,0
+Ohio,Fulton County,39051,42698,0,0,0,0,0,0,0,0,0
+Ohio,Gallia County,39053,30934,0,0,0,0,0,0,0,0,58
+Ohio,Geauga County,39055,93389,0,0,0,0,0.065,0,0,0,0
+Ohio,Greene County,39057,161573,0,0,0,0,0.063,0,0,0,0
+Ohio,Guernsey County,39059,40087,0,0,0,0,0,0,0,0,0
+Ohio,Hamilton County,39061,802374,2,0,17,49,0.07,48,10.7,25,28
+Ohio,Hancock County,39063,74782,0,0,0,0,0,0,0,0,0
+Ohio,Harrison County,39067,15864,1,0,0,0,0,0,0,0,0
+Ohio,Jefferson County,39081,69709,0,0,0,0,0.062,37,0,0,22
+Ohio,Knox County,39083,60921,0,0,0,0,0.058,0,0,0,0
+Ohio,Lake County,39085,230041,0,0,0,0,0.075,64,6.2,16,80
+Ohio,Lawrence County,39087,62450,0,0,0,0,0.057,30,0,0,3
+Ohio,Licking County,39089,166492,0,0,0,0,0.06,0,0,0,0
+Ohio,Lorain County,39093,301356,0,0,0,0,0.059,17,6.7,15,0
+Ohio,Lucas County,39095,441815,0,0,0,0,0.076,0,0,0,0
+Ohio,Madison County,39097,43435,0,0,0,0,0.06,0,0,0,0
+Ohio,Mahoning County,39099,238823,0,0,0,0,0.064,0,0,0,6
+Ohio,Marion County,39101,66501,0,0,0,0,0,0,0,0,0
+Ohio,Medina County,39103,172332,0,0,0,0,0.064,0,6.5,16,0
+Ohio,Miami County,39109,102506,0,0,0,0,0.061,0,0,0,0
+Ohio,Montgomery County,39113,535153,0,0,0,0,0.071,48,9.6,20,0
+Ohio,Morgan County,39115,15054,0,0,0,0,0,0,0,0,13
+Ohio,Noble County,39121,14645,0,0,0,0,0.06,0,0,0,0
+Ohio,Portage County,39133,161419,0,0,0,0,0.063,0,0,0,0
+Ohio,Preble County,39135,42270,0,0,0,0,0.062,0,7.4,16,7
+Ohio,Scioto County,39145,79499,0,0,0,0,0,41,0,0,13
+Ohio,Stark County,39151,375586,0,0.13,0,0,0.066,0,8.7,20,0
+Ohio,Summit County,39153,541781,0,0,0,0,0.062,0,8.8,19,4
+Ohio,Trumbull County,39155,210312,0,0,0,0,0.062,28,6.2,18,0
+Ohio,Warren County,39165,212693,0,0,0,0,0.071,0,0,0,0
+Ohio,Washington County,39167,61778,0,0,0,0,0.059,0,0,0,0
+Ohio,Wood County,39173,125488,0,0,0,0,0.06,0,0,0,0
+Oklahoma,Adair County,40001,22683,1,0,0,0,0.053,77,0,0,2
+Oklahoma,Caddo County,40015,29600,0,0,0,0,0,0,0,0,0
+Oklahoma,Canadian County,40017,115541,0,0,0,0,0.062,0,0,0,0
+Oklahoma,Carter County,40019,47557,0,0,0,0,0.067,0,0,0,0
+Oklahoma,Cherokee County,40021,46987,0,0,0,0,0,0,0,0,0
+Oklahoma,Cleveland County,40027,255755,0,0,0,0,0.063,0,9.9,25,0
+Oklahoma,Comanche County,40031,124098,0,0,0,0,0.064,0,7.4,19,0
+Oklahoma,Creek County,40037,69967,0,0,0,0,0.062,0,0,0,0
+Oklahoma,Custer County,40039,27469,0,0,0,0,0,0,0,0,0
+Oklahoma,Dewey County,40043,4810,0,0,0,0,0.061,0,7.3,17,0
+Oklahoma,Garfield County,40047,60580,0,0,0,0,0,0,0,0,32
+Oklahoma,Johnston County,40069,10957,0,0,0,0,0.067,0,0,0,0
+Oklahoma,Kay County,40071,46562,0,0,0,0,0.056,0,9.4,21,23
+Oklahoma,Le Flore County,40079,50384,0,0,0,0,0,0,0,0,0
+Oklahoma,Lincoln County,40081,34273,0,0,0,0,0,0,0,0,0
+Oklahoma,Love County,40085,9423,0,0,0,0,0,0,0,0,0
+Oklahoma,Mayes County,40097,41259,0,0,0,0,0.054,0,0,0,0
+Oklahoma,Muskogee County,40101,70990,0,0,0,0,0,0,0,0,0
+Oklahoma,Nowata County,40105,10536,0,0,0,0,0,0,0,0,0
+Oklahoma,Oklahoma County,40109,718633,1,0,11,39,0.069,120,9.9,22,2
+Oklahoma,Osage County,40113,47472,0,0,0,0,0.062,0,0,0,0
+Oklahoma,Ottawa County,40115,31848,0,0.02,0,0,0.046,107,0,0,0
+Oklahoma,Pawnee County,40117,16577,0,0,0,0,0,0,0,0,0
+Oklahoma,Payne County,40119,77350,0,0,0,0,0,0,0,0,0
+Oklahoma,Pittsburg County,40121,45837,0,0.01,0,0,0.057,0,8.2,22,0
+Oklahoma,Pottawatomie County,40125,69442,0,0,0,0,0,0,0,0,0
+Oklahoma,Seminole County,40133,25482,0,0,0,0,0,0,0,0,0
+Oklahoma,Sequoyah County,40135,42391,0,0,5,26,0.053,0,7.2,20,0
+Oklahoma,Tulsa County,40143,603403,1,0,6,0,0.061,96,8.9,20,7
+Oklahoma,Washington County,40147,50976,0,0,0,0,0.062,0,0,0,0
+Oregon,Benton County,41003,85579,0,0,0,0,0,0,0,0,0
+Oregon,Clackamas County,41005,375992,0,0,0,0,0.07,0,0,0,0
+Oregon,Columbia County,41009,49351,0,0,0,0,0.051,0,0,0,0
+Oregon,Crook County,41013,20978,0,0,0,0,0,0,16.4,132,0
+Oregon,Deschutes County,41017,157733,0,0,0,0,0,0,0,0,0
+Oregon,Douglas County,41019,107667,0,0,0,0,0,0,0,0,0
+Oregon,Harney County,41025,7422,0,0,0,0,0,0,11.9,61,0
+Oregon,Jackson County,41029,203206,0,0,0,0,0.06,46,15.5,63,0
+Oregon,Josephine County,41033,82713,0,0,0,0,0,0,14.5,29,0
+Oregon,Klamath County,41035,66380,0,0,0,0,0,488,19.8,88,0
+Oregon,Lake County,41037,7895,0,0,0,0,0,247,0,36,0
+Oregon,Lane County,41039,351715,0,0,0,0,0.055,579,14.9,240,0
+Oregon,Linn County,41043,116672,0,0,0,0,0,0,0,0,0
+Oregon,Marion County,41047,315335,0,0,0,0,0.057,0,0,0,0
+Oregon,Multnomah County,41051,735334,14,0,6,30,0.059,35,10.7,31,2
+Oregon,Umatilla County,41059,75889,0,0,0,0,0.056,0,0,0,0
+Oregon,Union County,41061,25748,0,0,0,0,0,39,0,0,0
+Oregon,Wasco County,41065,25213,0,0,0,0,0,0,0,0,0
+Oregon,Washington County,41067,529710,13,0,10,30,0.059,0,11.2,30,0
+Pennsylvania,Adams County,42001,101407,0,0,2,12,0.061,0,0,0,2
+Pennsylvania,Allegheny County,42003,1223348,3,0,9,34,0.071,72,9.8,27,65
+Pennsylvania,Armstrong County,42005,68941,0,0,0,0,0.07,0,7.8,16,0
+Pennsylvania,Beaver County,42007,170539,0,0,8,36,0.067,56,8.5,24,10
+Pennsylvania,Berks County,42011,411442,0,0.03,0,0,0.065,0,7.9,19,0
+Pennsylvania,Blair County,42013,127089,0,0,0,0,0.063,0,7.7,19,4
+Pennsylvania,Bradford County,42015,62622,0,0,2,16,0.054,0,6.6,16,0
+Pennsylvania,Bucks County,42017,625249,0,0,0,0,0.071,0,0,0,0
+Pennsylvania,Cambria County,42021,143679,1,0,6,31,0.06,40,8.5,21,8
+Pennsylvania,Carbon County,42025,65249,0,0.06,0,0,0,0,0,0,0
+Pennsylvania,Centre County,42027,153990,0,0,3,26,0.059,0,7.2,19,2
+Pennsylvania,Chester County,42029,498886,0,0,0,0,0.06,0,8.3,20,0
+Pennsylvania,Clearfield County,42033,81642,0,0,0,0,0.053,0,0,0,0
+Pennsylvania,Cumberland County,42041,235406,0,0,0,0,0,0,7.5,21,0
+Pennsylvania,Dauphin County,42043,268100,0,0,0,0,0.062,40,9.3,29,0
+Pennsylvania,Delaware County,42045,558979,0,0,8,0,0.062,0,9.7,23,0
+Pennsylvania,Elk County,42047,31946,0,0,0,0,0.053,0,0,0,0
+Pennsylvania,Erie County,42049,280566,1,0,4,31,0.061,37,6.5,16,0
+Pennsylvania,Fayette County,42051,136606,0,0,3,15,0.06,0,7.5,17,0
+Pennsylvania,Franklin County,42055,149618,0,0,0,0,0.05,0,0,0,0
+Pennsylvania,Greene County,42059,38686,0,0,0,0,0.059,0,6.5,14,0
+Pennsylvania,Indiana County,42063,88880,0,0,0,0,0.066,0,0,0,20
+Pennsylvania,Lackawanna County,42069,214437,1,0,9,43,0.057,0,6.9,19,0
+Pennsylvania,Lancaster County,42071,519445,0,0.04,0,0,0.062,59,8.8,28,0
+Pennsylvania,Lawrence County,42073,91108,0,0.02,0,0,0.06,0,0,0,0
+Pennsylvania,Lebanon County,42075,133568,0,0,0,0,0.03,0,0,0,0
+Pennsylvania,Lehigh County,42077,349497,0,0,0,0,0.063,34,0,0,0
+Pennsylvania,Luzerne County,42079,320918,0,0,0,0,0.054,37,0,0,3
+Pennsylvania,Lycoming County,42081,116111,0,0,0,0,0.058,0,7.3,19,0
+Pennsylvania,Mercer County,42085,116638,0,0,0,0,0.063,0,7.4,18,0
+Pennsylvania,Monroe County,42089,169842,0,0,0,0,0.053,0,0,0,0
+Pennsylvania,Montgomery County,42091,799874,0,0,0,0,0.066,0,7.3,21,0
+Pennsylvania,Northampton County,42095,297735,0,0,8,37,0.06,0,0,0,7
+Pennsylvania,Perry County,42099,45969,0,0,0,0,0,0,0,0,0
+Pennsylvania,Philadelphia County,42101,1526006,2,0,13,50,0.07,0,8.2,25,5
+Pennsylvania,Somerset County,42111,77742,0,0,0,0,0.056,0,0,0,0
+Pennsylvania,Susquehanna County,42115,43356,0,0,0,0,0,0,6.1,14,0
+Pennsylvania,Tioga County,42117,41981,0,0,1,9,0.057,0,6.1,14,0
+Pennsylvania,Warren County,42123,41815,0,0,0,0,0,0,0,0,47
+Pennsylvania,Washington County,42125,207820,0,0,6,30,0.062,0,7.2,17,8
+Pennsylvania,Westmoreland County,42129,365169,0,0,0,0,0.057,0,7,16,0
+Pennsylvania,Wyoming County,42131,28276,0,0,0,0,0,0,6.6,17,0
+Pennsylvania,York County,42133,434972,0,0,7,39,0.058,0,9.3,26,6
+Rhode Island,Kent County,44003,166158,0,0,0,0,0.065,0,4.6,10,0
+Rhode Island,Providence County,44007,626667,2,0,15,45,0.064,30,8.3,20,1
+Rhode Island,Washington County,44009,126979,0,0,0,0,0.067,0,4,11,0
+South Carolina,Aiken County,45003,160099,0,0,0,0,0.051,0,0,0,0
+South Carolina,Anderson County,45007,187126,0,0,0,0,0.056,0,0,0,0
+South Carolina,Beaufort County,45013,162233,0,0,0,0,0,0,0,0,0
+South Carolina,Berkeley County,45015,177843,0,0,0,0,0.051,0,0,0,0
+South Carolina,Charleston County,45019,350209,0,0,6,30,0.053,45,7.1,16,2
+South Carolina,Chesterfield County,45025,46734,0,0,0,0,0.056,0,6.6,14,0
+South Carolina,Colleton County,45029,38892,0,0,0,0,0,0,0,0,0
+South Carolina,Darlington County,45031,68681,0,0,0,0,0.052,0,0,0,0
+South Carolina,Edgefield County,45037,26985,0,0,0,0,0.054,0,6.7,17,0
+South Carolina,Florence County,45041,136885,0,0.15,0,0,0,0,6.7,15,0
+South Carolina,Georgetown County,45043,60158,0,0,0,0,0,0,0,0,0
+South Carolina,Greenville County,45045,451225,0,0,6,33,0.059,48,7.5,20,1
+South Carolina,Greenwood County,45047,69661,0,0,0,0,0,0,0,0,0
+South Carolina,Horry County,45051,269291,0,0,0,0,0.052,0,0,0,0
+South Carolina,Lexington County,45063,262391,0,0,0,0,0,42,7.1,17,0
+South Carolina,Oconee County,45073,74273,0,0,0,0,0,0,0,0,0
+South Carolina,Orangeburg County,45075,92501,0,0,0,0,0,0,0,0,0
+South Carolina,Richland County,45079,384504,0,0,3,0,0.055,0,6.7,16,2
+South Carolina,Spartanburg County,45083,284307,0,0,0,0,0.064,0,8,17,0
+South Carolina,York County,45091,226073,0,0,0,0,0.054,0,6.6,15,2
+South Dakota,Brookings County,46011,31965,0,0,0,0,0.064,95,4.4,16,0
+South Dakota,Brown County,46013,36531,0,0,0,0,0,75,5.6,15,0
+South Dakota,Codington County,46029,27227,0,0,0,0,0.057,129,6.7,16,0
+South Dakota,Custer County,46033,8216,0,0,0,0,0.063,55,3.3,16,0
+South Dakota,Hughes County,46065,17022,0,0,0,0,0,0,4,13,0
+South Dakota,Jackson County,46071,3031,0,0,1,4,0.061,43,4.2,17,1
+South Dakota,Meade County,46093,25434,0,0,0,0,0.062,63,0,0,0
+South Dakota,Minnehaha County,46099,169468,1,0,4,31,0.064,71,6,16,4
+South Dakota,Pennington County,46103,100948,0,0,5,34,0,124,6.8,23,0
+South Dakota,Union County,46127,14399,0,0,2,22,0.063,88,6.1,17,2
+Tennessee,Anderson County,47001,75129,0,0,0,0,0.056,0,0,0,0
+Tennessee,Blount County,47009,123010,0,0,1,5,0.058,0,6.6,15,1
+Tennessee,Claiborne County,47025,32213,0,0,0,0,0.054,0,0,0,0
+Tennessee,Davidson County,47037,626681,1,0,12,45,0.061,58,8.8,20,2
+Tennessee,DeKalb County,47041,18723,0,0,0,0,0.055,0,0,0,0
+Tennessee,Dyer County,47045,38335,0,0,0,0,0,0,6.2,15,0
+Tennessee,Hamilton County,47065,336463,0,0,0,0,0.058,0,8.3,20,0
+Tennessee,Jefferson County,47089,51407,0,0,0,0,0.058,0,0,0,0
+Tennessee,Knox County,47093,432226,0,0.04,0,0,0.053,45,8.3,20,0
+Tennessee,Lawrence County,47099,41869,0,0,0,0,0,0,5.3,14,0
+Tennessee,Loudon County,47105,48556,0,0,0,0,0.059,0,6.3,14,0
+Tennessee,McMinn County,47107,52266,0,0,0,0,0,0,6.8,16,0
+Tennessee,Madison County,47113,98294,0,0,0,0,0,0,6.3,16,0
+Tennessee,Maury County,47119,80956,0,0,0,0,0,0,5.7,14,0
+Tennessee,Montgomery County,47125,172331,0,0,0,0,0,0,6.8,15,0
+Tennessee,Putnam County,47141,72321,0,0,0,0,0,0,6.1,14,0
+Tennessee,Roane County,47145,54181,0,0,0,0,0,0,6.7,15,0
+Tennessee,Sevier County,47155,89889,0,0,0,0,0.062,0,0,0,0
+Tennessee,Shelby County,47157,927644,1,0,10,33,0.062,64,9.1,20,2
+Tennessee,Sullivan County,47163,156823,0,0,0,0,0.056,0,5.8,13,73
+Tennessee,Sumner County,47165,160645,0,0,0,0,0.063,0,6.9,15,0
+Tennessee,Williamson County,47187,183182,0,0,0,0,0.057,0,0,0,0
+Tennessee,Wilson County,47189,113993,0,0,0,0,0.058,0,0,0,0
+Texas,Atascosa County,48013,44911,0,0,0,0,0,0,0,0,0
+Texas,Bell County,48027,310235,0,0,3,23,0.064,0,7.8,21,0
+Texas,Bexar County,48029,1714773,1,0,8,34,0.074,80,8.6,23,6
+Texas,Bowie County,48037,92565,0,0,0,0,0,0,9.4,21,0
+Texas,Brazoria County,48039,313166,0,0,5,35,0.07,0,0,0,0
+Texas,Brazos County,48041,194851,0,0,0,0,0,0,8.1,21,0
+Texas,Brewster County,48043,9232,0,0,0,0,0.06,0,0,0,0
+Texas,Caldwell County,48055,38066,0,0,0,0,0,0,0,0,0
+Texas,Cameron County,48061,406220,0,0,0,0,0.053,0,12.1,36,0
+Texas,Collin County,48085,782341,0,0.01,0,0,0.07,0,0,0,0
+Texas,Culberson County,48109,2398,0,0,0,0,0.072,0,0,0,0
+Texas,Dallas County,48113,2368139,1,0,11,44,0.069,73,8.2,21,0
+Texas,Denton County,48121,662614,0,0,5,35,0.071,0,7.4,20,0
+Texas,Ector County,48135,137130,0,0,0,0,0,0,7.2,20,0
+Texas,Ellis County,48139,149610,0,0,3,23,0.061,0,8.2,19,6
+Texas,El Paso County,48141,800647,2,0.01,13,59,0.079,99,9.1,24,7
+Texas,Freestone County,48161,19816,0,0,0,0,0,0,0,0,5
+Texas,Galveston County,48167,291309,0,0,3,22,0.068,87,8.3,28,0
+Texas,Gregg County,48183,121730,0,0,3,16,0.055,0,0,0,50
+Texas,Harris County,48201,4092459,2,0,16,55,0.073,101,11.6,34,14
+Texas,Harrison County,48203,65631,0,0,2,14,0.055,0,8.3,23,33
+Texas,Hidalgo County,48215,774769,0,0,0,0,0.055,82,10.8,33,0
+Texas,Hood County,48221,51182,0,0,0,0,0.062,0,0,0,0
+Texas,Howard County,48227,35012,0,0,0,0,0,0,0,0,101
+Texas,Hunt County,48231,86129,0,0,3,23,0.061,0,0,0,0
+Texas,Hutchinson County,48233,22150,0,0,0,0,0,0,0,0,173
+Texas,Jeff Davis County,48243,2342,0,0,0,0,0,0,0,0,0
+Texas,Jefferson County,48245,252273,0,0,5,29,0.065,0,8.5,24,47
+Texas,Johnson County,48251,150934,0,0,0,0,0.067,0,0,0,0
+Texas,Karnes County,48255,14824,0,0,3,25,0,0,0,0,0
+Texas,Kaufman County,48257,103350,0,0.04,3,23,0.066,0,0,0,8
+Texas,Kleberg County,48273,32061,0,0,0,0,0,0,10.6,33,0
+Texas,Lubbock County,48303,278831,0,0,0,0,0,0,5.4,15,0
+Texas,McLennan County,48309,234906,0,0,0,0,0.063,0,0,0,6
+Texas,Marion County,48315,10546,0,0,0,0,0,0,0,0,0
+Texas,Maverick County,48323,54258,0,0,0,0,0,0,7.9,24,0
+Texas,Milam County,48331,24757,0,0,0,0,0,0,0,0,0
+Texas,Montgomery County,48339,455746,0,0,2,20,0.075,0,0,0,0
+Texas,Navarro County,48349,47735,0,0,2,0,0.062,0,0,0,123
+Texas,Nueces County,48355,340223,0,0,0,0,0.064,84,8,27,3
+Texas,Orange County,48361,81837,0,0,4,26,0.062,0,8.7,22,0
+Texas,Parker County,48367,116927,0,0,0,0,0.068,0,0,0,0
+Texas,Polk County,48373,45413,0,0,0,0,0.057,0,0,0,0
+Texas,Potter County,48375,121073,0,0,0,0,0,0,5.5,15,94
+Texas,Randall County,48381,120725,0,0,0,0,0.064,0,0,0,0
+Texas,Robertson County,48395,16622,0,0,0,0,0,0,0,0,0
+Texas,Rockwall County,48397,78337,0,0,0,0,0.064,0,0,0,0
+Texas,Rusk County,48401,53330,0,0,0,0,0,0,0,0,84
+Texas,Smith County,48423,209714,0,0,2,12,0.06,0,0,0,0
+Texas,Tarrant County,48439,1809034,1,0,12,45,0.077,0,9.8,23,0
+Texas,Titus County,48449,32334,0,0,0,0,0,0,0,0,13
+Texas,Travis County,48453,1024266,2,0,12,43,0.063,91,9.5,23,0
+Texas,Victoria County,48469,86793,0,0,0,0,0.06,0,0,0,0
+Texas,Webb County,48479,250304,2,0,0,0,0.06,72,10.3,28,0
+Texas,Wilson County,48493,42918,0,0,4,31,0,0,0,0,0
+Utah,Box Elder County,49003,49975,0,0,1,11,0.066,0,0,0,0
+Utah,Cache County,49005,112656,0,0,5,31,0.068,260,8,29,0
+Utah,Carbon County,49007,21403,0,0,2,18,0.067,0,0,0,0
+Utah,Davis County,49011,306479,0,0,11,44,0.08,0,7.7,27,0
+Utah,Duchesne County,49013,18607,0,0,5,27,0.064,0,7.5,23,0
+Utah,Garfield County,49017,5172,0,0,0,0,0.06,0,0,0,0
+Utah,Iron County,49021,46163,0,0,6,40,0.061,0,5.4,17,0
+Utah,Salt Lake County,49035,1029655,1,0,17,51,0.08,112,10.5,33,5
+Utah,San Juan County,49037,14746,0,0,0,0,0.066,0,0,0,0
+Utah,Tooele County,49045,58218,0,0,4,21,0.07,0,7.1,26,0
+Utah,Uintah County,49047,32588,0,0,4,34,0.066,0,6.6,22,0
+Utah,Utah County,49049,516564,1,0,10,43,0.07,90,7.9,26,0
+Utah,Washington County,49053,138115,0,0,3,30,0.067,0,5.8,17,0
+Utah,Weber County,49057,231236,1,0,11,47,0.074,77,6.9,23,0
+Vermont,Addison County,50001,36821,0,0,0,0,0,0,0,0,0
+Vermont,Bennington County,50003,37125,0,0,0,0,0.053,0,5.6,18,0
+Vermont,Chittenden County,50007,156545,1,0,5,29,0.056,16,6.8,18,1
+Vermont,Rutland County,50021,61642,1,0,6,32,0.053,29,7.6,22,2
+Vermont,Washington County,50023,59534,0,0,0,0,0,0,0,0,0
+Virginia,Albemarle County,51003,98970,0,0,0,0,0.055,0,6.5,12,0
+Virginia,Arlington County,51013,207627,1,0,7,38,0.062,0,6.6,18,0
+Virginia,Botetourt County,51023,33148,0,0,0,0,0,0,0,0,0
+Virginia,Caroline County,51033,28545,0,0,0,0,0.053,0,0,0,0
+Virginia,Carroll County,51035,30042,0,0,0,0,0,15,0,0,0
+Virginia,Charles City County,51036,7256,0,0,3,26,0.054,0,5.6,12,3
+Virginia,Chesterfield County,51041,316236,0,0,0,0,0.054,0,5.5,11,0
+Virginia,Fairfax County,51059,1081726,1,0,14,43,0.057,16,7.9,16,2
+Virginia,Fauquier County,51061,65203,0,0,0,0,0.049,0,0,0,0
+Virginia,Frederick County,51069,78305,0,0,0,0,0.052,0,6.6,16,0
+Virginia,Giles County,51071,17286,0,0,0,0,0.055,0,0,0,144
+Virginia,Hanover County,51085,99863,0,0,0,0,0.053,0,0,0,0
+Virginia,Henrico County,51087,306935,1,0,5,29,0.055,24,6.9,15,2
+Virginia,Loudoun County,51107,312311,0,0,5,31,0.06,0,0,0,0
+Virginia,Madison County,51113,13308,0,0,0,0,0.053,0,0,0,0
+Virginia,Montgomery County,51121,94392,0,0,0,0,0,0,0,0,0
+Virginia,Page County,51139,24042,0,0,0,0,0,0,0,0,0
+Virginia,Prince Edward County,51147,23368,0,0,0,0,0.051,0,0,0,0
+Virginia,Prince William County,51153,402002,0,0,3,21,0.057,0,0,0,0
+Virginia,Roanoke County,51161,92376,1,0,5,31,0.054,0,6.7,15,3
+Virginia,Rockbridge County,51163,22307,0,0,0,0,0.051,0,0,0,0
+Virginia,Rockingham County,51165,76314,0,0,8,34,0.053,0,6.1,14,2
+Virginia,Stafford County,51179,128961,0,0,0,0,0.056,16,0,0,0
+Virginia,Wythe County,51197,29235,0,0,0,0,0.054,0,0,0,0
+Virginia,Alexandria city,51510,139966,0,0,0,0,0,0,0,0,0
+Virginia,Bristol city,51520,17835,0,0,0,0,0,0,6,14,0
+Virginia,Chesapeake city,51550,222209,0,0,0,0,0,0,0,0,0
+Virginia,Covington city,51580,5961,0,0,0,0,0,0,0,0,0
+Virginia,Hampton city,51650,137436,1,0,3,21,0.053,0,5.9,13,4
+Virginia,Hopewell city,51670,22591,0,0,0,0,0,15,0,0,0
+Virginia,Lynchburg city,51680,75568,0,0,0,0,0,0,5.4,12,0
+Virginia,Newport News city,51700,180719,0,0,0,0,0,0,0,0,0
+Virginia,Norfolk city,51710,242803,1,0,7,35,0,21,0,0,2
+Virginia,Richmond city,51760,204214,1,0,12,41,0,0,0,0,0
+Virginia,Roanoke city,51770,97032,0,0,0,0,0,0,0,0,0
+Virginia,Salem city,51775,24802,0,0,0,0,0,0,5.9,14,0
+Virginia,Suffolk city,51800,84585,0,0,0,0,0.054,0,0,0,0
+Virginia,Virginia Beach city,51810,437994,0,0,0,0,0,0,0,0,0
+Virginia,Winchester city,51840,26203,0,0,0,0,0,18,0,0,0
+Washington,Adams County,53001,18728,0,0,0,0,0,0,0,0,0
+Washington,Asotin County,53003,21623,0,0,0,0,0,0,0,0,0
+Washington,Benton County,53005,175177,0,0,0,0,0.061,566,0,0,0
+Washington,Chelan County,53007,72453,0,0,0,0,0,0,0,0,2
+Washington,Clallam County,53009,71404,2,0,0,0,0.049,0,0,0,1
+Washington,Clark County,53011,425363,0,0,0,0,0.054,0,13.9,147,0
+Washington,Columbia County,53013,4078,0,0,0,0,0.035,0,0,0,0
+Washington,Cowlitz County,53015,102410,0,0,0,0,0,0,0,0,0
+Washington,Grant County,53025,89120,0,0,0,0,0,0,0,0,0
+Washington,Grays Harbor County,53027,72797,0,0,0,0,0,0,0,0,0
+Washington,Jefferson County,53031,29872,0,0,0,0,0,0,0,0,0
+Washington,King County,53033,1931249,2,0,16,57,0.06,38,10.1,61,4
+Washington,Kitsap County,53035,251133,0,0,0,0,0,0,7.6,41,0
+Washington,Kittitas County,53037,40915,0,0,0,0,0,0,0,50,0
+Washington,Lewis County,53041,75455,0,0,0,0,0,0,0,0,0
+Washington,Mason County,53045,60699,0,0,0,0,0,0,0,0,0
+Washington,Okanogan County,53047,41120,0,0,0,0,0,0,15,83,0
+Washington,Pierce County,53053,795225,0,0,12,40,0.06,0,9.4,41,0
+Washington,Skagit County,53057,116901,0,0,0,0,0.046,0,0,0,0
+Washington,Skamania County,53059,11066,0,0,0,0,0,0,0,0,0
+Washington,Snohomish County,53061,713335,0,0,0,0,0,0,10.6,51,0
+Washington,Spokane County,53063,471221,0,0,0,0,0.055,343,10.3,31,0
+Washington,Stevens County,53065,43531,0,0,0,0,0,358,14.6,66,0
+Washington,Thurston County,53067,252264,0,0,0,0,0.057,0,0,0,0
+Washington,Walla Walla County,53071,58781,0,0,0,0,0,623,0,0,0
+Washington,Whatcom County,53073,201140,0,0,0,0,0.05,0,5.6,42,62
+Washington,Whitman County,53075,44776,0,0,0,0,0,0,0,0,0
+Washington,Yakima County,53077,243231,0,0,0,0,0,326,14.1,105,0
+West Virginia,Berkeley County,54003,104169,0,0,0,0,0.055,0,7.5,23,0
+West Virginia,Brooke County,54009,24069,0,0,0,0,0,37,8.1,18,41
+West Virginia,Cabell County,54011,96319,0,0,0,0,0.058,0,6.7,14,0
+West Virginia,Gilmer County,54021,8693,0,0,0,0,0.05,0,0,0,0
+West Virginia,Greenbrier County,54025,35480,0,0,0,0,0.052,0,0,0,0
+West Virginia,Hancock County,54029,30676,0,0,0,0,0.066,27,7.1,17,21
+West Virginia,Harrison County,54033,69099,0,0,0,0,0,0,6.6,13,0
+West Virginia,Kanawha County,54039,193063,1,0,0,0,0.057,0,7,14,4
+West Virginia,Marion County,54049,56418,0,0,0,0,0,0,0,0,0
+West Virginia,Marshall County,54051,33107,0,0,0,0,0,0,7.6,16,9
+West Virginia,Mason County,54053,27324,0,0,0,0,0,0,0,0,55
+West Virginia,Mercer County,54055,62264,0,0,0,0,0,0,0,0,0
+West Virginia,Mineral County,54057,28212,0,0,0,0,0,0,0,0,0
+West Virginia,Monongalia County,54061,96189,0,0,0,0,0.062,0,6.2,16,10
+West Virginia,Ohio County,54069,44443,0,0,0,0,0.063,0,6.7,15,0
+West Virginia,Raleigh County,54081,78859,0,0,0,0,0,0,0,0,0
+West Virginia,Summers County,54089,13927,0,0,0,0,0,0,0,0,0
+West Virginia,Tucker County,54093,7141,0,0,0,0,0.054,0,0,0,0
+West Virginia,Wood County,54107,86956,0,0,0,0,0.058,0,7,15,19
+Wisconsin,Ashland County,55003,16157,0,0,0,0,0.054,0,5.2,13,0
+Wisconsin,Brown County,55009,248007,0,0,0,0,0.064,0,7.3,18,6
+Wisconsin,Columbia County,55021,56833,0,0,0,0,0.071,0,0,0,0
+Wisconsin,Dane County,55025,488073,0,0,0,0,0.069,33,8,18,2
+Wisconsin,Dodge County,55027,88759,0,0,0,0,0.067,51,7.6,18,2
+Wisconsin,Door County,55029,27785,0,0,0,0,0.075,0,0,0,0
+Wisconsin,Douglas County,55031,44159,0,0,0,0,0,0,0,0,0
+Wisconsin,Eau Claire County,55035,98736,0,0,0,0,0.063,47,7.7,17,0
+Wisconsin,Fond du Lac County,55039,101633,0,0,0,0,0.065,0,0,0,0
+Wisconsin,Forest County,55041,9304,0,0,0,0,0.061,0,5.7,14,2
+Wisconsin,Grant County,55043,51208,0,0,0,0,0,0,8.2,20,0
+Wisconsin,Jefferson County,55055,83686,0,0,0,0,0.072,0,0,0,0
+Wisconsin,Kenosha County,55059,166426,0,0,0,0,0.078,0,7.1,18,0
+Wisconsin,Kewaunee County,55061,20574,0,0,0,0,0.063,0,0,0,0
+Wisconsin,La Crosse County,55063,114638,0,0,0,0,0.061,0,7.7,18,0
+Wisconsin,Manitowoc County,55071,81442,0,0,0,0,0.069,0,0,0,0
+Wisconsin,Marathon County,55073,134063,0,0,0,0,0.055,0,0,0,0
+Wisconsin,Milwaukee County,55079,947735,1,0,12,40,0.075,46,9,21,2
+Wisconsin,Oneida County,55085,35998,0,0,0,0,0,0,0,0,0
+Wisconsin,Outagamie County,55087,176695,0,0,0,0,0.067,0,7.4,19,67
+Wisconsin,Ozaukee County,55089,86395,0,0,0,0,0.073,0,6.5,17,0
+Wisconsin,Racine County,55101,195408,0,0,0,0,0.077,0,0,0,0
+Wisconsin,Rock County,55105,160331,0,0,0,0,0.07,0,0,0,0
+Wisconsin,St. Croix County,55109,84345,0,0,0,0,0,0,0,0,0
+Wisconsin,Sauk County,55111,61976,0,0,0,0,0.065,44,7.4,17,0
+Wisconsin,Sheboygan County,55117,115507,0,0,0,0,0.076,0,0,0,0
+Wisconsin,Taylor County,55119,20689,0,0,0,0,0.057,0,6.2,15,0
+Wisconsin,Vilas County,55125,21430,0,0,0,0,0.059,0,5,13,0
+Wisconsin,Walworth County,55127,102228,0,0,0,0,0.074,0,0,0,0
+Wisconsin,Waukesha County,55133,389891,0,0,0,0,0.067,45,8.8,19,0
+Wisconsin,Waupaca County,55135,52410,0,0,0,0,0,0,0,0,0
+Wisconsin,Winnebago County,55139,166994,0,0,0,0,0,0,0,0,0
+Wisconsin,Wood County,55141,74749,0,0,0,0,0,0,0,0,0
+Wyoming,Albany County,56001,36299,0,0,0,0,0.066,184,6.2,38,0
+Wyoming,Big Horn County,56003,11668,0,0,0,0,0.058,0,0,0,0
+Wyoming,Campbell County,56005,46133,0,0,1,0,0.062,149,0,0,0
+Wyoming,Carbon County,56007,15885,0,0,4,28,0,0,0,0,15
+Wyoming,Converse County,56009,13833,0,0,2,18,0.071,83,0,0,0
+Wyoming,Fremont County,56013,40123,0,0,1,4,0.067,70,7.3,37,41
+Wyoming,Goshen County,56015,13249,0,0,0,0,0,0,0,0,0
+Wyoming,Johnson County,56019,8569,0,0,1,5,0.064,67,0,0,0
+Wyoming,Laramie County,56021,91738,1,0,3,0,0.06,127,4.1,31,0
+Wyoming,Lincoln County,56023,18106,0,0,0,0,0,91,0,0,0
+Wyoming,Natrona County,56025,75450,0,0,4,36,0.066,56,4.9,35,12
+Wyoming,Park County,56029,28205,0,0,0,0,0,54,4.4,35,0
+Wyoming,Platte County,56031,8667,0,0,0,0,0,228,0,0,0
+Wyoming,Sheridan County,56033,29116,0,0,0,0,0.059,52,6.4,34,0
+Wyoming,Sublette County,56035,10247,0,0,2,17,0.069,63,3.1,18,0
+Wyoming,Sweetwater County,56037,43806,0,0,6,37,0.064,301,3.6,16,7
+Wyoming,Teton County,56039,21294,1,0,0,0,0.066,34,4.8,49,0
+Wyoming,Uinta County,56041,21118,0,0,0,0,0.068,47,0,0,0
+Wyoming,Weston County,56045,7208,0,0,0,0,0.066,0,0,0,6
+Puerto Rico,"Adjuntas Municipio, Puerto Rico",72001,19483,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Arecibo Municipio, Puerto Rico",72013,96440,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Bayamón Municipio, Puerto Rico",72021,208116,4,0,0,0,0.037,0,0,0,0
+Puerto Rico,"Caguas Municipio, Puerto Rico",72025,142893,2,0,0,0,0,0,0,0,0
+Puerto Rico,"Cataño Municipio, Puerto Rico",72033,28140,0,0,0,0,0.038,161,0,0,0
+Puerto Rico,"Fajardo Municipio, Puerto Rico",72053,36993,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Guayama Municipio, Puerto Rico",72057,45362,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Guayanilla Municipio, Puerto Rico",72059,21581,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Guaynabo Municipio, Puerto Rico",72061,97924,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Humacao Municipio, Puerto Rico",72069,58466,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Juncos Municipio, Puerto Rico",72077,40290,0,0,0,0,0.07,0,0,0,0
+Puerto Rico,"Lares Municipio, Puerto Rico",72081,30753,0,0,0,0,0,0,0,0,0
+Puerto Rico,"Mayagüez Municipio, Puerto Rico",72097,89080,0,0,0,0,0.03,0,0,0,0
+Puerto Rico,"Ponce Municipio, Puerto Rico",72113,166327,3,0,0,0,0,99,0,0,0
+Puerto Rico,"San Juan Municipio, Puerto Rico",72127,395326,3,0,0,0,0,0,0,0,0

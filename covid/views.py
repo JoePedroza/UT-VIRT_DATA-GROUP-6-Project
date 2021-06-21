@@ -1,8 +1,29 @@
+# Import Dependencies
 from django.shortcuts import render
 from django.http import HttpResponse
+import numpy as np
 import pandas as pd
 import csv
 import sqlite3
+from pathlib import Path
+import warnings
+warnings.filterwarnings('ignore')
+from collections import Counter
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
+from imblearn.over_sampling import RandomOverSampler
+from imblearn.over_sampling import SMOTE
+from imblearn.under_sampling import ClusterCentroids
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import classification_report
+import sklearn.preprocessing as preprocessing
+import json
+from json import JSONEncoder
+from flask import render_template_string
 
 
 # Import the requests library.
@@ -18,15 +39,16 @@ from database import list_counties, list_states, list_epa_by_state, list_model_d
 def index(request):  
     #counties = list_counties()
     states= list_states()
+    dataRetrieved= False
+    modelRan= False
     return render(request, "index.html", {"states" : states})
 
 def dashboard(request):    
     return render(request, "dashboard.html")
 
-def submitted(request): 
-    #countySelected= request.POST.get('countyDropdown')
+def getdata(request): 
     stateSelected= request.POST.get('stateDropdown')
-    #output = subprocess.check_call(['howdy.py'], shell=True)  
+    modelTypes= ['Cluster Centroids','Linear Regression','Logistic Regression','Naive Random Oversampling','SMOTE Oversampling']
     stateurljson = "https://api.covidactnow.org/v2/county/" + stateSelected+ ".json?apiKey=" + can_key
     stateurlcsv = "https://api.covidactnow.org/v2/county/" + stateSelected + ".csv?apiKey=" + can_key
     stateepa = list_epa_by_state(stateSelected)
@@ -36,11 +58,7 @@ def submitted(request):
         covid_state = covid_state_json.text
         out_file = open("covid_by_state.json", "w").write(covid_state)
         out_file.close()
-
-        
-
-        
-        
+ 
     except:
             print("COVID NOW state data not found. Skipping...")
             pass
@@ -53,6 +71,7 @@ def submitted(request):
 
     covid_state_csv_df = pd.read_csv(stateurlcsv)
     covid_state_clean_df = covid_state_csv_df.drop(['level','lat','locationId','long','metrics.infectionRate','metrics.infectionRateCI90','metrics.icuHeadroomRatio','metrics.icuHeadroomRatio','metrics.icuCapacityRatio','lastUpdatedDate','url','metrics.testPositivityRatioDetails.source','metrics.contactTracerCapacityRatio','metrics.icuHeadroomDetails','actuals.positiveTests','actuals.negativeTests','actuals.contactTracers','actuals.vaccinesDistributed','riskLevels.overall', 'riskLevels.testPositivityRatio','riskLevels.caseDensity','riskLevels.contactTracerCapacityRatio','riskLevels.infectionRate','riskLevels.icuHeadroomRatio','riskLevels.icuCapacityRatio'], axis=1)
+    covid_state_clean_df = covid_state_csv_df.replace(np.nan,0)
     covid_state = covid_state_clean_df.rename({'metrics.testPositivityRatio':'PositivityRatio',
     'metrics.caseDensity':'Density', 
     'actuals.cases':'ActualCases',
@@ -73,15 +92,9 @@ def submitted(request):
     'actuals.newDeaths':'ActualNewDeaths',
     'actuals.vaccinesAdministered':'ActualVaccinesAdministered'
     }, axis=1)
-    
+
+    covid_state.replace({"ND": 0, "IN": 0}, inplace=True)   
     covid_state.to_csv (r'./database_file/covidbystatefromcsv.csv', index = False, header=True)
-
-    # with open(f'./covid_by_state.json', mode='r') as file:
-    #     covid_state_raw = json.load(file)
-
-    # covid_state_df = pd.DataFrame(covid_state_raw) 
-    # covid_state_clean_df = covid_state_df.drop(['lat','locationId','long','annotations','lastUpdatedDate','url' ], axis=1)
-    # covid_state_clean_df.to_csv (r'./database_file/covidbystate.csv', index = False, header=True) 
 
     state_epa_df = pd.DataFrame(stateepa)
     state_epa_df.to_csv (r'./database_file/epabystate.csv', index = False, header=True) 
@@ -92,15 +105,13 @@ def submitted(request):
         print("-----------------------------")
         print("COVID NOW state data import to sqlite is complete......")
         print("----")
-    
-    # Call to generate linear regression model
-    linear_regression_model(stateSelected)
-    
 
-    return render(request, "submitted.html",{"stateSelected": stateSelected})
-    
+    stateData = covid_state
+    dataRetrieved= True
 
 
+    return render(request, "index.html",{"stateSelected": stateSelected,"stateData": stateData, "dataRetrieved": dataRetrieved, "modelTypes": modelTypes})
+        
 
 def import_covid_by_state_to_sqlite():
 
@@ -113,7 +124,6 @@ def import_covid_by_state_to_sqlite():
         with open('./database_file/covidbystatefromcsv.csv', 'r') as fin:
                 dr = csv.DictReader(fin)
                 covidbystate_info = [(i['fips'],i['country'], i['state'], i['county'], i['population'], i['PositivityRatio'], i['Density'], i['ActualCases'], i['ActualDeaths'], i['ActualHospitalBedCapacity'],i['ActualHospitalBedCurrentUsageTotal'], i['ActualHospitalBedCurrentUsageCovid'],i['ActualHospitalBedTypicalUsageRate'],i['ActualIcuBedsCapacity'],i['ActualIcuBedCurrentUsageTotal'],i['ActualIcuBedCurrentUsageCovid'],i['ActualIcuBedTypicalUsageRate'],i['ActualNewCases'],i['ActualVaccinationInitiated'],i['ActualVaccinationCompleted'],i['VaccinationInitaitedRatio'],i['VaccinationCompletedRatio'],i['ActualNewDeaths'],i['ActualVaccinesAdministered']) for i in dr]
-                #print(county_info)
 
         # Connect to SQLite
         sqliteConnection = sqlite3.connect('./database_file/counties.db')
@@ -136,9 +146,6 @@ def import_covid_by_state_to_sqlite():
         # Insert data into table
         cursor.executemany("insert into covidbystate (fips,country,state,county,population,PositivityRatio,Density,ActualCases,ActualDeaths,ActualHospitalBedCapacity,ActualHospitalBedCurrentUsageTotal,ActualHospitalBedCurrentUsageCovid,ActualHospitalBedTypicalUsageRate,ActualIcuBedsCapacity,ActualIcuBedCurrentUsageTotal,ActualIcuBedCurrentUsageCovid,ActualIcuBedTypicalUsageRate,ActualNewCases,ActualVaccinationInitiated,ActualVaccinationCompleted,VaccinationInitaitedRatio,VaccinationCompletedRatio,ActualNewDeaths,ActualVaccinesAdministered) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", covidbystate_info)
 
-        # Show covidbystate table
-        #cursor.execute('select * from covidbystate;')
-
         # View result
         result = cursor.fetchall()
         print(result)
@@ -156,9 +163,106 @@ def import_covid_by_state_to_sqlite():
             print('SQLite Connection closed')        
 
 
-def linear_regression_model(state):
+def runmodel(request,stateSelected):
 
-    model_data = list_model_data_by_state(state)
+    modelSelected= request.POST.get('modelDropdown')
+    model_data = list_model_data_by_state(stateSelected)
     covid_model_df = pd.DataFrame(model_data)
     covid_model_df.to_csv (r'./database_file/covidmodeldata.csv', index = False, header=True) 
+
+    # Load the data
+    file_path = Path('database_file/covidmodeldata.csv')
+    df = pd.read_csv(file_path)
+    covid_df = df.replace(np.nan,0)
+
+    #y = df["ActualHospitalBedCurrentUsageTotal"]
+    y = covid_df['9']
+    #X = df.drop(['state','county','fipcode','population','ActualHospitalBedCurrentUsageTotal'],axis=1)
+    X = covid_df.drop([df.columns[0],df.columns[1],df.columns[2],df.columns[3],df.columns[9]],axis=1)
+
+    #### min-max scaler
+    minmax = preprocessing.MinMaxScaler()
+    minmax.fit(X)
+    X_minmax = minmax.transform(X)
+
+    X_train, X_test, y_train, y_test = train_test_split(X_minmax, y, random_state=1)
+    X_train.shape
+
+    if modelSelected == 'Linear Regression':
+        model = SVC(kernel='linear') 
+        model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)   
+    elif modelSelected == 'Logistic Regression':
+        model = LogisticRegression(solver='lbfgs', random_state=1)
+        model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
+    elif modelSelected == 'Cluster Centroids':
+        model = ClusterCentroids(random_state=1)
+        model.fit(X_train, y_train)
+        y_pred= Counter(y)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
+    elif modelSelected == 'Naive Random Oversampling':
+        model = RandomOverSampler(random_state=1)
+        model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
+    elif modelSelected == 'SMOTE Oversampling':
+        model = SMOTE(random_state=1)
+        model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
+    else:    
+        print("No model selected")
+        
+
+    model_accuracy_score = accuracy_score(y_test, y_pred)
+
+    model_confusion_matrix =confusion_matrix(y_test, y_pred)
+
+    # Encode NumPy type correctly into JSOn
+    encodedNumpyData = json.dumps(model_confusion_matrix, cls=NumpyArrayEncoder)
+
+    model_classification_report = classification_report(y_test, y_pred)
+
+    modelObject = [{
+        "Name":"Prediction",
+        "Value": results.Prediction,     
+    },
+    {
+        "Name":"Actuals",
+        "Value": results.Actual,     
+    },
+    {
+        "Name":"Accuracy Score",
+        "Value": model_accuracy_score,     
+    },
+    {
+        "Name":"Confusion Matrix",
+        "Value": encodedNumpyData,     
+    },
+    {
+        "Name":"Classification Report",
+        "Value": json.dumps(model_classification_report), 
+    }
+    ]
+
+    modelRan= True
+    return render(request, "runmodel.html",{"modelObject": modelObject})
+
+
+
+class NumpyArrayEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        elif isinstance(obj, np.floating):
+            return float(obj)
+        elif isinstance(obj, np.ndarray):
+            return obj.tolist()
+        else:
+            return super(NumpyArrayEncoder, self).default(obj)
+
+
 
