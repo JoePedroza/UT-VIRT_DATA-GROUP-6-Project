@@ -17,6 +17,7 @@ from imblearn.under_sampling import RandomUnderSampler
 from imblearn.over_sampling import SMOTE
 from imblearn.combine import SMOTEENN
 from imblearn.under_sampling import ClusterCentroids
+from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
@@ -50,7 +51,7 @@ def dashboard(request):
 
 def getdata(request): 
     stateSelected= request.POST.get('stateDropdown')
-    modelTypes= ['Cluster Centroids','Linear Regression','Logistic Regression','Naive Random Oversampling','Random Undersampling','SMOTE Oversampling','SMOTEENN']
+    modelTypes= ['Cluster Centroids','Linear Regression','Logistic Regression','Naive Random Oversampling','Random Undersampling']
     stateurljson = "https://api.covidactnow.org/v2/county/" + stateSelected+ ".json?apiKey=" + can_key
     stateurlcsv = "https://api.covidactnow.org/v2/county/" + stateSelected + ".csv?apiKey=" + can_key
     stateepa = list_epa_by_state(stateSelected)
@@ -187,6 +188,12 @@ def runmodel(request,stateSelected):
     #minmax.fit(X)
     #X_minmax = minmax.transform(X)
 
+    scaler = StandardScaler()
+    scaled_data = scaler.fit_transform(X)
+    X_train, X_test, y_train, y_test = train_test_split(scaled_data, y, random_state=1)
+    X_train.shape
+
+
     #X_train, X_test, y_train, y_test = train_test_split(X_minmax, y, random_state=1)
     #X_train.shape
 
@@ -195,8 +202,7 @@ def runmodel(request,stateSelected):
         model.fit(X, y)
         y_pred = model.predict(X)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y}).reset_index(drop=True)   
-    elif modelSelected == 'Logistic Regression':
-        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
+    elif modelSelected == 'Logistic Regression': 
         model = LogisticRegression(solver='lbfgs', random_state=1)
         model.fit(X_train, y_train)
         y_pred = model.predict(X_test)
@@ -209,7 +215,6 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'Naive Random Oversampling':
-        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         ros = RandomOverSampler(random_state=1)
         X_resampled, y_resampled = ros.fit_resample(X_train, y_train)
         model = LogisticRegression(solver='lbfgs', random_state=1)
@@ -217,7 +222,6 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'Random Undersampling':
-        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         ros = RandomUnderSampler(random_state=1)
         X_resampled, y_resampled = ros.fit_resample(X_train, y_train)
         model = LogisticRegression(solver='lbfgs', random_state=1)
@@ -225,14 +229,12 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)    
     elif modelSelected == 'SMOTE Oversampling':
-        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
-        X_resampled, y_resampled = SMOTE(random_state=1, ratio=1.0).fit_resample(X_train, y_train)
+        X_resampled, y_resampled = SMOTE(random_state=1).fit_resample(X_train, y_train)
         model = LogisticRegression(solver='lbfgs', random_state=1)
         model.fit(X_resampled, y_resampled)
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'SMOTEENN':
-        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         smote_enn = SMOTEENN(random_state=0)
         X_resampled, y_resampled = smote_enn.fit_resample(X, y)
         model = LogisticRegression(solver='lbfgs', random_state=1)
@@ -243,36 +245,48 @@ def runmodel(request,stateSelected):
         print("No model selected")
         
 
-    model_accuracy_score = accuracy_score(y_test, y_pred)
+    if modelSelected != 'Linear Regression':
+        model_accuracy_score = accuracy_score(y_test, y_pred)
 
-    model_confusion_matrix =confusion_matrix(y_test, y_pred)
+        model_confusion_matrix =confusion_matrix(y_test, y_pred)
 
-    # Encode NumPy type correctly into JSOn
-    encodedNumpyData = json.dumps(model_confusion_matrix, cls=NumpyArrayEncoder)
+        # Encode NumPy type correctly into JSOn
+        encodedNumpyData = json.dumps(model_confusion_matrix, cls=NumpyArrayEncoder)
 
-    model_classification_report = classification_report(y_test, y_pred)
+        model_classification_report = classification_report(y_test, y_pred)
 
-    modelObject = [{
-        "Name":"Prediction",
-        "Value": results.Prediction,     
-    },
-    {
-        "Name":"Actuals",
-        "Value": results.Actual,     
-    },
-    {
-        "Name":"Accuracy Score",
-        "Value": model_accuracy_score,     
-    },
-    {
-        "Name":"Confusion Matrix",
-        "Value": encodedNumpyData,     
-    },
-    {
-        "Name":"Classification Report",
-        "Value": json.dumps(model_classification_report), 
-    }
-    ]
+        modelObject = [{
+            "Name":"Prediction",
+            "Value": results.Prediction,     
+        },
+        {
+            "Name":"Actuals",
+            "Value": results.Actual,     
+        },
+        {
+            "Name":"Accuracy Score",
+            "Value": model_accuracy_score,     
+        },
+        {
+            "Name":"Confusion Matrix",
+            "Value": encodedNumpyData,     
+        },
+        {
+            "Name":"Classification Report",
+            "Value": json.dumps(model_classification_report), 
+        }
+        ]
+
+    else :
+        modelObject = [{
+            "Name":"Coefficient",
+            "Value": model.coef_
+        },
+        {
+            "Name":"Intercept",
+            "Value": model.intercept_
+        }
+        ]
 
     modelRan= True
     return render(request, "runmodel.html",{"modelObject": modelObject})
