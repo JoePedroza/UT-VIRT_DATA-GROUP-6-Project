@@ -94,14 +94,3 @@ or
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
 
-
-
-### Database Design
-
-![](Resources/CovidProjectDatabaseDesign.PNG)
-
-
-### Google Slides
-https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
-
-
