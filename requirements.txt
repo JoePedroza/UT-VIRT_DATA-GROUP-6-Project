@@ -3,3 +3,10 @@ Werkzeug==1.0.1
 django
 gunicorn
 django-heroku
+fsspec
+pandas
+requests
+sklearn
+imblearn
+matplotlib
+imbalanced-learn

@@ -6,24 +6,38 @@
 <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <style type="text/css">
   .jumbotron {
-      background: #532f8c;
+      background: #352f8c;
       color: white;
-      padding-bottom: 80px
+      padding-bottom: 80px;
+      width: 100%;
   }
   .jumbotron .btn-primary {
-      background: #845ac7;
-      border-color: #845ac7
+      background: #7197dd;
+      border-color: #cec9e4
+      
   }
   .jumbotron .btn-primary:hover {
-      background: #7646c1
+      background: #190e2b
   }
   .jumbotron p {
       color: #d9ccee;
-      max-width: 75%;
+      max-width: 90%;
       margin: 1em auto 2em
   }
   .navbar+.jumbotron {
       margin-top: -20px
+  }
+  .container-fluid{
+    padding: 30px !important;
+    }
+  .section.parallax-bg-1{
+    background-size: cover;
+  }
+  .container-header{
+    background: #3eaeca;
+  }
+  .container-footer{
+    background: #3eaeca;
   }
   .jumbotron .lang-logo {
       display: block;
@@ -37,6 +51,13 @@
   }
   .jumbotron .lang-logo img {
       max-width: 100%
+  }
+  .dropdown {
+      color:rgb(0, 26, 255);
+      border-radius: 10%;
+      width: 200px;
+      height:35px;
+      margin-right:30px;
   }
 
 
@@ -52,20 +73,20 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">Group 6</a>
+            <a class="navbar-brand" href="/">UTA-VIRT-DATA-PT-12-2020-U-B-MW Group 6 Project</a>
         </div>
 
         <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
             <li><a href="/">Home</a></li>
-            <li><a href="/public/">Public</a></li>         
+            <li><a href="/dashboard/">Dashboard</a></li>         
         </ul>
         </div>                 
     </div>
-    </nav>
+</nav>
 
 
-<div class="container">
+<div class="container-fluid">
   
   <h1>{% block page_title %}{% endblock %}</h1>
   
@@ -74,9 +95,9 @@
 </div>
 
 
-<div class='container'>
+<div>
 <hr>
-Developed by <a href='https://github.com/wahib453/UT-VIRT-DATA-Group-6-Project'>UT-VIRT-DATA-Group-6-Project</a>
+Developed by <a href='https://github.com/JoePedroza/covid-project-ut'>UTA-VIRT-DATA-PT-12-2020-U-B-MW Group 6 Project</a>
 </div>
 
 
