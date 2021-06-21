@@ -1,5 +1,12 @@
 # UT-VIRT-DATA-Group-6-Project
 
+## Presentation
+Here is a link to our google slides presentation
+- https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
+
+Also, checkout our dashboard at the following link:
+https://ut-covid-project.herokuapp.com/
+
 ## Project Background: Particulate Matter and COVID-19 Outcomes
 
 Air pollution is a major public health concern due to its negative impact on individual and population health. A major component of air pollution is particulate matter (PM), which is the solid and liquid particles suspended in air. PM can enter the body through various route depending on the size, shape, and concentration. However, the most common route is inhalation, which negatively affect areas of the respiratory, cardiovascular, cardiopulmonary, and reproductive systems.
@@ -40,13 +47,6 @@ The basic procedure for implementing a supervised learning model is as follows:
 Our model will use logistic regression to predict a binary outcome. Our logistic regression model will be able to decide - based on county level data - whether higher concentrations of PM 2.5 are associated with COVID-19 outcomes. We use Matplotlib and Pandas libraries. We use sklearn to split the datasets into training and test sets. We then make predictions and test accurary
 
 The rationale behind the use of this model - rather than a different model - is that a logistic regression model predicts binary outcomes. In essense, we're creating a threshold. Everyone below this threshold is classified as low exposure to particulate matter. Everyone above is classified as high exposure. From a clinical perspective, everyone is exposed to some amount of particulate matter, but a low level may not have a health impact. Only those who are exposed high concentrations - above the threshold are at high risk. And, consequently, this model is a good choice.
-
-## Presentation
-Here is a link to our google slides presentation
-- https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
-
-Also, checkout our dashboard at the following link:
-https://ut-covid-project.herokuapp.com/
 
 
 ### Description of the tool(s) that will be used to create final dashboard
