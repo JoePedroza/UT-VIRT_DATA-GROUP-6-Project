@@ -183,19 +183,20 @@ def runmodel(request,stateSelected):
     X = covid_df.drop([df.columns[0],df.columns[1],df.columns[2],df.columns[3],df.columns[9]],axis=1)
 
     #### min-max scaler
-    minmax = preprocessing.MinMaxScaler()
-    minmax.fit(X)
-    X_minmax = minmax.transform(X)
+    #minmax = preprocessing.MinMaxScaler()
+    #minmax.fit(X)
+    #X_minmax = minmax.transform(X)
 
-    X_train, X_test, y_train, y_test = train_test_split(X_minmax, y, random_state=1)
-    X_train.shape
+    #X_train, X_test, y_train, y_test = train_test_split(X_minmax, y, random_state=1)
+    #X_train.shape
 
     if modelSelected == 'Linear Regression':
         model = LinearRegression()
-        model.fit(X_train, y_train)
-        y_pred = model.predict(X_test)
-        results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)   
+        model.fit(X, y)
+        y_pred = model.predict(X)
+        results = pd.DataFrame({"Prediction": y_pred,"Actual": y}).reset_index(drop=True)   
     elif modelSelected == 'Logistic Regression':
+        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         model = LogisticRegression(solver='lbfgs', random_state=1)
         model.fit(X_train, y_train)
         y_pred = model.predict(X_test)
@@ -208,6 +209,7 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'Naive Random Oversampling':
+        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         ros = RandomOverSampler(random_state=1)
         X_resampled, y_resampled = ros.fit_resample(X_train, y_train)
         model = LogisticRegression(solver='lbfgs', random_state=1)
@@ -215,6 +217,7 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'Random Undersampling':
+        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         ros = RandomUnderSampler(random_state=1)
         X_resampled, y_resampled = ros.fit_resample(X_train, y_train)
         model = LogisticRegression(solver='lbfgs', random_state=1)
@@ -222,12 +225,14 @@ def runmodel(request,stateSelected):
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)    
     elif modelSelected == 'SMOTE Oversampling':
+        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         X_resampled, y_resampled = SMOTE(random_state=1, ratio=1.0).fit_resample(X_train, y_train)
         model = LogisticRegression(solver='lbfgs', random_state=1)
         model.fit(X_resampled, y_resampled)
         y_pred = model.predict(X_test)
         results = pd.DataFrame({"Prediction": y_pred,"Actual": y_test}).reset_index(drop=True)
     elif modelSelected == 'SMOTEENN':
+        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
         smote_enn = SMOTEENN(random_state=0)
         X_resampled, y_resampled = smote_enn.fit_resample(X, y)
         model = LogisticRegression(solver='lbfgs', random_state=1)
