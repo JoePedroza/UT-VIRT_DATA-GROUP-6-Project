@@ -37,7 +37,9 @@ The basic procedure for implementing a supervised learning model is as follows:
 - Make predictions with model.predict().
 - Validate the model with accuracy_score().
 
-Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
+Our model will use logistic regression to predict a binary outcome. Our logistic regression model will be able to decide - based on county level data - whether higher concentrations of PM 2.5 are associated with COVID-19 outcomes. We use Matplotlib and Pandas libraries. We use sklearn to split the datasets into training and test sets. We then make predictions and test accurary
+
+The rationale behind the use of this model - rather than a different model - is that a logistic regression model predicts binary outcomes. In essense, we're creating a threshold. Everyone below this threshold is classified as low exposure to particulate matter. Everyone above is classified as high exposure. From a clinical perspective, everyone is exposed to some amount of particulate matter, but a low level may not have a health impact. Only those who are exposed high concentrations - above the threshold are at high risk. And, consequently, this model is a good choice.
 
 ## Presentation
 Here is a link to our google slides presentation
