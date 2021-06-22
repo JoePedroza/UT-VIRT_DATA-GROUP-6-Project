@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+{% load static %}
+{% block page_title %}Model Results{% endblock %}
+{% block body %}
+<div class="jumbotron text-center">    
+    <div class="jumbotron text-center">
+        <table border=1 class="jumbotron">
+            {% for model in modelObject %}
+        
+            <tr> 
+               <th> {{ model.Name }} </th>
+               <td> {{ model.Value}} </td>
+            </tr>
+        
+            {% endfor %}
+         </table>
+         </div>
+</div>
+</div>
+{% endblock %}
